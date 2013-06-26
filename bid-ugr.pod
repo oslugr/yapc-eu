@@ -80,10 +80,10 @@ which can accomodate a good amount of hungry students. There are 250
 sitting places, but buffer-style eating with sitting space outside the
 cafeteria, including common areas and classes, can also be
 arranged. The school cafeteria can provide the food itself for a good
-price (from 17€ a sitting, served menu to less if it's standing around
+price (from 17E<euro> a sitting, served menu to less if it's standing around
 tables).
 
-Cheap beer-and tapas can be had around the school for 2€ beer + tapa
+Cheap beer-and tapas can be had around the school for 2E<euro> beer + tapa
 of choice, 4 beers (or non-alcoholic drinks) are enough for any hungry
 monger.
 
@@ -188,7 +188,7 @@ institutional (meaning university, as belonging to the
 University of Granada) event. This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 10K€. We will also apply to local
+We are talking of a ballpark of 10KE<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The free software office will absorb any deficit (or, for
 that matter, surplus) if there is one.
