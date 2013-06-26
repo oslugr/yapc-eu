@@ -5,20 +5,21 @@
 
 =head2  University of Granada proposal for YAPC::EU 2014
 
-The Free Software Office at the L<University of
-Granada|http://www.ugr.es>, with the support of Madrid.pm and
+The Free Software Office at the
+L<University of Granada|http://www.ugr.es>,
+with the support of Madrid.pm and
 Barcelona.pm presents this bid for YAPC::EU 2014.
 
 =head3 Organizers
 
-The L<OSL (Free Software Offfice)|http://osl.ugr.es> is led by L<JJ
-Merelo|http://search.cpan.org/~jmerelo/>, with a longtime Perl
+The L<OSL (Free Software Office)|http://osl.ugr.es> is led by
+L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a longtime Perl
 experience, founder of the mainly course-oriented Granada.pm (which
 organizes virtual courses of L<basic Perl|http://cevug.ugr.es/perl>
-and L<intermediate Perl| http://cevug.ugr.es/perl_avanzado> with a
+and L<intermediate Perl|http://cevug.ugr.es/perl_avanzado> with a
 long history and more than a dozen editions. Merelo has attended, and
 made presentations, at the YAPC::EU 2002 and 2009 conferences, and
-also attended and presented a paper at the 2013 FOSDEM Perl Devroom.
+also attended and presented a paper at the 2013 FOSDEM Perl devroom.
 
 The OSL will have the support of the two strongest Perl Mongers group
 in the Spanish state, Madrid.pm and Barcelona.pm, who will help with
@@ -59,8 +60,9 @@ will be L<dirosl@ugr.es> (direction of the Free Software office)
 
 =head2 Venue
 
-We will hold it at the most convenient place at the L<University of
-Granada|http://www.ugr.es>, with campus all over the city of Granada
+We will hold it at the most convenient place at the
+L<University of Granada|http://www.ugr.es>,
+with campus all over the city of Granada
 (Spain). Granada includes such beauties as the Alhambra and the most
 beautiful grafittis of all the country.
 
@@ -72,7 +74,7 @@ the rest of the city.
 
 Granada is linked to Madrid, London and Barcelona by regular daily and
 frequent flights and also to Mallorca and to other places (but flight
-frequencies vary often). Málaga is one hour away by car or 2 hours by
+frequencies vary often). ME<aacute>laga is one hour away by car or 2 hours by
 bus and is linked to all major European cities. There are buses and
 trains to Madrid and Seville, but coach is always the best option
 outside the plane.
@@ -97,7 +99,7 @@ Cheap beer-and tapas can be had around the school for 2E<euro> beer + tapa
 of choice, 4 beers (or non-alcoholic drinks) are enough for any hungry
 monger.
 
-=head2 Conference details
+=head2 Conference Details
 
 It's going to be, AFAIK, the southernmost conference, so this has
 going to have nothing to do with the conference itself.
@@ -130,7 +132,7 @@ I remember keenly the promotion at YAPC 2002 where stuff like
 optimization of opcodes was offered. We plan to offer that in Granada,
 maybe including being painted by a local grafitti artist, a trip
 through Granada tunnels, or a tapas crawl through local watering
-holes with local experts (hard to find (really)).
+holes with local experts (hard to find, really).
 
 We'll also look for Perl gurus memorabilia, camel hair underpants, and
 onion jam. Or suchlike.
@@ -150,9 +152,9 @@ We are developing an app for creating a personal schedule, and as in
 past conferences, we'll use whatever people have scheduled
 for creating a preference. Which will be probably for those
 dressed as Star Trek fleet ensigns or anything that is not
-simultaneous to talks by Damian, Brian or Mark.
+simultaneous to talks by Damian, brian or Mark.
 
-=head2 Additional program
+=head2 Additional Program
 
 Granada offers a great amount of options for people from 2 to
 22. Sorry, to 222. We'll organize a tapas crawl in the
@@ -173,7 +175,7 @@ For a boost of visibility (or outing) of the Spanish Perl community,
 we'll also provide courses in several levels in Spanish. Any
 other languages can also be arranged.
 
-=head3 Side trips
+=head3 Side Trips
 
 Anything can be arranged; we will contact a travel agency so that they
 can offer packages for a good price. But the usual thing is:
@@ -182,19 +184,21 @@ can offer packages for a good price. But the usual thing is:
 
 =item *
 
-Alhambra + Generalife
+Alhambra and Generalife.
 
 =item *
 
-Sunset in front of the Alhambra, through the world heritage quarter called Generalife
+Sunset in front of the Alhambra, through the world heritage quarter
+called Generalife.
 
 =item *
 
-Renaissance in Granada: cathedral and other churches and palaces
+Renaissance in Granada: cathedral and other churches and palaces.
 
 =item *
 
-Tapas crawl including fried fish, meat and everything you can include in a little dish.
+Tapas crawl including fried fish, meat and everything you can include
+in a little dish.
 
 =back
 
@@ -208,7 +212,7 @@ leeway to give a better attendees dinner.
 
 We are talking of a ballpark of 10KE<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
-cost. The free software office will absorb any deficit (or, for
+cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one.
 
 =head2 Sponsors
@@ -219,7 +223,7 @@ which is supported by major technological companies and
 local institutions.
 
 We have contact with local tech companies will will be willing to help
-with small quantities; we will have no minimum requirement for
+with small amounts; we will have no minimum requirement for
 sponsorship. Companies such as L<Codeko.com|http://codeko.com>
 or L<Blulabs|http://blulabs.es> have supported OSL events in the
 past. We will mainly look for direct support of tchochkes such
@@ -234,7 +238,7 @@ obtained support in the past.
 
 =head2 Summary
 
-=head2 Questions and answers
+=head2 Questions and Answers
 
 
 =cut
