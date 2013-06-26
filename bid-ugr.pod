@@ -226,5 +226,38 @@ We are talking of a ballpark of 10K€. We will also apply to local
 				      that matter, surplus) if there
 				      is one.
 
+=head2 Sponsors
+
+Granada is being pushed as a technological city by consortiums such as
+				      L<On Granada Tech
+				      City|http://www.ongranada.com/>
+				      which is supported by major
+				      technological companies and
+				      local institutions. 
+
+We have contact with local tech companies will will be willing to help
+				      with small quantities; we will
+				      have no minimum requirement for
+				      sponsorship. Companies such as
+				      L<Codeko.com|http://codeko.com>
+				      or L<Blulabs|http://blulabs.es>
+				      have supported OSL events in the
+				      past. We will mainly look for
+				      direct support of tchochkes such
+				      as t-shirts or bags. 
+
+Support will also be requested from institutions of all kinds. Being
+				      the economy of Spain in the
+				      shape that it is, we don't
+				      expect much from that, but we
+				      will do it anyways and have
+				      obtained support in the past.
+
+=head2 About Granada
+
+=head2 Summary
+
+=head2 Questions and answers
+
 
 =cut
