@@ -74,6 +74,7 @@ several buses. Depending on the date, student residences might also be
 available (July is the best date for that, since usual guests will be
 on holiday).
 
+
 =head3 Catering
 
 The school has a relatively large cafeteria and a university mensa,
@@ -109,6 +110,11 @@ conference, while early September would be a little more problematic
 				      there's such a thing in
 Granada).
 
+=head3 Theme
 
+We propose I<The art of Perl> as a theme for this conference. Perl
+poetry has been all but forgotten, and, besides, the Fine Arts school
+is close to the Computer Science school, so we might even attract some
+of those free spirits to our conference. 
 
 =cut
