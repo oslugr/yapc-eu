@@ -122,6 +122,88 @@ of those free spirits to our conference.
 We will host it at the OSL servers, using Act! or other Perl toolkit
 for creating websites. No PHP. I promise.
 
+=head2 Auction
 
+I remember keenly the promotion at YAPC 2002 where stuff like
+optimization of opcodes was offered. We plan to offer that in Granada,
+maybe including being painted by a local grafitti artist, a trip
+through Granada tunnels, or a tapas crawl through local watering
+holes with local experts (hard to find (really)). 
+
+We'll also look for Perl gurus memorabilia, camel hair underpants, and
+				      onion jam. Or suchlike.
+
+=head2 Promotion
+
+The OSL maintains a presence in social networks (identi.ca, Twitter,
+				      Facebook), and the people in the
+				      organization do have that
+				      too. We would use email, local
+				      free software events (the Libre
+				      Software World Conference is
+				      held yearly in Fall somewhere in
+				      Spain), FOSDEM devrooms, and a
+				      sandwich man walking around
+				      unconpicously around PHP and
+				      Python developer conferences. 
+
+=head2 Survey
+
+We are developing an app for creating a personal schedule, and as in
+				      past conferences, we'll use
+				      whatever people have scheduled
+				      for creating a preference. Which
+				      will be probably for those
+				      dressed as Star Trek fleet
+				      ensigns or anything that is not
+				      simultaneous to talks by Damian,
+				      Brian or Mark.
+
+=head2 Additional program
+
+Granada offers a great amount of options for people from 2 to
+				      22. Sorry, to 222. We'll
+				      organize a tapas crawl in the
+				      best watering holes of Granada,
+				      artistic trips through the
+				      grafitti art in Granada
+				      streets. And, yes, also Alhambra
+				      and all those things. We'll also
+				      organize courses for those
+				      interested and beginning courses
+				      in Spanish.
+
+=head3 Courses
+
+No innovation here. We'll provide space during or preferably before
+				      the conference so that people
+				      that want to give tutorial or
+				      courses can pay trip expenses
+				      giving them. The organization
+				      will only collect a racket,
+				      sorry, a cut for, you know,
+				      protection.
+
+For a boost of visibility (or outing) of the Spanish Perl community,
+				      we'll also provide courses in
+				      several levels in Spanish. Any
+				      other languages can also be
+				      arranged.
+
+=head3 Side trips
+
+Anything can be arranged; we will contact a travel agency so that they
+				      can offer packages for a good
+				      price. But the usual thing is:
+=over 4
+
+=item Alhambra + Generalife
+=item Sunset in front of the Alhambra, through the world heritage
+				      quarter called Generalife
+=item Renaissance in Granada: cathedral and other churches and palaces
+=item Tapas crawl including fried fish, meat and everything you can
+				      include in a little dish.
+
+=back
 
 =cut
