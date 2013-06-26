@@ -1,0 +1,27 @@
+=pod
+
+    =head1 University of Granada proposal for YAPC::EU 2014
+
+
+=head2  University of Granada proposal for YAPC::EU 2014
+
+The Free Software Office at the L<University of
+Granada|http://www.ugr.es>, with the support of Madrid.pm and
+Barcelona.pm presents this bid for YAPC::EU 2014.
+
+=head3 Organizers
+
+ The L<OSL (Free Software Offfice)|http://osl.ugr.es> is led by L<JJ
+ Merelo|http://search.cpan.org/~jmerelo/>, with a longtime Perl
+ experience, founder of the mainly course-oriented Granada.pm (which
+ organizes virtual courses of L<basic Perl|http://cevug.ugr.es/perl>
+ and L<intermediate Perl| http://cevug.ugr.es/perl_avanzado> with a
+ long history and more than a dozen editions. Merelo has attended, and
+ made presentations, at the YAPC::EU 2002 and 2009 conferences, and
+ also attended and presented a paper at the 2013 FOSDEM Perl Devroom.
+
+ The OSL will have the support of the two strongest Perl Mongers group
+ in the Spanish state, Madrid.pm and Barcelona.pm, who will help with
+ anything that is not quintessentially local. 
+
+=cut
