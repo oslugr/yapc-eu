@@ -62,4 +62,20 @@ We have pre-acceptance for holding it at the
     a multi-room conference and is, anyways, well communicated with
     the rest of the city.
 
+=head3 Catering
+
+The school has a relatively large cafeteria and a university mensa,
+which can accomodate a good amount of hungry students. There are 250
+sitting places, but buffer-style eating with sitting space outside the
+cafeteria, including common areas and classes, can also be
+arranged. The school cafeteria can provide the food itself for a good
+price (from 17€ a sitting, served menu to less if it's standing around
+tables).
+
+Cheap beer-and tapas can be had around the school for 2€ beer + tapa
+of choice, 4 beers (or non-alcoholic drinks) are enough for any hungry
+monger. 
+
+
+
 =cut
