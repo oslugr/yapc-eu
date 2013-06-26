@@ -22,6 +22,44 @@ Barcelona.pm presents this bid for YAPC::EU 2014.
 
  The OSL will have the support of the two strongest Perl Mongers group
  in the Spanish state, Madrid.pm and Barcelona.pm, who will help with
- anything that is not quintessentially local. 
+ anything that is not quintessentially local.
+
+ The key persons of the proposal would be:
+
+=over 1
+
+=item JJ Merelo, with experience organizing other events such as PPSN
+2002 and ECAL 1995, in the evolutionary algorithm area. Also
+collaboration with other conferences such as CEC 2011 or EvoStar, and
+many events by the OSL, such as NotBarraLibreCamp
+
+=item Members of the Madrid.pm and Barcelona.pm
+
+=item Volunteers and other L<people attached to the
+L<OSL|http://osl.ugr.es/about/quienes-somos/>
+
+=item Additional help from the L<IT delegation of the university of
+Granada|http://detic.ugr.es> and L<Computer Science
+School|http://etsiit.ugr.es>
+
+=back
+
+=head3 Contact
+
+We will setup an address @ugr.es, but for the time being the contact
+will be L<dirosl@ugr.es> (direction of the Free Software office)
+
+=head2 Venue
+
+We will hold it at the most convenient place at the L<University of
+Granada|http://www.ugr.es>, with campus all over the city of Granada
+(Spain). Granada includes such beauties as the Alhambra and the most
+    beautiful grafittis of all the country. 
+
+We have pre-acceptance for holding it at the
+    L<ETSIIT|http://etsiit.ugr.es> Computer Science School, which is
+    in the outskirts of the city but has all the facilities needed for
+    a multi-room conference and is, anyways, well communicated with
+    the rest of the city.
 
 =cut
