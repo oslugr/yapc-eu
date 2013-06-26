@@ -117,4 +117,11 @@ poetry has been all but forgotten, and, besides, the Fine Arts school
 is close to the Computer Science school, so we might even attract some
 of those free spirits to our conference. 
 
+=head2 Website
+
+We will host it at the OSL servers, using Act! or other Perl toolkit
+for creating websites. No PHP. I promise.
+
+
+
 =cut
