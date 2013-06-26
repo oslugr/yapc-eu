@@ -28,17 +28,27 @@ The key persons of the proposal would be:
 
 =over 4
 
-=item JJ Merelo, with experience organizing other events such as PPSN
+=item *
 
+JJ Merelo, with experience organizing other events such as PPSN
 2002 and ECAL 1995, in the evolutionary algorithm area. Also
 collaboration with other conferences such as CEC 2011 or EvoStar, and
 many events by the OSL, such as NotBarraLibreCamp
 
-=item Members of the Madrid.pm and Barcelona.pm
+=item *
 
-=item Volunteers and other people attached to the L<OSL|http://osl.ugr.es/about/quienes-somos/>
+Members of the Madrid.pm and Barcelona.pm
 
-=item Additional help from the L<IT delegation of the university of Granada|http://detic.ugr.es> and L<Computer Science School|http://etsiit.ugr.es>
+=item *
+
+Volunteers and other people attached to the
+L<OSL|http://osl.ugr.es/about/quienes-somos/>
+
+=item *
+
+Additional help from the
+L<IT delegation of the university of Granada|http://detic.ugr.es>
+and L<Computer Science School|http://etsiit.ugr.es>
 
 =back
 
@@ -170,13 +180,21 @@ can offer packages for a good price. But the usual thing is:
 
 =over 4
 
-=item Alhambra + Generalife
+=item *
 
-=item Sunset in front of the Alhambra, through the world heritage quarter called Generalife
+Alhambra + Generalife
 
-=item Renaissance in Granada: cathedral and other churches and palaces
+=item *
 
-=item Tapas crawl including fried fish, meat and everything you can include in a little dish.
+Sunset in front of the Alhambra, through the world heritage quarter called Generalife
+
+=item *
+
+Renaissance in Granada: cathedral and other churches and palaces
+
+=item *
+
+Tapas crawl including fried fish, meat and everything you can include in a little dish.
 
 =back
 
