@@ -11,7 +11,7 @@
 
 #   MakeMaker Parameters:
 
-#     ABSTRACT_FROM => q[YAPC/Europe/UGR.pod]
+#     ABSTRACT_FROM => q[lib/YAPC/Europe/UGR.pod]
 #     AUTHOR => [q[UGR+ Barcelona.pm + Barcelona.pm]]
 #     BUILD_REQUIRES => {  }
 #     CONFIGURE_REQUIRES => {  }
@@ -19,7 +19,7 @@
 #     PL_FILES => {  }
 #     PREREQ_PM => { Test::More=>q[0], version=>q[0], Test::Pod=>q[0] }
 #     TEST_REQUIRES => {  }
-#     VERSION_FROM => q[YAPC/Europe/UGR.pod]
+#     VERSION_FROM => q[lib/YAPC/Europe/UGR.pod]
 #     clean => { FILES=>q[YAPC-Europe-UGR*] }
 #     dist => { COMPRESS=>q[gzip -9f], SUFFIX=>q[gz] }
 
@@ -152,7 +152,7 @@ FULLEXT = YAPC/Europe/UGR
 BASEEXT = UGR
 PARENT_NAME = YAPC::Europe
 DLBASE = $(BASEEXT)
-VERSION_FROM = YAPC/Europe/UGR.pod
+VERSION_FROM = lib/YAPC/Europe/UGR.pod
 OBJECT = 
 LDFROM = $(OBJECT)
 LINKTYPE = dynamic
@@ -164,7 +164,7 @@ C_FILES  =
 O_FILES  = 
 H_FILES  = 
 MAN1PODS = 
-MAN3PODS = 
+MAN3PODS = lib/YAPC/Europe/UGR.pod
 
 # Where is the Config information that we are using/depend on
 CONFIGDEP = $(PERL_ARCHLIB)$(DFSEP)Config.pm $(PERL_INC)$(DFSEP)config.h
@@ -186,9 +186,10 @@ PERL_ARCHIVE       =
 PERL_ARCHIVE_AFTER = 
 
 
-TO_INST_PM = 
+TO_INST_PM = lib/YAPC/Europe/UGR.pod
 
-PM_TO_BLIB = 
+PM_TO_BLIB = lib/YAPC/Europe/UGR.pod \
+	blib/lib/YAPC/Europe/UGR.pod
 
 
 # --- MakeMaker platform_constants section:
@@ -409,8 +410,10 @@ POD2MAN_EXE = $(PERLRUN) "-MExtUtils::Command::MM" -e pod2man "--"
 POD2MAN = $(POD2MAN_EXE)
 
 
-manifypods : pure_all 
-	$(NOECHO) $(NOOP)
+manifypods : pure_all  \
+	lib/YAPC/Europe/UGR.pod
+	$(NOECHO) $(POD2MAN) --section=3 --perm_rw=$(PERM_RW) \
+	  lib/YAPC/Europe/UGR.pod $(INST_MAN3DIR)/YAPC::Europe::UGR.$(MAN3EXT) 
 
 
 
@@ -476,7 +479,7 @@ realclean purge ::  clean realclean_subdirs
 metafile : create_distdir
 	$(NOECHO) $(ECHO) Generating META.yml
 	$(NOECHO) $(ECHO) '---' > META_new.yml
-	$(NOECHO) $(ECHO) 'abstract: unknown' >> META_new.yml
+	$(NOECHO) $(ECHO) 'abstract: '\''University of Granada proposal for YAPC::EU 2014'\''' >> META_new.yml
 	$(NOECHO) $(ECHO) 'author:' >> META_new.yml
 	$(NOECHO) $(ECHO) '  - '\''UGR+ Barcelona.pm + Barcelona.pm'\''' >> META_new.yml
 	$(NOECHO) $(ECHO) 'build_requires:' >> META_new.yml
@@ -502,7 +505,7 @@ metafile : create_distdir
 	-$(NOECHO) $(MV) META_new.yml $(DISTVNAME)/META.yml
 	$(NOECHO) $(ECHO) Generating META.json
 	$(NOECHO) $(ECHO) '{' > META_new.json
-	$(NOECHO) $(ECHO) '   "abstract" : "unknown",' >> META_new.json
+	$(NOECHO) $(ECHO) '   "abstract" : "University of Granada proposal for YAPC::EU 2014",' >> META_new.json
 	$(NOECHO) $(ECHO) '   "author" : [' >> META_new.json
 	$(NOECHO) $(ECHO) '      "UGR+ Barcelona.pm + Barcelona.pm"' >> META_new.json
 	$(NOECHO) $(ECHO) '   ],' >> META_new.json
@@ -839,7 +842,7 @@ testdb_static :: testdb_dynamic
 # Creates a PPD (Perl Package Description) for a binary distribution.
 ppd :
 	$(NOECHO) $(ECHO) '<SOFTPKG NAME="$(DISTNAME)" VERSION="$(VERSION)">' > $(DISTNAME).ppd
-	$(NOECHO) $(ECHO) '    <ABSTRACT></ABSTRACT>' >> $(DISTNAME).ppd
+	$(NOECHO) $(ECHO) '    <ABSTRACT>University of Granada proposal for YAPC::EU 2014</ABSTRACT>' >> $(DISTNAME).ppd
 	$(NOECHO) $(ECHO) '    <AUTHOR>UGR+ Barcelona.pm + Barcelona.pm</AUTHOR>' >> $(DISTNAME).ppd
 	$(NOECHO) $(ECHO) '    <IMPLEMENTATION>' >> $(DISTNAME).ppd
 	$(NOECHO) $(ECHO) '        <REQUIRE NAME="Test::More" />' >> $(DISTNAME).ppd
@@ -854,6 +857,8 @@ ppd :
 # --- MakeMaker pm_to_blib section:
 
 pm_to_blib : $(FIRST_MAKEFILE) $(TO_INST_PM)
+	$(NOECHO) $(ABSPERLRUN) -MExtUtils::Install -e 'pm_to_blib({@ARGV}, '\''$(INST_LIB)/auto'\'', q[$(PM_FILTER)], '\''$(PERM_DIR)'\'')' -- \
+	  lib/YAPC/Europe/UGR.pod blib/lib/YAPC/Europe/UGR.pod 
 	$(NOECHO) $(TOUCH) pm_to_blib
 
 
