@@ -206,4 +206,25 @@ Anything can be arranged; we will contact a travel agency so that they
 
 =back
 
+=head2 Budget
+
+Now we're talking business. We will stick to the same costs as the
+				      last conference. Venue is free,
+				      since it's organized as an
+				      institutional (meaning
+				      university, as belonging to the
+				      University of Granada)
+				      event. This will leave us some
+				      leeway to give a better
+				      attendees dinner.
+
+We are talking of a ballpark of 10K€. We will also apply to local
+				      science funding agencies and the
+				      university to defray part of the
+				      cost. The free software office
+				      will absorb any deficit (or, for
+				      that matter, surplus) if there
+				      is one.
+
+
 =cut
