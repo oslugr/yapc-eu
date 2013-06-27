@@ -242,6 +242,134 @@ science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one.
 
+=head3 Income
+
+Main income will be levied on attendees. Planned attendance fees are
+							      in the
+							      same
+							      ballpark
+							      as
+							      previous
+							      events:
+=over 4
+=item Guests, Speakers, Orga: 0 EUR
+=item Full-time students: 50 EUR
+=item Early-bird: 80 EUR
+=item Regular price: 110 EUR
+=item Corporate tariff:
+900 EUR
+=back
+
+Final fees have to be announced. We will request any amount from sponsors, and past events have
+							      gathered
+							      around
+							      6000EUR
+							      just
+							      from
+							      local
+							      sponsors. A
+							      minimum
+							      of
+							      1000EUR
+							      can be
+							      expected
+							      from
+							      those
+							      sources.
+
+=head3 Costs
+
+There are several costs per attendee:
+=over 4
+=item T-shirt: 4.5 EUR
+=item Catering: 35 EUR 
+=item Bag: 4 EUR
+=item badge, and other stuff: 2EUR
+=item Attendees dinner: 30EUR
+=back
+
+This is around 75EUR per attendee, fully covered by early-bird fee and
+							      with a
+							      deficit
+							      for
+							      speakers
+							      and
+							      students. This
+							      will be
+							      compensated
+							      with the
+							      superavit
+							      provided
+							      by late
+							      arrivals
+							      and
+							      sponsors. 
+
+The budget will be adjusted mainly by providing less or more
+							      lunches
+							      or
+							      adding a
+							      coffee
+							      break. 
+
+In this scenario the only fixed cost is covering the costs of the 75
+							      speakers
+							      which is
+							      5625
+							      EUR. Realistically,
+							      that
+							      cost can
+							      be
+							      covered
+							      only by
+							      sponsorships. 
+
+If we add the cost of one or two invited speakers at around 2000EUR
+							      per
+							      speaker,
+							      there is
+							      a
+							      deficit
+							      of 9625
+							      EUR . If
+							      sponsorships
+							      are not
+							      reached
+							      (or
+							      corporate-fee
+							      paying,
+							      which
+							      it's not
+							      clear
+							      how many
+							      are
+							      there)
+							      lunches
+							      would be
+							      eliminated,
+							      allowing
+							      us to
+							      basically
+							      have
+							      every
+							      paying
+							      person
+							      cover
+							      the cost
+							      of a
+							      single
+							      speaker. We
+							      would
+							      need as
+							      few as
+							      75
+							      attendees
+							      to cover
+							      the 75
+							      speakers. 
+
+
+ 
 =head2 Sponsors
 
 Granada is being pushed as a technological city by consortiums such as
