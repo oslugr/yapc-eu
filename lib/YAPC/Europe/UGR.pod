@@ -129,10 +129,9 @@ monger.
 
 =head2 Conference Details
 
-It's going to be, AFAIK, the southernmost conference, so this has
-going to have nothing to do with the conference itself.
+It's going to be, AFAIK, the YAPC::EU southernmost conference, so this fact will have to be taken into account in the details of the conference... not. 
 
-=head3 Date
+=head3 Dates
 
 Due to budgetary reasons, the university is locked during August;
 closest we can make it is late July or early September. Late July has
@@ -232,7 +231,7 @@ in a little dish.
 
 =head2 Budget
 
-Now we're talking business. We will stick to the same costs as the
+Now we're talking business. We will stick to the same registration costs as the
 last conference. Venue is free, since it's organized as an
 institutional (meaning university, as belonging to the
 University of Granada) event. This will leave us some
@@ -294,6 +293,10 @@ Some price for return tickets to Granada; these are for next September 2013.
 
 =item London: 246€
 =item Paris: 227€
+=item Rome: 271€
+=item Frankfurt: 364€
+=item Moscow: 505€
+=item Vienna: 326€
 
 =back
 
