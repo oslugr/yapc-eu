@@ -136,7 +136,9 @@ monger.
 
 =head2 Conference Details
 
-It's going to be, AFAIK, the YAPC::EU southernmost conference, so this fact will have to be taken into account in the details of the conference... not. 
+It's going to be, AFAIK, the YAPC::EU southernmost conference, so this
+fact will have to be taken into account in the details of the
+conference... not. 
 
 =head3 Dates
 
@@ -252,12 +254,7 @@ that matter, surplus) if there is one.
 =head3 Income
 
 Main income will be levied on attendees. Planned attendance fees are
-							      in the
-							      same
-							      ballpark
-							      as
-							      previous
-							      events:
+in the same ballpark as previous events:
 
 =over 4
 
@@ -274,22 +271,9 @@ Main income will be levied on attendees. Planned attendance fees are
 
 =back
 
-Final fees have to be announced. We will request any amount from sponsors, and past events have
-							      gathered
-							      around
-							      6000EUR
-							      just
-							      from
-							      local
-							      sponsors. A
-							      minimum
-							      of
-							      1000EUR
-							      can be
-							      expected
-							      from
-							      those
-							      sources.
+Final fees have to be announced.  We will request any amount from
+sponsors, and past events have gathered around 6000EUR just from local
+sponsors. A minimum of 1000EUR can be expected from those sources.
 
 =head3 Costs
 
@@ -309,85 +293,24 @@ There are several costs per attendee:
 
 =back
 
-This is around 75EUR per attendee, fully covered by early-bird fee and
-							      with a
-							      deficit
-							      for
-							      speakers
-							      and
-							      students. This
-							      will be
-							      compensated
-							      with the
-							      surplus
-							      provided
-							      by late
-							      arrivals
-							      and
-							      sponsors.
+This is around 75EUR per attendee, fully covered by early-bird 
+fee and with a deficit for speakers and students. 
+This will be compensated with the surplus provided by late arrivals
+and sponsors. 
 
-The budget will be adjusted mainly by providing less or more
-							      lunches
-							      or
-							      adding a
-							      coffee
-							      break. 
+The budget will be adjusted mainly by providing less or more lunches
+or adding a coffee break.
 
 In this scenario the only fixed cost is covering the costs of the 75
-							      speakers
-							      which is
-							      5625
-							      EUR. Realistically,
-							      that
-							      cost can
-							      be
-							      covered
-							      only by
-							      sponsorships. 
+speakers which is 5625 E<euro>. Realistically, that cost can be
+covered only by sponsorships and company fees.
 
-If we add the cost of one or two invited speakers at around 2000EUR
-							      per
-							      speaker,
-							      there is
-							      a
-							      deficit
-							      of 9625
-							      EUR . If
-							      sponsorships
-							      are not
-							      reached
-							      (or
-							      corporate-fee
-							      paying,
-							      which
-							      it's not
-							      clear
-							      how many
-							      are
-							      there)
-							      lunches
-							      would be
-							      eliminated,
-							      allowing
-							      us to
-							      basically
-							      have
-							      every
-							      paying
-							      person
-							      cover
-							      the cost
-							      of a
-							      single
-							      speaker. We
-							      would
-							      need as
-							      few as
-							      75
-							      attendees
-							      to cover
-							      the 75
-							      speakers. 
+If we add the cost of one or two invited speakers at around 
+2000 E<euro> per speaker, there is a deficit of 9625 E<euro>. 
+If sponsorships are not reached (or corporate-fee paying, which it's
+not clear how many are there) lunches would be eliminated, 
+allowing us to basically have every paying person cover the cost of a
+single speaker. We would need as few as 75 attendees to cover the 75 speakers.
 
 
  
@@ -413,28 +336,12 @@ obtained support in the past.
 =head2 About Granada
 
 Granada is a student city which has been the preferred destination of
-							     Erasmus
-							     students
-							     for a
-							     long
-							     time, and
-							     that
-							     accounts
-							     for
-							     something. It's
-							     a lively
-							     city with
-							     many
-							     services
-							     for
-							     visitors.
+Erasmus students for a long time, and that accounts for something. 
+It's a lively city with many services for visitors.
 
 =head3 Getting here
 
-Granada has an international airport, but easiest way is to transfer
-							     at Madrid
-							     or
-							     Barcelona.
+Granada has an international airport, but easiest way is to transfer at Madrid or Barcelona.
 
 Some price for return tickets to Granada; these are for next September 2013.
 
@@ -456,29 +363,13 @@ Some price for return tickets to Granada; these are for next September 2013.
 
 Most flights are in the 200-500 E<euro> range. 
 
-There are many more options to Malaga, which is a big airport, including low-cost flights, but then you have to take a bus or train
-							     to the
-							     bus
-							     station
-							     and
-							     another
-							     bus (two
-							     hours)
-							     from
-							     there. 
+There are many more options to Malaga, which is a big airport, 
+including low-cost flights, but then you have to take a bus or 
+train to the bus station and another bus (two hours) from there. 
 
-The local bus company provides also a direct bus to Granada from
-							     Madrid
-							     airport,
-							     with two
-							     frequencies
-							     a day and
-							     a low
-							     price. Check
-							     out the
-							     L<ALSA|http://alsa.es>
-							     site for
-							     timetable. 
+The local bus company provides also a direct bus to Granada 
+from Madrid airport, with two frequencies a day and a low price. 
+Check out the L<ALSA|http://alsa.es> site for timetable.
 
 Some sample prices and itineraries:
 
@@ -486,36 +377,14 @@ Some sample prices and itineraries:
 
 =item Malaga Airport - Granada: 1.30h, 10E<euro>, 4 buses a day.
 
-=item Malaga Bus Station-Granada, every hour on the hour (roughly,some
-							      exceptions)
-							      until
+=item Malaga Bus Station-Granada, every hour on the hour 
+(roughly, some exceptions) until
 21:30. There are buses and trains from the airport to the bus station.
 
-=item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), several buses
-							      a day,
-							      roughly
-							      every
-							      hour;
-							      normal
-							      5h and
-							      17.53
-							      E<euro>,
-							      supra
-							      economy
-							      4.5h and
-							      26.81E<euro>
-							      and
-							      supra+
-							      (with
-							      WiFi)
-							      4.5h and
-							      35-87
-							      E<euro>
-							      (only
-							      two of
-							      these
-							      13:30,
-							      19:30)
+=item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), 
+several buses a day, roughly every hour; normal 5h and 17.53 
+E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with WiFi)
+4.5h and 35-87 E<euro> (only two of these 13:30, 19:30).
 
 =item Seville-Granada and back, 41E<euro>, 3h15m. 
 
@@ -527,172 +396,55 @@ Train trips:
 
 =item Madrid - Granada:  4.5h, 62 E<euro>
 
-=item Barcelona - Granada: 12h, 56 E<euro>, really a long trip in
-							      wagon-lit,
-							      but an
-							      inexpensive
-							      option. Barcelona
-							      has
-							      links to
-							      major
-							      European cities.
+=item Barcelona - Granada: 12h, 56 E<euro>, really a long trip 
+in wagon-lit, but an inexpensive option. Barcelona has rail links to
+major European cities. 
 
 =item Seville - Granada: 3h, 22 E<euro>
 
 =back 
 
-There are buses also from Granada airport to the city center, costing
-							      3E<euro>;
-							      taxis
-							      are
-							      roughly
-							      10 times
-							      more
-							      expensive. We
-							      can
-							      organize
-							      taxi
-							      pools if
-							      needed. 
+There are buses also from Granada airport to the city center, 
+costing 3E<euro>; taxis are roughly 10 times more expensive. 
+We can organize taxi pools if needed.
 
 
 
 =head3 Sightseeing
 
-Granada includes the Alhambra and Albayzin, an ensemble that has been
-							      declared
-							      world
-							      heritage
-							      site by
-							      the
-							      UNESCO. That
-							      is only
-							      part of
-							      its
-							      patrimony,
-							      that
-							      includes
-							      also
-							      Renaissance
-							      palaces,
-							      Gothic,
-							      Renaissance
-							      and
-							      Baroque
-							      churches,
-							      and a
-							      rather
-							      unknown
-							      but no
-							      less
-							      beautiful
-							      set of
-							      modernist
-							      buildings.
+Granada includes the Alhambra and Albayzin, an ensemble that has been  declared
+world heritage site by the UNESCO. That is only part of its patrimony,
+that includes also Renaissance palaces, Gothic, Renaissance and
+Baroque churches, and a rather unknown but no less beautiful set of modernist buildings.
 
-Organized or self-organized options are available all year round. The
-							      beach is
-							      70 kms
-							      and a
-							      bus run
-							      away. There
-							      are also
-							      many
-							      opportunities
-							      for
-							      trekking
-							      up in
-							      Sierra
-							      Nevada
-							      or in
-							      the
-							      Alpujarras. 
+Organized or self-organized options are available all year round. 
+The beach is 70 kms and a bus run away. There are also many
+opportunities for trekking up in Sierra Nevada or in the Alpujarras.
 
 =head2 Summary
 
-The bid from the Free Software Office at the University of Granada is
-							      organized
-							      by a
-							      group of
-							      persons
-							      with
-							      experience
-							      in
-							      organizing
-							      events,
-							      some
-							      experience
-							      attending
-							      YAPC::Eu
-							      events
-							      (including,
-							      possibly,
-							      this
-							      next
-							      Kiev
-							      YAPC::Eu),
-							      will
-							      take
-							      place in
-							      an
-							      incredibly
-							      nice
-							      city,
-							      easily
-							      accessible
-							      by
-							      plane,
-							      in a
-							      venue
-							      (the
-							      University
-							      of
-							      Granada)
-							      with all
-							      needed
-							      facilities
-							      and with
-							      support
-							      from
-							      local
-							      university
-							      government,
-							      local
-							      free
-							      software
-							      SMEs and
-							      enthusiastic
-							      Perl
-							      mongers
-							      which,
-							      so far,
-							      have not
-							      seen a
-							      single
-							      YAPC in 
-							      Spain. 
+The bid from the Free Software Office at the University of Granada 
+is organized by a group of persons with experience in organizing
+events, some experience attending YAPC::Eu events (including,
+possibly, this next Kiev YAPC::Eu), will take place in an incredibly
+nice city, easily accessible by plane, in a venue (the University of
+Granada) with all needed facilities and with support from local
+university government, local free software SMEs and enthusiastic Perl
+Mongers which, so far, have not seen a single YAPC in Spain.
 
 =head2 Questions and Answers
 
-While we haven't been asked this by the organization, they were made
-							      to other
-							      proposers,
-							      so here
-							      are the
-							      questions
-							      that
-							      have not
-							      been
-							      answered
-							      before. 
+While we haven't been asked this by the organization, 
+they were made to other proposers, so here are the questions that 
+have not been answered before.
 
 =head3 What's the price of beer?
 
 In the bars around the ETSIIT and in town, average price this year
 (2013) is around 2E<euro>  and that includes the tapa, that is, a small dish
-    with usually warm food. That's the price of a tubo (1/3
+with usually warm food. That's the price of a tubo (1/3
 liter). It's not usual in Spain to have bigger portions; you just
-    order a second one
+order a second one
 
 
 =head3 What's the weather like in July/September?
