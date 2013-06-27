@@ -472,7 +472,7 @@ Some sample prices and itineraries
 							      until
 21:30. There are buses and trains from the airport to the bus station.
 
-=item Madrid (Estación Sur) - Granada : 5 horas (Alsa), several buses
+=item Madrid (Estacion Sur) - Granada : 5 horas (Alsa), several buses
 							      a day,
 							      roughly
 							      every
@@ -493,7 +493,13 @@ Some sample prices and itineraries
 							      35-87
 							      E<euro>
 							      (only
-							      two of these 13:30, 19:30)
+							      two of
+							      these
+							      13:30,
+							      19:30)
+
+=item Seville-Granada and back, 41E<euro>, 3h15m. 
+
 =back
 
 Train trips:
@@ -512,7 +518,7 @@ Train trips:
 							      major
 							      European cities.
 
-=item Sevilla - Granada: 3h, 22 E<euro>
+=item Seville - Granada: 3h, 22 E<euro>
 
 There are buses also from Granada airport to the city center, costing
 							      3E<euro>;
