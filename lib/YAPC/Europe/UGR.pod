@@ -197,7 +197,7 @@ grafitti art in Granada streets. And, yes, also Alhambra
 and all those things. We'll also organize courses for those
 interested and beginning courses in Spanish.
 
-=head3 Courses
+=head3 Courses and tutorials
 
 No innovation here. We'll provide space during or preferably before
 the conference so that people that want to give tutorial or
@@ -460,6 +460,74 @@ The local bus company provides also a direct bus to Granada from
 							     L<ALSA|http://alsa.es>
 							     site for
 							     timetable. 
+
+Some sample prices and itineraries
+
+=over 4
+
+=item Malaga Airport - Granada: 1.30h, 10E<euro>, 4 buses a day.
+
+=item Malaga Bus Station-Granada, every hour on the hour (roughly,some
+							      exceptions)
+							      until
+21:30. There are buses and trains from the airport to the bus station.
+
+=item Madrid (Estación Sur) - Granada : 5 horas (Alsa), several buses
+							      a day,
+							      roughly
+							      every
+							      hour;
+							      normal
+							      5h and
+							      17.53
+							      E<euro>,
+							      supra
+							      economy
+							      4.5h and
+							      26.81E<euro>
+							      and
+							      supra+
+							      (with
+							      WiFi)
+							      4.5h and
+							      35-87
+							      E<euro>
+							      (only
+							      two of these 13:30, 19:30)
+=back
+
+Train trips:
+
+=over 4
+
+=item Madrid - Granada:  4.5h, 62 E<euro>
+
+=item Barcelona - Granada: 12h, 56 E<euro>, really a long trip in
+							      wagon-lit,
+							      but an
+							      unexpensive
+							      option. Barcelona
+							      has
+							      links to
+							      major
+							      European cities.
+
+=item Sevilla - Granada: 3h, 22 E<euro>
+
+There are buses also from Granada airport to the city center, costing
+							      3E<euro>;
+							      taxis
+							      are
+							      roughly
+							      10 times
+							      more
+							      expensive. We
+							      can
+							      organize
+							      taxi
+							      pools if
+							      needed. 
+
 
 =head3 Sightseeing
 
