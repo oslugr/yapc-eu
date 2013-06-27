@@ -47,6 +47,8 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  Inteligence
  JJ
  LIS
+ Lisbon
+ Munich
  Libre
  MUC
  Macia
