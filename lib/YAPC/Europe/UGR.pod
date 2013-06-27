@@ -1,0 +1,502 @@
+package YAPC::Europe::UGR;
+
+use warnings;
+use strict;
+
+use version; our $VERSION = qv('0.0.3');
+
+=pod
+
+=head1 NAME
+
+YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2014
+
+=head1 SYNOPSIS
+
+    use YAPC::Europe::UGR;
+
+    use const YAPC::Europe::2013::venue => UGR;
+
+
+=head1 DESCRIPTION
+
+ This module describes the bid by the L<Free Software Office at the
+ University of Granada |http://osl.ugr.es> aided by Barcelona.pm and
+ Madrid.pm to host YAPC::EU 2014.  
+
+=head2  University of Granada proposal for YAPC::EU 2014
+
+The Free Software Office at the
+L<University of Granada|http://www.ugr.es>,
+with the support of Madrid.pm and
+Barcelona.pm presents this bid for YAPC::EU 2014.
+
+=head3 Organizers
+
+The L<OSL (Free Software Office)|http://osl.ugr.es> is led by
+L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a longtime Perl
+experience, founder of the mainly course-oriented Granada.pm (which
+organizes virtual courses of L<basic Perl|http://cevug.ugr.es/perl>
+and L<intermediate Perl|http://cevug.ugr.es/perl_avanzado> with a
+long history and more than a dozen editions. Merelo has attended, and
+made presentations, at the YAPC::EU 2002 and 2009 conferences, and
+also attended and presented a paper at the 2013 FOSDEM Perl devroom.
+
+The OSL will have the support of the two strongest Perl Mongers group
+in the Spanish state, Madrid.pm and Barcelona.pm, who will help with
+anything that is not quintessentially local.
+
+The key persons of the proposal would be:
+
+=over 4
+
+=item *
+
+JJ Merelo, with experience organizing other events such as PPSN
+2002 and ECAL 1995, in the evolutionary algorithm area. Also
+collaboration with other conferences such as CEC 2011 or EvoStar, and
+many events by the OSL, such as NotBarraLibreCamp
+
+=item *
+
+Antonio Mora was the local organizer for the L<Computational
+    Inteligence in Games conference|
+    http://geneura.ugr.es/cig2012/accommodation.html> and is currently
+    a postdoc at the university of Granada. 
+
+=item *
+
+Members of the Madrid.pm and Barcelona.pm
+
+=item *
+
+Volunteers and other people attached to the
+L<OSL|http://osl.ugr.es/about/quienes-somos/>
+
+=item *
+
+Additional help from the
+L<IT delegation of the university of Granada|http://detic.ugr.es>
+and L<Computer Science School|http://etsiit.ugr.es>
+
+=back
+
+=head3 Contact
+
+We will setup an address @ugr.es, but for the time being the contact
+will be L<dirosl@ugr.es> (direction of the Free Software office)
+
+=head2 Venue
+
+We will hold it at the most convenient place at the
+L<University of Granada|http://www.ugr.es>,
+with campus all over the city of Granada
+(Spain). Granada includes such beauties as the Alhambra and the most
+beautiful grafittis of all the country.
+
+We have pre-acceptance for holding it at the
+L<ETSIIT|http://etsiit.ugr.es> Computer Science School, which is
+in the outskirts of the city but has all the facilities needed for
+a multi-room conference and is, anyways, well communicated with
+the rest of the city.
+
+Granada is linked to Madrid, London and Barcelona by regular daily and
+frequent flights and also to Mallorca and to other places (but flight
+frequencies vary often). ME<aacute>laga is one hour away by car or 2 hours by
+bus and is linked to all major European cities. There are buses and
+trains to Madrid and Seville, but coach is always the best option
+outside the plane.
+
+The ETSIIT is linked to the city center (with many lodging options) by
+several buses. Depending on the date, student residences might also be
+available (July is the best date for that, since usual guests will be
+on holiday).
+
+
+=head3 Catering
+
+The school has a relatively large cafeteria and a university mensa,
+which can accomodate a good amount of hungry students. There are 250
+sitting places, but buffer-style eating with sitting space outside the
+cafeteria, including common areas and classes, can also be
+arranged. The school cafeteria can provide the food itself for a good
+price (from 17E<euro> a sitting, served menu to less if it's standing around
+tables).
+
+Cheap beer-and tapas can be had around the school for 2E<euro> beer + tapa
+of choice, 4 beers (or non-alcoholic drinks) are enough for any hungry
+monger.
+
+=head2 Conference Details
+
+It's going to be, AFAIK, the southernmost conference, so this has
+going to have nothing to do with the conference itself.
+
+=head3 Date
+
+Due to budgetary reasons, the university is locked during August;
+closest we can make it is late July or early September. Late July has
+the advantage of empty classrooms with no problem to schedule the
+conference, while early September would be a little more problematic
+(but no big deal for a 2 or 3 day conference), milder weather (but you
+can still go to the beach) and good choice of accomodations (lower
+touristic season, if there's such a thing in Granada).
+
+=head3 Theme
+
+We propose I<The art of Perl> as a theme for this conference. Perl
+poetry has been all but forgotten, and, besides, the Fine Arts school
+is close to the Computer Science school, so we might even attract some
+of those free spirits to our conference.
+
+=head2 Website
+
+We will host it at the OSL servers, using Act! or other Perl toolkit
+for creating websites. No PHP. I promise.
+
+=head2 Auction
+
+I remember keenly the promotion at YAPC 2002 where stuff like
+optimization of opcodes was offered. We plan to offer that in Granada,
+maybe including being painted by a local grafitti artist, a trip
+through Granada tunnels, or a tapas crawl through local watering
+holes with local experts (hard to find, really).
+
+We'll also look for Perl gurus memorabilia, camel hair underpants, and
+onion jam. Or suchlike.
+
+=head2 Promotion
+
+The OSL maintains a presence in social networks (identi.ca, Twitter,
+Facebook), and the people in the organization do have that too.
+We would use email, local free software events (the Libre
+Software World Conference is held yearly in Fall somewhere in
+Spain), FOSDEM devrooms, and a sandwich man walking around
+unconpicously around PHP and Python developer conferences.
+
+=head2 Survey
+
+We are developing an app for creating a personal schedule, and as in
+past conferences, we'll use whatever people have scheduled
+for creating a preference. Which will be probably for those
+dressed as Star Trek fleet ensigns or anything that is not
+simultaneous to talks by Damian, brian or Mark.
+
+=head2 Additional Program
+
+Granada offers a great amount of options for people from 2 to
+22. Sorry, to 222. We'll organize a tapas crawl in the
+best watering holes of Granada, artistic trips through the
+grafitti art in Granada streets. And, yes, also Alhambra
+and all those things. We'll also organize courses for those
+interested and beginning courses in Spanish.
+
+=head3 Courses
+
+No innovation here. We'll provide space during or preferably before
+the conference so that people that want to give tutorial or
+courses can pay trip expenses giving them. The organization
+will only collect a racket, sorry, a cut for, you know,
+protection.
+
+For a boost of visibility (or outing) of the Spanish Perl community,
+we'll also provide courses in several levels in Spanish. Any
+other languages can also be arranged.
+
+=head3 Side Trips
+
+Anything can be arranged; we will contact a travel agency so that they
+can offer packages for a good price. But the usual thing is:
+
+=over 4
+
+=item *
+
+Alhambra and Generalife.
+
+=item *
+
+Sunset in front of the Alhambra, through the world heritage quarter
+called Generalife.
+
+=item *
+
+Renaissance in Granada: cathedral and other churches and palaces.
+
+=item *
+
+Tapas crawl including fried fish, meat and everything you can include
+in a little dish.
+
+=back
+
+=head2 Budget
+
+Now we're talking business. We will stick to the same costs as the
+last conference. Venue is free, since it's organized as an
+institutional (meaning university, as belonging to the
+University of Granada) event. This will leave us some
+leeway to give a better attendees dinner.
+
+We are talking of a ballpark of 10KE<euro>. We will also apply to local
+science funding agencies and the university to defray part of the
+cost. The Free Software Office will absorb any deficit (or, for
+that matter, surplus) if there is one.
+
+=head2 Sponsors
+
+Granada is being pushed as a technological city by consortiums such as
+L<On Granada Tech City|http://www.ongranada.com/>
+which is supported by major technological companies and
+local institutions.
+
+We have contact with local tech companies will will be willing to help
+with small amounts; we will have no minimum requirement for
+sponsorship. Companies such as L<Codeko.com|http://codeko.com>
+or L<Blulabs|http://blulabs.es> have supported OSL events in the
+past. We will mainly look for direct support of tchochkes such
+as t-shirts or bags.
+
+Support will also be requested from institutions of all kinds. Being
+the economy of Spain in the shape that it is, we don't
+expect much from that, but we will do it anyways and have
+obtained support in the past.
+
+=head2 About Granada
+
+=head2 Summary
+
+=head2 Questions and Answers
+
+=head3 What‘s the price of beer?
+
+In the bars around the ETSIIT and in town, average price this year
+(2013) is around 2€  and that includes the tapa, that is, a small dish
+    with usually warm food. That's the price of a tubo (1/3
+liter). It's not usual in Spain to have bigger portions; you just
+    order a second one
+
+
+=head3 What‘s the weather like in July/September?
+
+It's definitely hot, with maximum that can go up to 40 degrees; it
+goes doen in September, but daily maximum are always over 30º.
+September is milder, anyways.
+
+=head3 Can people get receipts? 
+
+Whether we choose a professional services company to organize
+registration or the university itself, there's no problem with
+    providing receipts. We will see what's the more convenient option
+in term of work needed, but also financially; the University can
+provide VAT-free registration while the external company can not.
+
+=head3 How easy is it for people to navigate the city without speaking
+Spanish?
+
+If you have a good map and can orient yourself, it's pretty easy. In
+    pure geographical terms, Granada is not a difficult place; on the
+    other hand, the Spanish educational system has made sure that very
+    few, if any, speak other than the mother tongue. However, they
+    will speak loudly and kindly to you until they make themselves
+    understood. 
+
+=head3 It would be nice to have more details on accomodation, with a range of the prices that can be
+expected for different levels of accomodation. Can most attendees fit in one hotel? Is
+internet access widely available in accomodations?
+
+This is taken almost verbatim from L<CIG 2012
+    site|http://geneura.ugr.es/cig2012/accommodation.html>, which
+    Antonio Mora organized too. 
+
+ Granada is a city accustomed to a large touristic inflow, so its offers a huge number of accommodation options for all budgets. In addition, due to the number of students living in the city (more than 60000 during the year), there are a big amount of visitors in these ages, so there are several economical lodgings.
+So the city provides dozens of hotels ranging from 5-star to 1-star ones. It must be noted that hotels in Spain (and maybe more in Granada) are usually well priced due to the competition among them. Thus, a 4-star hotel may often be in the 75-100 € range and a 3-star hotel in the 50-75 € range.
+Of course, some fluctuations can happen depending on the particular hotel and the zone where it is, but special packages are also possible, allowing more economic prices.
+
+=head4 Recommended hotels (approximate prices)
+
+=over 4
+
+=item AC Palacio de Santa Paula - 5* (130 € by night)
+The best hotel in the city. Located at the main street (Gran Vía) in the city centre. Well communicated to reach the ETSIIT.
+
+=item Abba - 4* (75 € by night)
+New hotel (less than 2 years old), close to the train station and near
+    the city centre. Well placed to get to the ETSIIT (Avda
+    Constitución). Usually has good offers for University events,
+    including free WiFi and access to the spa, 
+    which we would arrange.
+
+=item Vincci - 4* (80 € by night)
+Well-considered hotel in the city, close to the train station and near the city centre. Well placed to get to the ETSIIT (Avda Constitución).
+
+=item Granada Center - 4* (65 € by night)
+Good hotel, not very expensive and close to a good tapas area (Severo Ochoa street, in front of the Faculty of Sciences).
+
+=item Carmen - 4* (55 € by night)
+Cheap hotel, but with good quality. It is near to the city centre.
+
+=item Macia Gran Via - 3* (50 € by night)
+In the main street and quite cheap.
+
+=item Puerta de las Granadas - 3* (70 € by night)
+Just below the Alhambra. Right in the most tourist area. Only 14 rooms.
+
+=item Juan Miguel - 3* (45 € by night)
+Cheap hotel in the city centre, close to the city hall.
+
+=back
+
+=head4 Student accomodation
+
+As you can check, the prices are quite cheap even in four star hotels,
+    but there are a L<huge amount of guest houses (Pensiones in
+    Spanish) in the
+    city|http://geneura.ugr.es/cig2012/brochures/guest_houses_granada.pdf>. Or
+    if you prefer, there is a Youth hostel (Albergue in Spanish) in
+    the city. During July, student dorms might offer also cheap
+    accomodation; in September it's less likely. There are also two
+    university residences, which are very nice, but not so
+    conveniently located for accessing the ETSIIT. However, they might
+    be used for invited speakers, mainly if we manage to pay them from
+    university budget. 
+
+=head3 Are there any plans to stream or record talks? If so, how will the recordings be made and
+how will authorization be sought?
+
+The assets are there, and it would be possible to record at least one
+    of the tracks. That would be free for the conference, since the
+    OSL is part of the IT dept of the university which includes the
+    virtual department too. The ETSIIT includes also self-recording
+    facilities in some classes, which we could use for some tracks.
+
+=head3 Are any social events planned, other than the partner‘s program?
+
+
+
+
+=head3 Do you have any plans for an associated hackathon?
+
+In the OSL we organize hackatons to the tune of several every year. We
+    would love to organize one and try and attract local talent to
+    Perl. Our experience says that it's better to organize them with
+    at least one day and a half, which we would prefer to do before
+    the conference. The venue could change, since we have contact with
+    local coworking spaces that would provide the site and the
+    connectivity, as well as in some cases free drinks and
+    coffee. They can even be used overnight if needed. 
+
+
+Do you plan to provide anything to speakers? (Such as water, a person to time things and
+keep the schedule on track, etc)
+Each speaker gets water or softdrinks ("all you can drink") during their talks and we will have session
+chairs in each room.
+How many tracks are planned?
+We plan to have three tracks.
+
+=head3 How many days do you expect the event to run, and what days of the week are you
+considering?
+
+The conference will last three days most likely on Monday till Wednesday or Wednesday till Friday.
+
+=head3 What plans do you have concerning special diets for the coffee breaks (and lunch, if
+sponsored)?
+The catering for the coffee breaks will depend on the location. We will most likely be able to offer a
+vegetarian option for the coffee breaks and lunch if sponsored.
+Please give more details about modern the venues are in terms of power plugs. Are there
+many plugs in the rooms, or will you need to run extension cords? Are there places
+outside of the rooms where people can charge equipment?
+The Saalbau Titus is very modern and we can extend the power plug capabilities as far as we need to.
+We‘ve spoken to the Saalbau employees and the told us that they can arrange anything we need. But in
+any case we will provide some extension cords as well.
+Shouldn‘t be a problem at Uni, but no answer yet.
+How accessible are the venues to people in wheelchairs, people with hearing difficulties,
+etc?
+All rooms in Saalbau Titus are accessible with wheelchairs.
+Frankfurt University of course too!
+Will any wired connectivity be offered?
+Yes, in Saalbau Titus wired connectivity is offered.
+Uni see wireless!
+Please tell us more about the wireless network. How many people can it support? Is it part
+of the venue, or will you set it up?
+Titus
+We will buy wireless network for the conference from the German Telekom. It‘s about 500 EUR for
+these 3 days. So there will be Wireless.
+Uni
+University has a high scalable WLAN for all students. 250 guest accounts can be booked for about
+50-150EUR. We got an informal assurance that more accounts are no problem.
+16 July 2011
+7
+Frankfurt.pm bid for hosting YAPC::EU 2012
+pod2pdf
+Is it possible to have a cloakroom? Will there be a staffed help desk?
+We will have a staffed help desk.
+Are there projectors in all rooms?
+Yes
+Will there be provided interfacing connectors (for Macs, for example)?
+We will ask the speakers right before the conference what they need and we will provide the connectors
+- unless it is too esoteric ;-)
+Are microphones available for speakers?
+Yes
+We do plan to make your proposal public. Since it is a PDF document, could you please
+remove any information you don‘t want included and send us a ‘for publication’ copy of
+the proposal?
+You will receive a new PDF version with these Q&A answered ;-)
+Please indicate airline/train ticket prices from some major cities for this August to give an
+indication of transportation costs.
+Frankfurt is a major hub in in the centre of Europe, probably the biggest. Getting there is always easy.
+RIX -> FRA: 170 - 390 EUR
+LON -> FRA: 95 - 180 EUR (train: 98 EUR / 6h+ special offer)
+LIS -> FRA: 304 - 440 EUR
+CPH -> FRA: 185 - 210 EUR
+AMS -> FRA: 175 - 310 EUR (train: 78 EUR / 4h special offer)
+MUC -> FRA: 100 - 130 EUR (train: 58 EUR special offer)
+CDG -> FRA: 135 - 260 EUR (train: 78 EUR special offer)
+BHX -> FRA: 140 - 250 EUR
+More train offers here:
+http://www.bahn.de/p/view/angebot/international/europaspezial/europakarte.shtml
+Are the rooms in your proposed venue flat or auditorium-style (or whatever you would use
+in English to describe an ascending seating) If the rooms have different layouts, please
+tell us which are of which type
+Titusbau: flat style
+Uni: Both styles available, but mostly auditorium (see link further down)
+There are a number of different side activities which are sometimes organized in conjunction
+with Y::E, such as training courses, hackathons, partner‘s program, welcome dinner,
+pub crawl, job fair, auction, and sight seeing trips. Your application mentioned some of
+these. If you have plans to also organize any of the other activities mentioned (or not
+mentioned!) please also tell us about them.
+We will search for various sponsors. In our sponsors packages we will offer booths for a job fair. But we
+don‘t know if the companies are interested in such a job fair.
+We will head into the planning of activities when we know the date of the conference.
+If lunch is not provided, please describe the possibilities for attendees to go out and find
+their own lunch. Take into account that one cafe or restaurant will not be able to feed
+300 people arriving at the same time, and that conditions may differ significantly
+between weekdays (Friday) and weekend days (e.g. Sunday). Also please include the
+expected price range.
+Titus
+The Saalbau Titus is located near a shopping mall with around 15 restaurants/cafes etc. The expected
+price range is from 1 EUR per Cheesburger (McDonald‘s) to ~15 EUR in other restaurants. There are
+restaurants with Mexican, Chinese, Turkish food and many more.
+And there are supermarkets where people can buy other food.
+Uni
+Frankfurt University offers us large and cheap student canteens with a big variety of foods.
+The normal prizes range from 2-9 EUR for individual access.
+8
+16 July 2011
+pod2pdf
+Frankfurt.pm bid for hosting YAPC::EU 2012
+Additionally we could provide our guests with lunch coupons ranging from 4-7 EUR. The restaurant
+would collect them and bill us only for the sold food.
+The third option is to have a separated restaurant / hall and a special menu / buffet for 9-11 EUR per
+person. (has to be booked in advance)
+Saalbau Titus seems to be the choice number 1; however, other things being about equal,
+University of Frankfurt is cheaper and more centrally located; what is the reason for
+prefering Saalbau Titus?
+Our main contact to University is on holidays now, someone else had to step in and checked the details.
+Initially we thought that Titus has a better infrastructure and it‘s more modern!
+As it turns out we just asked for the cheapest, i.e. the old part of University ("Campus Bockenheim").
+But they acquired a pretty new campus with better infrastructure ("Campus Westend"). The prices there
+may vary up to 30% more. But we might be able to apply for a big discount for non-profit organizations.
+
+
+=cut
