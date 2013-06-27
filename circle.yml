@@ -1,3 +1,7 @@
+dependencies:
+  override:
+    - cpanm --installdeps --notest .
+
 test:
     override:
         - perl Makefile.PL && make && make test
