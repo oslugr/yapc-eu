@@ -461,7 +461,7 @@ The local bus company provides also a direct bus to Granada from
 							     site for
 							     timetable. 
 
-Some sample prices and itineraries
+Some sample prices and itineraries:
 
 =over 4
 
@@ -534,6 +534,7 @@ There are buses also from Granada airport to the city center, costing
 							      pools if
 							      needed. 
 
+=back 
 
 =head3 Sightseeing
 
@@ -587,6 +588,68 @@ Organized or self-organized options are available all year round. The
 							      Alpujarras. 
 
 =head2 Summary
+
+The bid from the Free Software Office at the University of Granada is
+							      organized
+							      by a
+							      group of
+							      persons
+							      with
+							      experience
+							      in
+							      organizing
+							      events,
+							      some
+							      experience
+							      attending
+							      YAPC::Eu
+							      events
+							      (including,
+							      possibly,
+							      this
+							      next
+							      Kiev
+							      YAPC::Eu),
+							      will
+							      take
+							      place in
+							      an
+							      incredibly
+							      nice
+							      city,
+							      easily
+							      accessible
+							      by
+							      plane,
+							      in a
+							      venue
+							      (the
+							      University
+							      of
+							      Granada)
+							      with all
+							      needed
+							      facilities
+							      and with
+							      support
+							      from
+							      local
+							      university
+							      government,
+							      local
+							      free
+							      software
+							      SMEs and
+							      enthusiastic
+							      Perl
+							      mongers
+							      which,
+							      so far,
+							      have not
+							      seen a
+							      single
+							      YAPC in 
+							      Spain. 
 
 =head2 Questions and Answers
 
