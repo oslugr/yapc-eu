@@ -264,6 +264,64 @@ obtained support in the past.
 
 =head2 About Granada
 
+Granada is a student city which has been the preferred destination of
+							     Erasmus
+							     students
+							     for a
+							     long
+							     time, and
+							     that
+							     accounts
+							     for
+							     something. It's
+							     a lively
+							     city with
+							     many
+							     services
+							     for
+							     visitors.
+
+=head3 Getting here
+
+Granada has an international airport, but easiest way is to transfer
+							     at Madrid
+							     or
+							     Barcelona.
+
+Some price for return tickets to Granada; these are for next September 2013.
+
+=over 4
+
+=item London: 246€
+=item Paris: 227€
+
+=back
+
+There are many more options to Málaga, but then you have to take a bus
+							     or train
+							     to the
+							     bus
+							     station
+							     and
+							     another
+							     bus (two
+							     hours)
+							     from
+							     there. 
+
+The local bus company provides also a direct bus to Granada from
+							     Madrid
+							     airport,
+							     with two
+							     frequencies
+							     a day and
+							     a low
+							     price. Check
+							     out the
+							     L<ALSA|http://alsa.es>
+							     site for
+							     timetable. 
+
 =head2 Summary
 
 =head2 Questions and Answers
@@ -484,18 +542,6 @@ remove any information you don‘t want included and send us a ‘for publicatio
 the proposal?
 
 It's been developed in GitHub, so everything is open from the get go. 
-
-=head3 Please indicate airline/train ticket prices from some major cities for this August to give an
-indication of transportation costs.
-
-Some price for return tickets to Granada; these are for next September 2013.
-
-=over 4
-
-=item London: 246€
-=item Paris: 227€
-
-=back
 
 
 =head3 Are the rooms in your proposed venue flat or auditorium-style (or whatever you would use
