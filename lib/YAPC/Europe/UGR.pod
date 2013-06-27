@@ -472,7 +472,7 @@ Some sample prices and itineraries
 							      until
 21:30. There are buses and trains from the airport to the bus station.
 
-=item Madrid (Estacion Sur) - Granada : 5 horas (Alsa), several buses
+=item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), several buses
 							      a day,
 							      roughly
 							      every
@@ -511,7 +511,7 @@ Train trips:
 =item Barcelona - Granada: 12h, 56 E<euro>, really a long trip in
 							      wagon-lit,
 							      but an
-							      unexpensive
+							      inexpensive
 							      option. Barcelona
 							      has
 							      links to
