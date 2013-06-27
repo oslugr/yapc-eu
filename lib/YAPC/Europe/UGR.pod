@@ -399,32 +399,56 @@ We will have volunteers (students, GeNeura or OSL people) in every
     volunteer will also take care of time overruns by dancing a
     Spanish jitterbug when the speaker has spent his slot. 
 
-How many tracks are planned?
-We plan to have three tracks.
+=head3 How many tracks are planned?
+
+Difficult to know in advance. Will depend on the number of
+    papers. ETSIIT being a CS school, we can provide for up to 20
+    tracks. Our YAPC::Eu experience dictates that there should be a
+    part of the day with single track (we can call them keynotes) to
+    prevent people giving a presentation at the same time than Damian
+    or MJD to be delivering it to the bleachers.
 
 =head3 How many days do you expect the event to run, and what days of the week are you
 considering?
 
-The conference will last three days most likely on Monday till Wednesday or Wednesday till Friday.
+Wednesday until Friday, with Monday and Tuesday reserved for
+    hackaton. Weekend for social events. 
 
 =head3 What plans do you have concerning special diets for the coffee breaks (and lunch, if
 sponsored)?
-The catering for the coffee breaks will depend on the location. We will most likely be able to offer a
-vegetarian option for the coffee breaks and lunch if sponsored.
-Please give more details about modern the venues are in terms of power plugs. Are there
+
+The ETSIIT can sponsor a single coffee break. Coffee breaks, however,
+    are impersonal and there are excellent cafeterias around the
+    ETSIIT which can give unexpensive and local fare such as garlic olive-oil
+    toast, which no catering can provide and better quality coffee, as
+    well as fresh orange juice. 
+
+We will look for sponsors in any case, but will focus more on lunch
+    and merchandising instead of coffee breaks. 
+
+Any special needs will be catered for during lunch.
+
+
+=head3 Please give more details about modern the venues are in terms of power plugs. Are there
 many plugs in the rooms, or will you need to run extension cords? Are there places
 outside of the rooms where people can charge equipment?
-The Saalbau Titus is very modern and we can extend the power plug capabilities as far as we need to.
-We‘ve spoken to the Saalbau employees and the told us that they can arrange anything we need. But in
-any case we will provide some extension cords as well.
-Shouldn‘t be a problem at Uni, but no answer yet.
-How accessible are the venues to people in wheelchairs, people with hearing difficulties,
+
+It's a CS and Telecommunications school, so there are enough power
+    outlets in the corridors and cafeteria. Not so many in classrooms,
+    but we will provide extension cords for all tracks. 
+
+=head3 How accessible are the venues to people in wheelchairs, people with hearing difficulties,
 etc?
-All rooms in Saalbau Titus are accessible with wheelchairs.
-Frankfurt University of course too!
-Will any wired connectivity be offered?
-Yes, in Saalbau Titus wired connectivity is offered.
-Uni see wireless!
+
+All rooms are accessible at the ETSIIT or any other UGR faculty,
+    complying with Spanish law.
+
+=head3 Will any wired connectivity be offered?
+
+Only for speakers, and only if really needed. In principle, and
+    according to IT services policies, just wireless connectivity will
+    be provided. 
+
 Please tell us more about the wireless network. How many people can it support? Is it part
 of the venue, or will you set it up?
 Titus
