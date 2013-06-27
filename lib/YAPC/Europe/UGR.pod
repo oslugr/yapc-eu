@@ -38,7 +38,7 @@ experience, founder of the mainly course-oriented Granada.pm (which
 organizes virtual courses of L<basic Perl|http://cevug.ugr.es/perl>
 and L<intermediate Perl|http://cevug.ugr.es/perl_avanzado> with a
 long history and more than a dozen editions. Merelo has attended, and
-made presentations, at the YAPC::EU 2002 and 2009 conferences, and
+made presentations, at the YAPC::EU 2002 (Munich) and 2010 (Lisbon) conferences, and
 also attended and presented a paper at the 2013 FOSDEM Perl devroom.
 
 The OSL will have the support of the two strongest Perl Mongers group
