@@ -653,6 +653,17 @@ The bid from the Free Software Office at the University of Granada is
 
 =head2 Questions and Answers
 
+While we haven't been asked this by the organization, they were made
+							      to other
+							      proposers,
+							      so here
+							      are the
+							      questions
+							      that
+							      have not
+							      been
+							      answered
+							      before. 
 =head3 What's the price of beer?
 
 In the bars around the ETSIIT and in town, average price this year
@@ -817,7 +828,6 @@ Any special needs will be catered for during lunch.
 =head3 Please give more details about modern the venues are in terms of power plugs. Are there
 many plugs in the rooms, or will you need to run extension cords? Are there places
 outside of the rooms where people can charge equipment?
-<<<<<<< HEAD
 
 It's a CS and Telecommunications school, so there are enough power
     outlets in the corridors and cafeteria. Not so many in classrooms,
@@ -853,7 +863,7 @@ There is a storeroom belonging to the OSL in the ETSIIT, which we can
 
 =head3 Are there projectors in all rooms?
 
-Yes
+Yes.
 
 =head3 Will there be provided interfacing connectors (for Macs, for
     example)?
@@ -862,7 +872,7 @@ No. The speaker will have to provide that.
 
 =head3 Are microphones available for speakers?
 
-Yes
+Yes.
 
 =head3 We do plan to make your proposal public. Since it is a PDF document, could you please
 remove any information you do not want included and send us a for publication copy of
