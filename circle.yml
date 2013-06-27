@@ -1,6 +1,6 @@
 dependencies:
   override:
-    - cpan Test::Pod
+    - PERL_MM_USE_DEFAULT=1 perl -MCPAN -e 'install My::Module'
 
 test:
     override:

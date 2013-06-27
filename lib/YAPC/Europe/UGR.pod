@@ -488,6 +488,16 @@ It's been developed in GitHub, so everything is open from the get go.
 =head3 Please indicate airline/train ticket prices from some major cities for this August to give an
 indication of transportation costs.
 
+Some price for return tickets to Granada; these are for next September 2013.
+
+=over 4
+
+=item London: 246€
+=item Paris: 227€
+
+=back
+
+
 =head3 Are the rooms in your proposed venue flat or auditorium-style (or whatever you would use
 in English to describe an ascending seating) If the rooms have different layouts, please
 tell us which are of which type
