@@ -86,6 +86,9 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  tapa
  tchochkes
  tubo
+ Albayzin
+ Alpujarras
+ kms
 EOI
 
 local $ENV{LC_ALL} = 'C';

@@ -252,7 +252,7 @@ Main income will be levied on attendees. Planned attendance fees are
 							      previous
 							      events:
 =over 4
-=item Guests, Speakers, Orga: 0 EUR
+=item Guests, Speakers, Organizers : 0 EUR
 =item Full-time students: 50 EUR
 =item Early-bird: 80 EUR
 =item Regular price: 110 EUR
@@ -298,7 +298,7 @@ This is around 75EUR per attendee, fully covered by early-bird fee and
 							      will be
 							      compensated
 							      with the
-							      superavit
+							      surplus
 							      provided
 							      by late
 							      arrivals
@@ -470,12 +470,12 @@ Granada includes the Alhambra and Albayzin, an ensemble that has been
 							      that
 							      includes
 							      also
-							      Renaisance
+							      Renaissance
 							      palaces,
-							      gothic,
-							      Renaisance
+							      Gothic,
+							      Renaissance
 							      and
-							      baroque
+							      Baroque
 							      churches,
 							      and a
 							      rather
