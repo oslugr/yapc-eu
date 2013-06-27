@@ -372,7 +372,9 @@ The assets are there, and it would be possible to record at least one
 
 =head3 Are any social events planned, other than the partner‘s program?
 
-
+We plan to do a pre-conference drink-up and post-conference
+    excursions. If sponsorship allows, we will organize a speakers'
+    dinner the first conference day. 
 
 
 =head3 Do you have any plans for an associated hackathon?
@@ -387,10 +389,16 @@ In the OSL we organize hackatons to the tune of several every year. We
     coffee. They can even be used overnight if needed. 
 
 
-Do you plan to provide anything to speakers? (Such as water, a person to time things and
+=head3 Do you plan to provide anything to speakers? (Such as water, a person to time things and
 keep the schedule on track, etc)
-Each speaker gets water or softdrinks ("all you can drink") during their talks and we will have session
-chairs in each room.
+
+We will have volunteers (students, GeNeura or OSL people) in every
+    room to fix any problem that can arise, from lack of electrical
+    outlets to swooning fans. Water will be provided for speakers, and
+    they will be heartily patted in the back after they finish. The
+    volunteer will also take care of time overruns by dancing a
+    Spanish jitterbug when the speaker has spent his slot. 
+
 How many tracks are planned?
 We plan to have three tracks.
 
