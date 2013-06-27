@@ -1,6 +1,6 @@
 dependencies:
   override:
-    - cpanm --installdeps --notest .
+    - cpan Test::Pod
 
 test:
     override:
