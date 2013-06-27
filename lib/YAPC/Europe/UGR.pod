@@ -258,13 +258,20 @@ Main income will be levied on attendees. Planned attendance fees are
 							      as
 							      previous
 							      events:
+
 =over 4
+
 =item Guests, Speakers, Organizers : 0 EUR
+
 =item Full-time students: 50 EUR
+
 =item Early-bird: 80 EUR
+
 =item Regular price: 110 EUR
+
 =item Corporate tariff:
 900 EUR
+
 =back
 
 Final fees have to be announced. We will request any amount from sponsors, and past events have
@@ -287,12 +294,19 @@ Final fees have to be announced. We will request any amount from sponsors, and p
 =head3 Costs
 
 There are several costs per attendee:
+
 =over 4
+
 =item T-shirt: 4.5 EUR
+
 =item Catering: 35 EUR 
+
 =item Bag: 4 EUR
+
 =item badge, and other stuff: 2EUR
+
 =item Attendees dinner: 30EUR
+
 =back
 
 This is around 75EUR per attendee, fully covered by early-bird fee and
@@ -427,10 +441,15 @@ Some price for return tickets to Granada; these are for next September 2013.
 =over 4
 
 =item London: 246E<euro>
+
 =item Paris: 227E<euro>
+
 =item Rome: 271E<euro>
+
 =item Frankfurt: 364E<euro>
+
 =item Moscow: 505E<euro>
+
 =item Vienna: 326E<euro>
 
 =back
@@ -520,6 +539,8 @@ Train trips:
 
 =item Seville - Granada: 3h, 22 E<euro>
 
+=back 
+
 There are buses also from Granada airport to the city center, costing
 							      3E<euro>;
 							      taxis
@@ -534,7 +555,7 @@ There are buses also from Granada airport to the city center, costing
 							      pools if
 							      needed. 
 
-=back 
+
 
 =head3 Sightseeing
 
@@ -664,6 +685,7 @@ While we haven't been asked this by the organization, they were made
 							      been
 							      answered
 							      before. 
+
 =head3 What's the price of beer?
 
 In the bars around the ETSIIT and in town, average price this year
