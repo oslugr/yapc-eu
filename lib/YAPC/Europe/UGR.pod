@@ -60,7 +60,7 @@ many events by the OSL, such as NotBarraLibreCamp
 
 Antonio Mora was the local organizer for the L<Computational
     Inteligence in Games conference|
-    http://geneura.ugr.es/cig2012/accommodation.html> and is currently
+    http://geneura.ugr.es/cig2012/> and is currently
     a postdoc at the university of Granada. 
 
 =item *
@@ -68,7 +68,7 @@ Antonio Mora was the local organizer for the L<Computational
 Pedro Castillo is a longtime Perl user and instructor, is the head of
     the GeNeura research groups who is also organizing this
     conference, and has been involved in the organization of several
-    conferences, including CIG and CECI (big Spanish computer science
+    conferences, including CIG and CEDI (big Spanish computer science
     event). 
 
 =item *
@@ -557,7 +557,7 @@ This is taken almost verbatim from L<CIG 2012
     site|http://geneura.ugr.es/cig2012/acommodation.html>, which
     Antonio Mora organized too. 
 
-Granada is a city accustomed to a large touristic inflow, so its offers a huge number of acommodation options for all budgets. In addition, due to the number of students living in the city (more than 60000 during the year), there are a big amount of visitors in these ages, so there are several economical lodgings.
+Granada is a city accustomed to a large touristic inflow, so its offers a huge number of accommodation options for all budgets. In addition, due to the number of students living in the city (more than 60000 during the year), there are a big amount of visitors in these ages, so there are several economical lodgings.
 So the city provides dozens of hotels ranging from 5-star to 1-star ones. It must be noted that hotels in Spain (and maybe more in Granada) are usually well priced due to the competition among them. Thus, a 4-star hotel may often be in the 75-100 E<euro> range and a 3-star hotel in the 50-75 E<euro> range.
 Of course, some fluctuations can happen depending on the particular hotel and the zone where it is, but special packages are also possible, allowing more economic prices.
 
