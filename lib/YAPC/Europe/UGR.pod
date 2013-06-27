@@ -124,7 +124,7 @@ price (from 17E<euro> a sitting, served menu to less if it's standing around
 tables).
 
 Cheap beer-and tapas can be had around the school for 2E<euro> beer + tapa
-of choice, 4 beers (or non-alcoholic drinks) are enough for any hungry
+of choice, for  beers (or non-alcoholic drinks) are enough for any hungry
 monger.
 
 =head2 Conference Details
@@ -291,16 +291,16 @@ Some price for return tickets to Granada; these are for next September 2013.
 
 =over 4
 
-=item London: 246€
-=item Paris: 227€
-=item Rome: 271€
-=item Frankfurt: 364€
-=item Moscow: 505€
-=item Vienna: 326€
+=item London: 246E<euro>
+=item Paris: 227E<euro>
+=item Rome: 271E<euro>
+=item Frankfurt: 364E<euro>
+=item Moscow: 505E<euro>
+=item Vienna: 326E<euro>
 
 =back
 
-There are many more options to Málaga, but then you have to take a bus
+There are many more options to Malaga, but then you have to take a bus
 							     or train
 							     to the
 							     bus
@@ -364,7 +364,7 @@ If you have a good map and can orient yourself, it's pretty easy. In
 
 =head3 It would be nice to have more details on accommodation, with a range of the prices that can be
 expected for different levels of accommodation. Can most attendees fit in one hotel? Is
-internet access widely available in accommodations?
+Internet access widely available in accommodations?
 
 This is taken almost verbatim from L<CIG 2012
     site|http://geneura.ugr.es/cig2012/acommodation.html>, which
@@ -480,7 +480,7 @@ sponsored)?
 
 The ETSIIT can sponsor a single coffee break. Coffee breaks, however,
     are impersonal and there are excellent cafeterias around the
-    ETSIIT which can give unexpensive and local fare such as garlic olive-oil
+    ETSIIT which can give inexpensive and local fare such as garlic olive-oil
     toast, which no catering can provide and better quality coffee, as
     well as fresh orange juice. 
 
@@ -534,15 +534,14 @@ Yes
 =head3 Will there be provided interfacing connectors (for Macs, for
     example)?
 
-No. The speaker will have to privide that.
+No. The speaker will have to provide that.
 
 =head3 Are microphones available for speakers?
 
 Yes
-<<<<<<< HEAD
 
 =head3 We do plan to make your proposal public. Since it is a PDF document, could you please
-remove any information you don‘t want included and send us a ‘for publication’ copy of
+remove any information you do not want included and send us a for publication copy of
 the proposal?
 
 It's been developed in GitHub, so everything is open from the get go. 
@@ -560,10 +559,10 @@ We have both at the ETSIIT, but we intend to use those that are
 =head3 If lunch is not provided, please describe the possibilities for attendees to go out and find their own lunch
 
 As indicated in the main proposal, the university cafeteria +
-    dining room is able to accomodate 300 people
+    dining room is able to accommodate 300 people
     simultaneously. Around the ETSIIT, you can eat at a bar just off
-    the tapas (2€ soda or beer + warm dish) or sandwiches or single
-    combined plate for 3-4€. There's also a pizza parlor 500 meters
+    the tapas (2E<euro> soda or beer + warm dish) or sandwiches or single
+    combined plate for 3-4E<euro>. There's also a pizza parlor 500 meters
     away, and many different options further in the direction of
     downtown. 
 
