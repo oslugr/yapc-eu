@@ -449,86 +449,67 @@ Only for speakers, and only if really needed. In principle, and
     according to IT services policies, just wireless connectivity will
     be provided. 
 
-Please tell us more about the wireless network. How many people can it support? Is it part
+=head3 Please tell us more about the wireless network. How many people can it support? Is it part
 of the venue, or will you set it up?
-Titus
-We will buy wireless network for the conference from the German Telekom. It‘s about 500 EUR for
-these 3 days. So there will be Wireless.
-Uni
-University has a high scalable WLAN for all students. 250 guest accounts can be booked for about
-50-150EUR. We got an informal assurance that more accounts are no problem.
-16 July 2011
-7
-Frankfurt.pm bid for hosting YAPC::EU 2012
-pod2pdf
-Is it possible to have a cloakroom? Will there be a staffed help desk?
-We will have a staffed help desk.
-Are there projectors in all rooms?
+
+IT services provides an easy way to set up guest access, which is
+    dimensioned for 1K students times two devices. You will not be
+    able to operate a CPAN mirror off your laptop, but you should be
+    OK for anything else. Besides, for anybody coming from an academic
+    environment, EDUROAM works without a glitch.
+
+=head3 Is it possible to have a cloakroom? Will there be a staffed
+    help desk?
+
+There is a storeroom belonging to the OSL in the ETSIIT, which we can
+    use as a cloakroom and crash pad if needed. We will have a staffed
+    help desk during the whole conference.
+
+
+=head3 Are there projectors in all rooms?
+
 Yes
-Will there be provided interfacing connectors (for Macs, for example)?
-We will ask the speakers right before the conference what they need and we will provide the connectors
-- unless it is too esoteric ;-)
-Are microphones available for speakers?
+
+=head3 Will there be provided interfacing connectors (for Macs, for
+    example)?
+
+No. The speaker will have to privide that.
+
+=head3 Are microphones available for speakers?
+
 Yes
-We do plan to make your proposal public. Since it is a PDF document, could you please
+
+=head3 We do plan to make your proposal public. Since it is a PDF document, could you please
 remove any information you don‘t want included and send us a ‘for publication’ copy of
 the proposal?
-You will receive a new PDF version with these Q&A answered ;-)
-Please indicate airline/train ticket prices from some major cities for this August to give an
+
+It's been developed in GitHub, so everything is open from the get go. 
+
+=head3 Please indicate airline/train ticket prices from some major cities for this August to give an
 indication of transportation costs.
-Frankfurt is a major hub in in the centre of Europe, probably the biggest. Getting there is always easy.
-RIX -> FRA: 170 - 390 EUR
-LON -> FRA: 95 - 180 EUR (train: 98 EUR / 6h+ special offer)
-LIS -> FRA: 304 - 440 EUR
-CPH -> FRA: 185 - 210 EUR
-AMS -> FRA: 175 - 310 EUR (train: 78 EUR / 4h special offer)
-MUC -> FRA: 100 - 130 EUR (train: 58 EUR special offer)
-CDG -> FRA: 135 - 260 EUR (train: 78 EUR special offer)
-BHX -> FRA: 140 - 250 EUR
-More train offers here:
-http://www.bahn.de/p/view/angebot/international/europaspezial/europakarte.shtml
-Are the rooms in your proposed venue flat or auditorium-style (or whatever you would use
+
+=head3 Are the rooms in your proposed venue flat or auditorium-style (or whatever you would use
 in English to describe an ascending seating) If the rooms have different layouts, please
 tell us which are of which type
-Titusbau: flat style
-Uni: Both styles available, but mostly auditorium (see link further down)
-There are a number of different side activities which are sometimes organized in conjunction
-with Y::E, such as training courses, hackathons, partner‘s program, welcome dinner,
-pub crawl, job fair, auction, and sight seeing trips. Your application mentioned some of
-these. If you have plans to also organize any of the other activities mentioned (or not
-mentioned!) please also tell us about them.
-We will search for various sponsors. In our sponsors packages we will offer booths for a job fair. But we
-don‘t know if the companies are interested in such a job fair.
-We will head into the planning of activities when we know the date of the conference.
-If lunch is not provided, please describe the possibilities for attendees to go out and find
+
+We have both at the ETSIIT, but we intend to use those that are
+    auditorium style (which, besides, are provided with air
+    conditioning)
+
+
+=head3 If lunch is not provided, please describe the possibilities for attendees to go out and find
 their own lunch. Take into account that one cafe or restaurant will not be able to feed
 300 people arriving at the same time, and that conditions may differ significantly
 between weekdays (Friday) and weekend days (e.g. Sunday). Also please include the
 expected price range.
-Titus
-The Saalbau Titus is located near a shopping mall with around 15 restaurants/cafes etc. The expected
-price range is from 1 EUR per Cheesburger (McDonald‘s) to ~15 EUR in other restaurants. There are
-restaurants with Mexican, Chinese, Turkish food and many more.
-And there are supermarkets where people can buy other food.
-Uni
-Frankfurt University offers us large and cheap student canteens with a big variety of foods.
-The normal prizes range from 2-9 EUR for individual access.
-8
-16 July 2011
-pod2pdf
-Frankfurt.pm bid for hosting YAPC::EU 2012
-Additionally we could provide our guests with lunch coupons ranging from 4-7 EUR. The restaurant
-would collect them and bill us only for the sold food.
-The third option is to have a separated restaurant / hall and a special menu / buffet for 9-11 EUR per
-person. (has to be booked in advance)
-Saalbau Titus seems to be the choice number 1; however, other things being about equal,
-University of Frankfurt is cheaper and more centrally located; what is the reason for
-prefering Saalbau Titus?
-Our main contact to University is on holidays now, someone else had to step in and checked the details.
-Initially we thought that Titus has a better infrastructure and it‘s more modern!
-As it turns out we just asked for the cheapest, i.e. the old part of University ("Campus Bockenheim").
-But they acquired a pretty new campus with better infrastructure ("Campus Westend"). The prices there
-may vary up to 30% more. But we might be able to apply for a big discount for non-profit organizations.
+
+As indicated in the main proposal, the university cafeteria +
+    dining room is able to accomodate 300 people
+    simultaneously. Around the ETSIIT, you can eat at a bar just off
+    the tapas (2€ soda or beer + warm dish) or sandwiches or single
+    combined plate for 3-4€. There's also a pizza parlor 500 meters
+    away, and many different options further in the direction of
+    downtown. 
 
 
 =cut
