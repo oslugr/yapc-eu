@@ -4,13 +4,14 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'YAPC::Europe::UGR',
-    AUTHOR              => 'UGR+ Barcelona.pm + Barcelona.pm',
+    AUTHOR              => 'UGR + Barcelona.pm + Madrid.pm',
     VERSION_FROM        => 'lib/YAPC/Europe/UGR.pod',
     ABSTRACT_FROM       => 'lib/YAPC/Europe/UGR.pod',
     PL_FILES            => {},
     PREREQ_PM => {
         'Test::More' => 0,
 	'Test::Pod' => 0,
+        'Test::Spelling' => 0,
         'version'    => 0
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },

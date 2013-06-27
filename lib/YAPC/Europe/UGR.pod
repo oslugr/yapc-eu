@@ -115,8 +115,8 @@ on holiday).
 
 =head3 Catering
 
-The school has a relatively large cafeteria and a university mensa,
-which can accomodate a good amount of hungry students. There are 250
+The school has a relatively large cafeteria and a university canteen,
+which can accommodate a good amount of hungry students. There are 250
 sitting places, but buffer-style eating with sitting space outside the
 cafeteria, including common areas and classes, can also be
 arranged. The school cafeteria can provide the food itself for a good
@@ -139,7 +139,7 @@ closest we can make it is late July or early September. Late July has
 the advantage of empty classrooms with no problem to schedule the
 conference, while early September would be a little more problematic
 (but no big deal for a 2 or 3 day conference), milder weather (but you
-can still go to the beach) and good choice of accomodations (lower
+can still go to the beach) and good choice of accommodations (lower
 touristic season, if there's such a thing in Granada).
 
 =head3 Theme
@@ -172,7 +172,7 @@ Facebook), and the people in the organization do have that too.
 We would use email, local free software events (the Libre
 Software World Conference is held yearly in Fall somewhere in
 Spain), FOSDEM devrooms, and a sandwich man walking around
-unconpicously around PHP and Python developer conferences.
+inconspicuously around PHP and Python developer conferences.
 
 =head2 Survey
 
@@ -238,7 +238,7 @@ institutional (meaning university, as belonging to the
 University of Granada) event. This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 10KE<euro>. We will also apply to local
+We are talking of a ballpark of 10K E<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one.
@@ -326,19 +326,19 @@ The local bus company provides also a direct bus to Granada from
 
 =head2 Questions and Answers
 
-=head3 What‘s the price of beer?
+=head3 What's the price of beer?
 
 In the bars around the ETSIIT and in town, average price this year
-(2013) is around 2€  and that includes the tapa, that is, a small dish
+(2013) is around 2E<euro>  and that includes the tapa, that is, a small dish
     with usually warm food. That's the price of a tubo (1/3
 liter). It's not usual in Spain to have bigger portions; you just
     order a second one
 
 
-=head3 What‘s the weather like in July/September?
+=head3 What's the weather like in July/September?
 
 It's definitely hot, with maximum that can go up to 40 degrees; it
-goes doen in September, but daily maximum are always over 30º.
+goes down in September, but daily maximum are always over 30º.
 September is milder, anyways.
 
 =head3 Can people get receipts? 
@@ -359,53 +359,53 @@ If you have a good map and can orient yourself, it's pretty easy. In
     will speak loudly and kindly to you until they make themselves
     understood. 
 
-=head3 It would be nice to have more details on accomodation, with a range of the prices that can be
-expected for different levels of accomodation. Can most attendees fit in one hotel? Is
-internet access widely available in accomodations?
+=head3 It would be nice to have more details on accommodation, with a range of the prices that can be
+expected for different levels of accommodation. Can most attendees fit in one hotel? Is
+internet access widely available in accommodations?
 
 This is taken almost verbatim from L<CIG 2012
-    site|http://geneura.ugr.es/cig2012/accommodation.html>, which
+    site|http://geneura.ugr.es/cig2012/acommodation.html>, which
     Antonio Mora organized too. 
 
- Granada is a city accustomed to a large touristic inflow, so its offers a huge number of accommodation options for all budgets. In addition, due to the number of students living in the city (more than 60000 during the year), there are a big amount of visitors in these ages, so there are several economical lodgings.
-So the city provides dozens of hotels ranging from 5-star to 1-star ones. It must be noted that hotels in Spain (and maybe more in Granada) are usually well priced due to the competition among them. Thus, a 4-star hotel may often be in the 75-100 € range and a 3-star hotel in the 50-75 € range.
+ Granada is a city accustomed to a large touristic inflow, so its offers a huge number of acommodation options for all budgets. In addition, due to the number of students living in the city (more than 60000 during the year), there are a big amount of visitors in these ages, so there are several economical lodgings.
+So the city provides dozens of hotels ranging from 5-star to 1-star ones. It must be noted that hotels in Spain (and maybe more in Granada) are usually well priced due to the competition among them. Thus, a 4-star hotel may often be in the 75-100 E<euro> range and a 3-star hotel in the 50-75 E<euro> range.
 Of course, some fluctuations can happen depending on the particular hotel and the zone where it is, but special packages are also possible, allowing more economic prices.
 
 =head4 Recommended hotels (approximate prices)
 
 =over 4
 
-=item AC Palacio de Santa Paula - 5* (130 € by night)
-The best hotel in the city. Located at the main street (Gran Vía) in the city centre. Well communicated to reach the ETSIIT.
+=item AC Palacio de Santa Paula - 5* (130E<euro> by night)
+The best hotel in the city. Located at the main street (Gran VE<iacute>a) in the city centre. Well communicated to reach the ETSIIT.
 
-=item Abba - 4* (75 € by night)
+=item Abba - 4* (75 E<euro> by night)
 New hotel (less than 2 years old), close to the train station and near
     the city centre. Well placed to get to the ETSIIT (Avda
-    Constitución). Usually has good offers for University events,
-    including free WiFi and access to the spa, 
+    ConstituciE<oacute>n). Usually has good offers for University events,
+    including free WiFi and access to the spa,
     which we would arrange.
 
-=item Vincci - 4* (80 € by night)
-Well-considered hotel in the city, close to the train station and near the city centre. Well placed to get to the ETSIIT (Avda Constitución).
+=item Vincci - 4* (80 E<euro> by night)
+Well-considered hotel in the city, close to the train station and near the city centre. Well placed to get to the ETSIIT (Avda ConstituciE<oacute>n).
 
-=item Granada Center - 4* (65 € by night)
+=item Granada Center - 4* (65 E<euro> by night)
 Good hotel, not very expensive and close to a good tapas area (Severo Ochoa street, in front of the Faculty of Sciences).
 
-=item Carmen - 4* (55 € by night)
+=item Carmen - 4* (55 E<euro> by night)
 Cheap hotel, but with good quality. It is near to the city centre.
 
-=item Macia Gran Via - 3* (50 € by night)
+=item Macia Gran Via - 3* (50 E<euro> by night)
 In the main street and quite cheap.
 
-=item Puerta de las Granadas - 3* (70 € by night)
+=item Puerta de las Granadas - 3* (70 E<euro> by night)
 Just below the Alhambra. Right in the most tourist area. Only 14 rooms.
 
-=item Juan Miguel - 3* (45 € by night)
+=item Juan Miguel - 3* (45 E<euro> by night)
 Cheap hotel in the city centre, close to the city hall.
 
 =back
 
-=head4 Student accomodation
+=head4 Student accommodation
 
 As you can check, the prices are quite cheap even in four star hotels,
     but there are a L<huge amount of guest houses (Pensiones in
@@ -413,7 +413,7 @@ As you can check, the prices are quite cheap even in four star hotels,
     city|http://geneura.ugr.es/cig2012/brochures/guest_houses_granada.pdf>. Or
     if you prefer, there is a Youth hostel (Albergue in Spanish) in
     the city. During July, student dorms might offer also cheap
-    accomodation; in September it's less likely. There are also two
+    accommodation; in September it's less likely. There are also two
     university residences, which are very nice, but not so
     conveniently located for accessing the ETSIIT. However, they might
     be used for invited speakers, mainly if we manage to pay them from
@@ -428,7 +428,7 @@ The assets are there, and it would be possible to record at least one
     virtual department too. The ETSIIT includes also self-recording
     facilities in some classes, which we could use for some tracks.
 
-=head3 Are any social events planned, other than the partner‘s program?
+=head3 Are any social events planned, other than the partner's program?
 
 We plan to do a pre-conference drink-up and post-conference
     excursions. If sponsorship allows, we will organize a speakers'
@@ -437,7 +437,7 @@ We plan to do a pre-conference drink-up and post-conference
 
 =head3 Do you have any plans for an associated hackathon?
 
-In the OSL we organize hackatons to the tune of several every year. We
+In the OSL we organize hackathons to the tune of several every year. We
     would love to organize one and try and attract local talent to
     Perl. Our experience says that it's better to organize them with
     at least one day and a half, which we would prefer to do before
@@ -490,13 +490,13 @@ Any special needs will be catered for during lunch.
 =head3 Please give more details about modern the venues are in terms of power plugs. Are there
 many plugs in the rooms, or will you need to run extension cords? Are there places
 outside of the rooms where people can charge equipment?
+<<<<<<< HEAD
 
 It's a CS and Telecommunications school, so there are enough power
     outlets in the corridors and cafeteria. Not so many in classrooms,
     but we will provide extension cords for all tracks. 
 
-=head3 How accessible are the venues to people in wheelchairs, people with hearing difficulties,
-etc?
+=head3 How accessible are the venues to people in wheelchairs, people with hearing difficulties, etc?
 
 All rooms are accessible at the ETSIIT or any other UGR faculty,
     complying with Spanish law.
@@ -536,6 +536,7 @@ No. The speaker will have to privide that.
 =head3 Are microphones available for speakers?
 
 Yes
+<<<<<<< HEAD
 
 =head3 We do plan to make your proposal public. Since it is a PDF document, could you please
 remove any information you don‘t want included and send us a ‘for publication’ copy of
@@ -553,11 +554,7 @@ We have both at the ETSIIT, but we intend to use those that are
     conditioning)
 
 
-=head3 If lunch is not provided, please describe the possibilities for attendees to go out and find
-their own lunch. Take into account that one cafe or restaurant will not be able to feed
-300 people arriving at the same time, and that conditions may differ significantly
-between weekdays (Friday) and weekend days (e.g. Sunday). Also please include the
-expected price range.
+=head3 If lunch is not provided, please describe the possibilities for attendees to go out and find their own lunch
 
 As indicated in the main proposal, the university cafeteria +
     dining room is able to accomodate 300 people
