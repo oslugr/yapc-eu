@@ -340,8 +340,11 @@ We have contact with local tech companies will will be willing to help
 with small amounts; we will have no minimum requirement for
 sponsorship. Companies such as L<Codeko.com|http://codeko.com>
 or L<Blulabs|http://blulabs.es> have supported OSL events in the
-past. We will mainly look for direct support of tchochkes such
-as t-shirts or bags.
+past. We will mainly look for direct support of tchotchkes such
+as t-shirts or bags. Other companies contacted after the initial
+proposal such as L<Yaco|http://yaco.es> and
+L<Zentyal|http://zentyal.com> have answered positively to our support
+requests .
 
 Support will also be requested from institutions of all kinds. Being
 the economy of Spain in the shape that it is, we don't
@@ -350,13 +353,19 @@ obtained support in the past.
 
 =head2 About Granada
 
-Granada is a student city which has been the preferred destination of
-Erasmus students for a long time, and that accounts for something. 
+Granada is a student city which has been the L<preferred destination of
+Erasmus students
+|http://elpais.com/elpais/2012/11/28/inenglish/1354114165_335994.html>
+for a long time, and that accounts for something. 
 It's a lively city with many services for visitors.
 
 =head3 Getting here
 
-Granada has an international airport, but easiest way is to transfer at Madrid or Barcelona.
+Granada has an international airport, but easiest way to reach it is
+to connect at Madrid or Barcelona. From July 2013, there is a Lfive times a
+week direct British Airways flight to London City|http://www.britishairways.com/travel/fx/public/en_gb?to=Granada&fromPkg=LCY>, which can be also used as a hub
+to reach us, although it is not the cheapest or even the fastest way
+to get here (maybe cheaper if used as a connection).
 
 Some price for return tickets to Granada; these are for next September 2013.
 
@@ -784,6 +793,109 @@ Philology and other Humanities-related degrees) which can sit 560
 people. If the conference blowed up to epic proportions, we could use
 the Palace of Congresses, but that would need additional budget, since
 they obviously charge for room occupation. 
+
+=over
+
+=item 7. Would you consider cheaper corporate tickets, say, of 400-500 Euro
+instead of 900?
+
+=back
+
+Absolutely no problem. Any amount above the regular fee would be OK.
+
+=over
+
+=item 8. Did you already approach to any potential sponsors?
+
+=back
+
+We have approached the sponsors included in the new budget. Some of
+them have already expressed their will to support with an amount, some
+of them just their will. 
+
+=over
+
+=item 9. What is included in 35 euro catering costs for the attendee?
+
+=back
+
+Two meals, one coffee break. We will try to obtain the rest of the
+meals directly from sponsors such as the Computer Science School (if
+it is eventually held there) or corporate sponsors.
+
+=over
+
+=item 10. How many meals a day are you going to provide?
+
+=back
+
+One meal, one coffee break, but as shown in the budget section, meals
+and coffees will be reserved when budget is secured for them.
+
+=over
+
+=item 11. Will catering be organised inside the venue or outside?
+
+=back
+
+Inside. All faculties in the UGR include a cafeteria and other common
+areas for students.
+
+=over
+
+=item 12. What is the deadline for early bird registrations?
+
+=back
+
+The usual four months before the conference.
+
+=over
+
+=item 13. How many attendees do you expect?
+
+=back
+
+
+
+Our experience hosting other I<serial> conferences in Granada is that
+the appeal of the city usually command a small 10-20% increase over
+other in the series. Since you mention in another question around 300
+attendees, we have budgeted for approximately that increase in the
+number of attendees, so around 330-350.
+
+=over
+
+=item 14. Can you roughly estimate the portion of speakers (you mention 75 of
+them), early bird registrations, students, regular and business
+attendees?
+
+=back
+
+The new budget estimates that amount, with 75 speakers, 65 students, 2
+corporate sponsors, 150 early bird (about half) and 40 regular. It is
+difficult to put a definite amount there, but we think these number,
+according to our past experience, are realistic. Even accounting for a
+very bad worst case scenario ( L<third sheet in the
+spreadsheet|http://goo.gl/xXJ1Y>) we would adjust budget mainly using
+lunches and coffee breaks.
+
+=over
+
+=item 15. In case you have no money for lunches, will it be possible for
+everybody to find food on their own in a reasonable time (90 minutes for
+outside lunches seems to be the optimum)? You mentioned a few cafes
+outside but are they capable to serve 300 people at the same time?
+
+=back
+
+Glad you make that question, because whatever the place in the
+university of Granada we celebrate YAPC, there are literally dozens of
+places where you can have a quick snack, sandwiches of even a sit-down
+proper lunch for old geezers. Even at the
+L<ETSIIT|http://etsiit.ugr.es> there is a cafeteria and university
+lunchroom, with the Fine Arts School cafeteria nearby and a
+supermarket where you can buy salads or sandwiches and several bars
+one block away, each one from 40 to 60 persons. 
 
 =cut 
 
