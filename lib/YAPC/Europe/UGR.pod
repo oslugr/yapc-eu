@@ -407,7 +407,7 @@ Some sample prices and itineraries:
 
 =item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), 
 several buses a day, roughly every hour; normal 5h and 17.53 
-E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with Wifi)
+E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with WiFi)
 4.5h and 35-87 E<euro> (only two of these 13:30, 19:30).
 
 =item Seville-Granada and back, 41E<euro>, 3h15m. 
@@ -1106,7 +1106,7 @@ proposals. The setup includes tests and continuous integration using
 Travis. 
 
 If you think that financials are sensitive anyways we can just
-un-publish the spreadsheet. 
+unpublish the spreadsheet. 
 
 
 

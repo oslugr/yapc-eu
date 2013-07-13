@@ -6,6 +6,8 @@ eval "use Test::Spelling";
 plan skip_all => "Test::Spelling required for testing POD spelling" if $@;
 
 my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
+ Wi
+ Fi
  tchotchkes
  github
  publically
