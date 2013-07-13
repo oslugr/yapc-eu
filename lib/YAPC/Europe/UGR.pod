@@ -753,7 +753,7 @@ the amount, and as said above, we will create a prize for Perl
 software development, which is underrepresented in the local
 University Free Software contest. 
 
-In a nutshell: surplus during or inmediately after the conference:
+In a nutshell: surplus during or immediately after the conference:
 back to the YEF. Surplus months or years after the conference: FSO and
 funding of local (Spanish level) Perl initiatives. 
 
@@ -787,10 +787,10 @@ be so many as in June and early July.
 It is really not worth the while. The L<university of Granada has many
 campuses (three in the city of Granada) and
 buildings|http://www.ugr.es/pages/centros>, most of which can
-accomodate any amount of people, including the Aula Magna at the
+accommodate any amount of people, including the Aula Magna at the
 Facultad de Letras (literally, Letters Faculty, which includes
 Philology and other Humanities-related degrees) which can sit 560
-people. If the conference blowed up to epic proportions, we could use
+people. If the conference blown up to epic proportions, we could use
 the Palace of Congresses, but that would need additional budget, since
 they obviously charge for room occupation. 
 
@@ -888,7 +888,7 @@ outside but are they capable to serve 300 people at the same time?
 
 =back
 
-Glad you make that question, because whatever the place in the
+Glad you ask that question, because whatever the place in the
 university of Granada we celebrate YAPC, there are literally dozens of
 places where you can have a quick snack, sandwiches of even a sit-down
 proper lunch for old geezers. Even at the
@@ -896,6 +896,213 @@ L<ETSIIT|http://etsiit.ugr.es> there is a cafeteria and university
 lunchroom, with the Fine Arts School cafeteria nearby and a
 supermarket where you can buy salads or sandwiches and several bars
 one block away, each one from 40 to 60 persons. 
+
+=over
+
+=item 16. How many local attendees might appear at the conference?
+
+=back
+
+The usual Spanish crowd at the YAPCs amounts to around one dozen
+people. There are two strong Perl Mongers in Spain whose attendance
+would be boosted. To help attendance by local students we would apply
+for credits to the university, so that they can get ECTS credits for
+attending and/or volunteering at the conference. All in all, 50 is a
+reasonable number.
+
+=over
+
+=item 17. How many talk tracks are you going to have?
+
+=back
+
+As many as needed. The venue can accomodate any amount of them, and
+its presence will be limited basically by budget (for full-length
+talks, since they do not pay registration). We can fit as many lightning talks sessions (by paying
+attendees) as needed. 
+
+=over
+
+=item 18. Do you know the configuration of the venue and if it contains enough
+rooms and what is the capacity of them?
+
+=back
+
+Our preferred venue is the
+L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
+whose biggest room can fit 196 people, with room for a few more in the
+sidelines or standing up. If attendance is up to 250 people, we would
+go for this venue, since there is also a FSO storage room, the offices
+of most organizers, and it's the obvious choice, being the Computer
+Science School and all. There are air-conditioned classrooms with 100
+capacity, and other rooms with 78 seats, 8 of each + 3 more
+classrooms, also air conditioned with a capacity of 60.
+
+Second choice for over 250 people would be L<the Polytechnic
+building|http://etsiccp.ugr.es/>, closer to downtown, but home to
+people that get their hands dirty building bridges and houses (not any
+more in Spain) and harbours. The L<conference
+room|http://etsiccp.ugr.es/pages/reserva_aulas_medios/capacidades_aulas_y_medios>
+can hold 0b100000000 persons which would actually be a nicer capacity for the
+CS school, but it is not. 
+
+Third choice would be the Aula Magna at the L<Sciences
+Faculty|http://fciencias.ugr.es> which has been recently renovated and
+includes can hold up to 506 seats. This campus is right next to the
+second one and also practically in the city center. It has many
+classrooms with capacity from 60 to 150.
+
+=over
+
+=item 19. Is there a room in the venue that can hold all the attendees at the
+same time?
+
+=back
+
+See above, of course that's provided for. Up to 500 attendees there
+are several places in the University of Granada that can fit
+them. Beyond that, we would have to hire the palace of Congresses. 
+
+
+=over
+
+=item 20. Are the different rooms for talk tracks situated close enough to each
+other so that the attendees can easily change rooms between talks?
+
+=back
+
+It's an university building (any of them), that's their bread and butter.
+
+=over
+
+=item 21. The 10K euro "ballpark" you have got in the "Budget" section, what
+does it include?
+
+=back
+
+That has been the usual figure for other conferences with ~100
+attendees. Figures have been revised in the new budget (in 3
+scenarios)
+
+=over
+
+=item 22. Do you have enough team members to organise countdown service in
+each of the talk rooms?
+
+=back
+
+Yes. We have enough persons providing services to the FSO and we'll
+accept volunteers for credit, as has been done in other conferences in
+the UGR.
+
+=over
+
+=item 23. Where are you going to find volunteers for this and how will you
+motivate them?
+
+=back
+
+University students, motivated by what's more dear to them: free food
+(in plausible scenario) and course credit. 
+
+=over 
+
+=item 24. Are there any other big events known to happen in Granada in late
+July of early September 2014 which may cause problems with finding cheap
+(or any) hotels?
+
+Neither the province fairgrounds nor the conference center plan so
+much in advance, so it is difficult to know. However, there are no
+recurring events either at the end of July or beginning of September,
+and in any case, the L<Spanish convention bureau lists around 7000
+rooms in hotels or 4 or 5
+stars|http://www.scb.es/DESTINOS/GRANADA/tabid/78/language/es-ES/Default.aspx>,
+with an even bigger number available below that. Most hotels offer the
+university the possibility of pre-booking rooms at fixed price,
+although we understand that most people will want to use the
+Perl-driven Booking site for reservations.
+
+=over 
+
+=item 25. What kind of a hackathon are you planning for the days preceding the
+conference?
+
+We'll make a call for proposals so that CPAN authors can submit their
+modules for enhancements or bug quashing. We'll contact authors of
+major Perl projects such as perl5i or parrot in case they are
+interested. This will be held either in the same place or, depending
+on the number of people, in smaller venues such as the L<Free Software
+Office|http://osl.ugr.es>, which is in a building with rooms varying
+in capability from 12 to 40 persons.
+
+=back
+
+
+=over
+
+=item 26. Are there microphones for questions from the audience in the talk
+rooms (at least in the big room)?
+
+=back
+
+Only in the big rooms, in fact. 
+
+=over
+
+=item 27. Is it possible to quickly replace projectors in case they happen to
+turn out of order in the middle of the talk?
+
+=back
+
+We'll have a pool of projectors handy in case any of them breaks
+down. The FSO runs a hardware refurbishing project and we usually have
+projectors for donation, so we'll keep two or three of them. In case
+we have it at the ETSIIT, every department has its own projector which
+we can use in case of emergency.
+
+=over
+
+=item 28. Is Wi-Fi connection open for SSH ports and such?
+
+=back
+
+C<eduroam> is avaible throughout the university for all people whose
+institution is a participant. IT services provide L<free conferences
+WiFi|http://csirc.ugr.es/informatica/RedUGR/CVI/wifi-congresos.html>
+with all ports open. We can arrange also physical connections, at
+least for speakers.
+
+=over
+
+=item In case it is not possible to use auditorium-style rooms for each of
+the talk tracks, will the lack of air conditioning cause any problems
+for the attendees?
+
+=back
+
+That's indeed a good question. In principle, those rooms would be used
+just in case it's absolutely necessary (say, we have 5 or 6 parallel
+tracks). The university has portable air conditioning that can be
+requested in that possibility; we have used it for the free software
+children's campus. 
+
+=over
+
+=item 30. Your proposal is publically hosted on github, including the budget
+calculations.  Do we have your permission to link to it from
+http://www.yapceurope.org/ ?  If not, then maybe there is a sanitized
+version of the proposal without the financials somewhere?
+
+=back
+
+I have requested permission from the probable sponsors to include
+their names and quantities. Other that that, I don't see a problem in
+revealing the budget. We were thinking actually about releasing the
+whole setup  as a CPAN module so that anybody else can use the framework for their own
+proposals. The setup includes tests and continuous integration using
+Travis. 
+
+
 
 =cut 
 
