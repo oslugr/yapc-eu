@@ -246,10 +246,20 @@ institutional (meaning university, as belonging to the
 University of Granada) event. This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 10K E<euro>. We will also apply to local
+We are talking of a ballpark of 30K E<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
-that matter, surplus) if there is one.
+that matter, surplus) if there is one, although this will depend on
+the source of the surplus. Since funding agencies pay the grant after
+expenses have been incurred, in some cases years later, temporary
+deficit will have to be absorbed by the free software office and any
+surplus that is obtained after the conference also will go to the Free
+Software Office operating costs and a  local L<Free Software
+Prize|http://concursosoftwarelibre.org> to fund a special Perl-based
+application prize. . Any surplus obtained from
+registration fees and sponsors will be returned to the YAPC::Europe
+Foundation. The full budget is published in L<a Google Drive
+document|http://goo.gl/xXJ1Y>. 
 
 =head3 Income
 
@@ -272,7 +282,7 @@ in the same ballpark as previous events:
 =back
 
 Final fees have to be announced.  We will request any amount from
-sponsors, and past events have gathered around 6000EUR just from local
+sponsors, and past events have gathered around 6000EUR exclusively from local
 sponsors. A minimum of 1000EUR can be expected from those sources.
 
 =head3 Costs
@@ -295,11 +305,10 @@ There are several costs per attendee:
 
 This is around 75EUR per attendee, fully covered by early-bird 
 fee and with a deficit for speakers and students. 
-This will be compensated with the surplus provided by late arrivals
+This will be balanced with the surplus provided by late arrivals, corporate fees 
 and sponsors. 
 
-The budget will be adjusted mainly by providing less or more lunches
-or adding a coffee break.
+The budget will be adjusted mainly by changing the number of lunches and coffee breaks.
 
 In this scenario the only fixed cost is covering the costs of the 75
 speakers which is 5625 E<euro>. Realistically, that cost can be
@@ -310,8 +319,14 @@ If we add the cost of one or two invited speakers at around
 If sponsorships are not reached (or corporate-fee paying, which it's
 not clear how many are there) lunches would be eliminated, 
 allowing us to basically have every paying person cover the cost of a
-single speaker. We would need as few as 75 attendees to cover the 75 speakers.
+single speaker; in that case we would need as few as 75 attendees to
+cover the 75 speakers.
 
+The  L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
+worst case scenario in which official sponsorships go down to 0 and
+there are no corporate fees. A reduction of 15€ in the catering (which
+can be changed in the last minute) provides a result of around 250€ of
+deficit which can be absorbed by the Free Software Office. 
 
  
 =head2 Sponsors
@@ -434,7 +449,7 @@ Mongers which, so far, have not seen a single YAPC in Spain.
 
 =head2 Questions and Answers
 
-While we haven't been asked this by the organization, 
+While we haven't been asked these questions by the organization, 
 they were made to other proposers, so here are the questions that 
 have not been answered before.
 
@@ -674,5 +689,102 @@ As indicated in the main proposal, the university cafeteria +
     away, and many different options further in the direction of
     downtown. 
 
+=head2 Questions and Answers, 2013 proposal
 
-=cut
+These have been I<actually> asked by the organization, so here we go.
+
+=over 
+ 
+=item 1. You mention the auction.  Please note that the auction is
+not a required item.  Some members of the venue committee think that YAPC
+auctions are a thing of the past for a number of reasons, and note that
+in the recent years YAPC organizers have tried to replace them with more
+engaging things.  See for example
+L<http://blog.yapcna.org/post/13102310411/auction-replaced-with-raffle-at-yapc-na-2012>
+and L<http://blogs.perl.org/users/andrew_shitov/2012/11/yapceurope-2013-in-kiev-week-minus-39-random-ideas.html>
+Would you consider going for a replacement not unlike the ones above?
+
+=back
+
+Absolutely. 
+
+=over
+
+=item 2. You mentioned organizing various "side trips", but it's not clear if
+these are a Friend&Family program during the conference or if they are
+targeted at the attendees and will therefore happen at a different
+time/day than the ones of the conference.  Could you clarify this?
+
+=back
+
+Both can be done, of course. We will offer some of them I<during> the
+conference for friends and family, and one after the conference for
+everybody (attendees + friends & family)
+
+=over
+
+=item 3. While it sounds nice that the Free Software Office would cover a
+loss, it is doubtful that the YAPC would generate a loss.  Will you
+donate anything back to YEF / TPF / YAPC::Europe::2015 / sponsor other
+Perl events if YAPC::Europe in Granada makes a profit?
+
+=back
+
+As indicated in the (changed) budget section, that will depend on the
+source of surplus. If we have a surplus at the end of the conference
+arising mainly from the fees and sponsorships, it will be donated back
+to YEF/TPF/YAPC::Europe::2015. However, official sponsorships from
+government/university/regional sources usually happen (and sometimes
+is even known about) I<after>, sometimes much after, the
+conference. If we I<know> about these sources I<before> the
+conference, we will apply it to the conference and absorb that loss or
+apply it to (additional) operating expenses by the FSO, to be recouped
+when (and sometimes I<if>) it is eventually paid back. Depending on
+the amount, and as said above, we will create a prize for Perl
+software development, which is underrepresented in the local
+University Free Software contest. 
+
+In a nutshell: surplus during or inmediately after the conference:
+back to the YEF. Surplus months or years after the conference: FSO and
+funding of local (Spanish level) Perl initiatives. 
+
+=over
+
+=item 4. What are the reasons that may cause you not to use the Act system for
+the conference site?
+
+=back
+
+The existence of a bigger and badder and better alternative to Act. 
+
+=over
+
+=item 5. Given the fact that you are tied to the University schedule, are you
+sure you will be able to use Wednesday to Friday (which you mentioned in
+the Q&A section of the proposal) for the main conference days, if you
+opt for early September in the end?
+
+=back
+
+Yes. Even as some classrooms will be occupied by exams, there will not
+be so many as in June and early July.
+
+=over
+
+=item 6. Do you have any alternative venue candidates?
+
+=back
+
+It is really not worth the while. The L<university of Granada has many
+campuses (three in the city of Granada) and
+buildings|http://www.ugr.es/pages/centros>, most of which can
+accomodate any amount of people, including the Aula Magna at the
+Facultad de Letras (literally, Letters Faculty, which includes
+Philology and other Humanities-related degrees) which can sit 560
+people. If the conference blowed up to epic proportions, we could use
+the Palace of Congresses, but that would need additional budget, since
+they obviously charge for room occupation. 
+
+=cut 
+
+
