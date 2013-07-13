@@ -362,7 +362,7 @@ It's a lively city with many services for visitors.
 =head3 Getting here
 
 Granada has an international airport, but easiest way to reach it is
-to connect at Madrid or Barcelona. From July 2013, there is a Lfive times a
+to connect at Madrid or Barcelona. From July 2013, there is a five times a
 week direct British Airways flight to London City|http://www.britishairways.com/travel/fx/public/en_gb?to=Granada&fromPkg=LCY>, which can be also used as a hub
 to reach us, although it is not the cheapest or even the fastest way
 to get here (maybe cheaper if used as a connection).
@@ -407,7 +407,7 @@ Some sample prices and itineraries:
 
 =item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), 
 several buses a day, roughly every hour; normal 5h and 17.53 
-E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with WiFi)
+E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with Wifi)
 4.5h and 35-87 E<euro> (only two of these 13:30, 19:30).
 
 =item Seville-Granada and back, 41E<euro>, 3h15m. 
@@ -916,7 +916,7 @@ reasonable number.
 
 =back
 
-As many as needed. The venue can accomodate any amount of them, and
+As many as needed. The venue can accommodate any amount of them, and
 its presence will be limited basically by budget (for full-length
 talks, since they do not pay registration). We can fit as many lightning talks sessions (by paying
 attendees) as needed. 
@@ -1005,6 +1005,9 @@ motivate them?
 University students, motivated by what's more dear to them: free food
 (in plausible scenario) and course credit. 
 
+We'll also pay (bus) trip and (student) lodging, as well as
+registration, for those coming from outside Granada. 
+
 =over 
 
 =item 24. Are there any other big events known to happen in Granada in late
@@ -1066,7 +1069,7 @@ we can use in case of emergency.
 
 =back
 
-C<eduroam> is avaible throughout the university for all people whose
+C<eduroam> is available throughout the university for all people whose
 institution is a participant. IT services provide L<free conferences
 WiFi|http://csirc.ugr.es/informatica/RedUGR/CVI/wifi-congresos.html>
 with all ports open. We can arrange also physical connections, at
@@ -1101,6 +1104,9 @@ revealing the budget. We were thinking actually about releasing the
 whole setup  as a CPAN module so that anybody else can use the framework for their own
 proposals. The setup includes tests and continuous integration using
 Travis. 
+
+If you think that financials are sensitive anyways we can just
+un-publish the spreadsheet. 
 
 
 
