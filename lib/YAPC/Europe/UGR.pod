@@ -81,7 +81,7 @@ Members of the Madrid.pm and Barcelona.pm
 =item *
 
 Volunteers and other people attached to the
-L<OSL|http://osl.ugr.es/about/quienes-somos/>
+L<OSL|http://osl.ugr.es/about/quienes-somos/>.
 
 =item *
 
@@ -486,7 +486,7 @@ September is milder, anyways.
 Whether we choose a professional services company to organize
 registration or the university itself, there's no problem with
     providing receipts. We will see what's the more convenient option
-in term of work needed, but also financially; the University can
+in terms of work needed, but also financially; the University can
 provide VAT-free registration while the external company can not.
 
 =head3 How easy is it for people to navigate the city without speaking
@@ -595,7 +595,7 @@ We will have volunteers (students, GeNeura or OSL people) in every
     outlets to swooning fans. Water will be provided for speakers, and
     they will be heartily patted in the back after they finish. The
     volunteer will also take care of time overruns by dancing a
-    Spanish jitterbug when the speaker has spent his slot. 
+    Spanish jitterbug when the speaker has spent the allotted slot. 
 
 =head3 How many tracks are planned?
 
@@ -689,7 +689,7 @@ tell us which are of which type
 
 We have both at the ETSIIT, but we intend to use those that are
     auditorium style (which, besides, are provided with air
-    conditioning)
+    conditioning).
 
 
 =head3 If lunch is not provided, please describe the possibilities for attendees to go out and find their own lunch
@@ -708,13 +708,13 @@ These have been I<actually> asked by the organization, so here we go.
 
 =over 
  
-=item 1. You mention the auction.  Please note that the auction is
+=item B<1. You mention the auction.  Please note that the auction is
 not a required item.  Some members of the venue committee think that YAPC
 auctions are a thing of the past for a number of reasons, and note that
 in the recent years YAPC organizers have tried to replace them with more
-engaging things.  See for example L<http://blog.yapcna.org/post/13102310411/auction-replaced-with-raffle-at-yapc-na-2012>
-and L<http://blogs.perl.org/users/andrew_shitov/2012/11/yapceurope-2013-in-kiev-week-minus-39-random-ideas.html> Would you consider going for a replacement not unlike the ones above?
-
+engaging things.  See for example http://blog.yapcna.org/post/13102310411/auction-replaced-with-raffle-at-yapc-na-2012
+and http://blogs.perl.org/users/andrew_shitov/2012/11/yapceurope-2013-in-kiev-week-minus-39-random-ideas.html Would you consider going for a replacement not unlike the ones above? >
+ 
 =back
 
 Absolutely. Raffles and quizzes are both good ideas that we will
@@ -723,11 +723,11 @@ event actually happens.
 
 =over
 
-=item 2. You mentioned organizing various "side trips", but it's not clear if
+=item B< 2. You mentioned organizing various "side trips", but it's not clear if
 these are a Friend&Family program during the conference or if they are
 targeted at the attendees and will therefore happen at a different
-time/day than the ones of the conference.  Could you clarify this?
-
+time/day than the ones of the conference.  Could you clarify this?>
+ 
 =back
 
 Both can be done, of course. We will offer some of them I<during> the
@@ -736,11 +736,11 @@ everybody (attendees + friends & family)
 
 =over
 
-=item 3. While it sounds nice that the Free Software Office would cover a
+=item B< 3. While it sounds nice that the Free Software Office would cover a
 loss, it is doubtful that the YAPC would generate a loss.  Will you
 donate anything back to YEF / TPF / YAPC::Europe::2015 / sponsor other
-Perl events if YAPC::Europe in Granada makes a profit?
-
+Perl events if YAPC::Europe in Granada makes a profit?>
+ 
 =back
 
 As indicated in the (changed) budget section, that will depend on the
@@ -770,20 +770,20 @@ funding of local (Spanish level) Perl initiatives.
 
 =over
 
-=item 4. What are the reasons that may cause you not to use the Act system for
-the conference site?
-
+=item B< 4. What are the reasons that may cause you not to use the Act system for
+the conference site?>
+ 
 =back
 
 The existence of a bigger and badder and better alternative to Act. 
 
 =over
 
-=item 5. Given the fact that you are tied to the University schedule, are you
+=item B< 5. Given the fact that you are tied to the University schedule, are you
 sure you will be able to use Wednesday to Friday (which you mentioned in
 the Q&A section of the proposal) for the main conference days, if you
-opt for early September in the end?
-
+opt for early September in the end?>
+ 
 =back
 
 Yes. Even as some classrooms will be occupied by exams, there will not
@@ -791,8 +791,8 @@ be so many as in June and early July.
 
 =over
 
-=item 6. Do you have any alternative venue candidates?
-
+=item B< 6. Do you have any alternative venue candidates?>
+ 
 =back
 
 It is really not worth the while. The L<university of Granada has many
@@ -807,17 +807,17 @@ they obviously charge for room occupation.
 
 =over
 
-=item 7. Would you consider cheaper corporate tickets, say, of 400-500 Euro
-instead of 900?
-
+=item B< 7. Would you consider cheaper corporate tickets, say, of 400-500 Euro
+instead of 900?>
+ 
 =back
 
 Absolutely no problem. Any amount above the regular fee would be OK.
 
 =over
 
-=item 8. Did you already approach to any potential sponsors?
-
+=item B< 8. Did you already approach to any potential sponsors?>
+ 
 =back
 
 We have approached the sponsors included in the new budget. Some of
@@ -826,8 +826,8 @@ of them just their will.
 
 =over
 
-=item 9. What is included in 35 euro catering costs for the attendee?
-
+=item B< 9. What is included in 35 euro catering costs for the attendee?>
+ 
 =back
 
 Two meals, one coffee break. We will try to obtain the rest of the
@@ -836,8 +836,8 @@ it is eventually held there) or corporate sponsors.
 
 =over
 
-=item 10. How many meals a day are you going to provide?
-
+=item B< 10. How many meals a day are you going to provide?>
+ 
 =back
 
 One meal, one coffee break, but as shown in the budget section, meals
@@ -845,8 +845,8 @@ and coffees will be reserved when budget is secured for them.
 
 =over
 
-=item 11. Will catering be organised inside the venue or outside?
-
+=item B< 11. Will catering be organised inside the venue or outside?>
+ 
 =back
 
 Inside. All faculties in the UGR include a cafeteria and other common
@@ -854,52 +854,52 @@ areas for students.
 
 =over
 
-=item 12. What is the deadline for early bird registrations?
-
+=item B< 12. What is the deadline for early bird registrations?>
+ 
 =back
 
 The usual four months before the conference.
 
 =over
 
-=item 13. How many attendees do you expect?
-
+=item B< 13. How many attendees do you expect?>
+ 
 =back
 
 Our experience hosting other I<serial> conferences in Granada is that
-the appeal of the city usually command a small 10-20% increase over
+the appeal of the city usually commands a small 10-20% increase over
 other in the series. Since you mention in another question around 300
 attendees, we have budgeted for approximately that increase in the
 number of attendees, so around 330-350.
 
 =over
 
-=item 14. Can you roughly estimate the portion of speakers (you mention 75 of
+=item B<14. Can you roughly estimate the portion of speakers (you mention 75 of
 them), early bird registrations, students, regular and business
-attendees?
-
+attendees?>
+ 
 =back
 
 The new budget estimates that amount, with 75 speakers, 65 students, 2
 corporate sponsors, 150 early bird (about half) and 40 regular. It is
 difficult to put a definite amount there, but we think these number,
 according to our past experience, are realistic. Even accounting for a
-very bad worst case scenario ( L<third sheet in the
+very bad worst case scenario (L<third sheet in the
 spreadsheet|http://goo.gl/xXJ1Y>) we would adjust budget mainly using
 lunches and coffee breaks.
 
 =over
 
-=item 15. In case you have no money for lunches, will it be possible for
+=item B< 15. In case you have no money for lunches, will it be possible for
 everybody to find food on their own in a reasonable time (90 minutes for
 outside lunches seems to be the optimum)? You mentioned a few cafes
-outside but are they capable to serve 300 people at the same time?
-
+outside but are they capable to serve 300 people at the same time?>
+ 
 =back
 
 Glad you ask that question, because whatever the place in the
 university of Granada we celebrate YAPC, there are literally dozens of
-places where you can have a quick snack, sandwiches of even a sit-down
+places where you can have a quick snack, sandwiches or even a sit-down
 proper lunch for old geezers. Even at the
 L<ETSIIT|http://etsiit.ugr.es> there is a cafeteria and university
 lunchroom, with the Fine Arts School cafeteria nearby and a
@@ -908,21 +908,21 @@ one block away, each one from 40 to 60 persons.
 
 =over
 
-=item 16. How many local attendees might appear at the conference?
-
+=item B<16. How many local attendees might appear at the conference?>
+ 
 =back
 
 The usual Spanish crowd at the YAPCs amounts to around one dozen
-people. There are two strong Perl Mongers in Spain whose attendance
+people. There are two strong Perl Monger groups in Spain whose attendance
 would be boosted. To help attendance by local students we would apply
-for credits to the university, so that they can get ECTS credits for
+for course credits to the university, so that they can get ECTS credits for
 attending and/or volunteering at the conference. All in all, 50 is a
 reasonable number.
 
 =over
 
-=item 17. How many talk tracks are you going to have?
-
+=item B<17. How many talk tracks are you going to have?>
+ 
 =back
 
 As many as needed. The venue can accommodate any amount of them, and
@@ -932,9 +932,8 @@ attendees) as needed.
 
 =over
 
-=item 18. Do you know the configuration of the venue and if it contains enough
-rooms and what is the capacity of them?
-
+=item B<18. Do you know the configuration of the venue and if it contains enough rooms and what is the capacity of them?>
+ 
 =back
 
 Our preferred venue is the
@@ -963,9 +962,9 @@ classrooms with capacity from 60 to 150.
 
 =over
 
-=item 19. Is there a room in the venue that can hold all the attendees at the
-same time?
-
+=item B< 19. Is there a room in the venue that can hold all the attendees at the
+same time?>
+ 
 =back
 
 See above, of course that's provided for. Up to 500 attendees there
@@ -975,18 +974,18 @@ them. Beyond that, we would have to hire the palace of Congresses.
 
 =over
 
-=item 20. Are the different rooms for talk tracks situated close enough to each
-other so that the attendees can easily change rooms between talks?
-
+=item B< 20. Are the different rooms for talk tracks situated close enough to each
+other so that the attendees can easily change rooms between talks?>
+ 
 =back
 
 It's an university building (any of them), that's their bread and butter.
 
 =over
 
-=item 21. The 10K euro "ballpark" you have got in the "Budget" section, what
-does it include?
-
+=item B< 21. The 10K euro "ballpark" you have got in the "Budget" section, what
+does it include?>
+ 
 =back
 
 That has been the usual figure for other conferences with ~100
@@ -995,9 +994,9 @@ scenarios)
 
 =over
 
-=item 22. Do you have enough team members to organise countdown service in
-each of the talk rooms?
-
+=item B< 22. Do you have enough team members to organise countdown service in
+each of the talk rooms?>
+ 
 =back
 
 Yes. We have enough persons providing services to the FSO and we'll
@@ -1006,9 +1005,9 @@ the UGR.
 
 =over
 
-=item 23. Where are you going to find volunteers for this and how will you
-motivate them?
-
+=item B< 23. Where are you going to find volunteers for this and how will you
+motivate them?>
+ 
 =back
 
 University students, motivated by what's more dear to them: free food
@@ -1019,9 +1018,11 @@ registration, for those coming from outside Granada.
 
 =over 
 
-=item 24. Are there any other big events known to happen in Granada in late
+=item B<24. Are there any other big events known to happen in Granada in late
 July of early September 2014 which may cause problems with finding cheap
-(or any) hotels?
+(or any) hotels?>
+
+=back
 
 Neither the province fairgrounds nor the conference center plan so
 much in advance, so it is difficult to know. However, there are no
@@ -1034,12 +1035,13 @@ university the possibility of pre-booking rooms at fixed price,
 although we understand that most people will want to use the
 Perl-driven Booking site for reservations.
 
-=back
 
 =over 
 
-=item 25. What kind of a hackathon are you planning for the days preceding the
-conference?
+=item B< 25. What kind of a hackathon are you planning for the days preceding the
+conference?>
+
+=back
 
 We'll make a call for proposals so that CPAN authors can submit their
 modules for enhancements or bug quashing. We'll contact authors of
@@ -1048,24 +1050,20 @@ interested. This will be held either in the same place or, depending
 on the number of people, in smaller venues such as the L<Free Software
 Office|http://osl.ugr.es>, which is in a building with rooms varying
 in capability from 12 to 40 persons.
-
-=back
-
+ 
 
 =over
 
-=item 26. Are there microphones for questions from the audience in the talk
-rooms (at least in the big room)?
-
+=item B< 26. Are there microphones for questions from the audience in the talk rooms (at least in the big room)?>
+ 
 =back
 
 Only in the big rooms, in fact. 
 
 =over
 
-=item 27. Is it possible to quickly replace projectors in case they happen to
-turn out of order in the middle of the talk?
-
+=item B<27. Is it possible to quickly replace projectors in case they happen to turn out of order in the middle of the talk?>
+ 
 =back
 
 We'll have a pool of projectors handy in case any of them breaks
@@ -1076,7 +1074,7 @@ we can use in case of emergency.
 
 =over
 
-=item 28. Is Wi-Fi connection open for SSH ports and such?
+=item B<28. Is Wi-Fi connection open for SSH ports and such?> 
 
 =back
 
@@ -1088,10 +1086,10 @@ least for speakers.
 
 =over
 
-=item In case it is not possible to use auditorium-style rooms for each of
+=item B<29. In case it is not possible to use auditorium-style rooms for each of
 the talk tracks, will the lack of air conditioning cause any problems
-for the attendees?
-
+for the attendees?>
+ 
 =back
 
 That's indeed a good question. In principle, those rooms would be used
@@ -1102,11 +1100,11 @@ children's campus.
 
 =over
 
-=item 30. Your proposal is publically hosted on github, including the budget
+=item B< 30. Your proposal is publically hosted on github, including the budget
 calculations.  Do we have your permission to link to it from
 http://www.yapceurope.org/ ?  If not, then maybe there is a sanitized
-version of the proposal without the financials somewhere?
-
+version of the proposal without the financials somewhere?>
+ 
 =back
 
 I have requested permission from the probable sponsors to include

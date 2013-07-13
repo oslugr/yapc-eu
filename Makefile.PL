@@ -17,3 +17,10 @@ WriteMakefile(
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'YAPC-Europe-UGR*' },
 );
+
+sub MY::postamble {
+    return <<'MAKE_FRAG';
+pdf:
+	pod2pdf @pod2pdf.conf lib/YAPC/Europe/UGR.pod> UGR.pdf
+MAKE_FRAG
+  }
