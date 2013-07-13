@@ -259,7 +259,7 @@ deficit will have to be absorbed by the free software office and any
 surplus that is obtained after the conference also will go to the Free
 Software Office operating costs and a  local L<Free Software
 Prize|http://concursosoftwarelibre.org> to fund a special Perl-based
-application prize. . Any surplus obtained from
+application prize. Any surplus obtained from
 registration fees and sponsors will be returned to the YAPC::Europe
 Foundation. The full budget is published in L<a Google Drive
 document|http://goo.gl/xXJ1Y>. 
