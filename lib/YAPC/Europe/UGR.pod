@@ -15,7 +15,7 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2014
 
     use YAPC::Europe::UGR;
 
-    use const YAPC::Europe::2013::venue => UGR;
+    use const YAPC::Europe::2013::venue => "UGR";
 
 
 =head1 DESCRIPTION
@@ -1024,6 +1024,8 @@ with an even bigger number available below that. Most hotels offer the
 university the possibility of pre-booking rooms at fixed price,
 although we understand that most people will want to use the
 Perl-driven Booking site for reservations.
+
+=back
 
 =over 
 
