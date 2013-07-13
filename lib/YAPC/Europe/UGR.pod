@@ -246,7 +246,8 @@ in a little dish.
 Now we're talking business. We will stick to the same registration costs as the
 last conference. Venue is free, since it's organized as an
 institutional (meaning university, as belonging to the
-University of Granada) event. This will leave us some
+University of Granada) event. The university of Granada covers insurance costs too.
+This will leave us some
 leeway to give a better attendees dinner.
 
 We are talking of a ballpark of 30K E<euro>. We will also apply to local
@@ -366,7 +367,7 @@ It's a lively city with many services for visitors.
 =head3 Getting here
 
 Granada has an international airport, but easiest way to reach it is
-to connect at Madrid or Barcelona. From July 2013, there is a five times a
+to connect at Madrid or Barcelona. From July 2013, there is a L<five times a
 week direct British Airways flight to London City|http://www.britishairways.com/travel/fx/public/en_gb?to=Granada&fromPkg=LCY>, which can be also used as a hub
 to reach us, although it is not the cheapest or even the fastest way
 to get here (maybe cheaper if used as a connection).
