@@ -708,14 +708,14 @@ These have been I<actually> asked by the organization, so here we go.
 not a required item.  Some members of the venue committee think that YAPC
 auctions are a thing of the past for a number of reasons, and note that
 in the recent years YAPC organizers have tried to replace them with more
-engaging things.  See for example
-L<http://blog.yapcna.org/post/13102310411/auction-replaced-with-raffle-at-yapc-na-2012>
-and L<http://blogs.perl.org/users/andrew_shitov/2012/11/yapceurope-2013-in-kiev-week-minus-39-random-ideas.html>
-Would you consider going for a replacement not unlike the ones above?
+engaging things.  See for example L<http://blog.yapcna.org/post/13102310411/auction-replaced-with-raffle-at-yapc-na-2012>
+and L<http://blogs.perl.org/users/andrew_shitov/2012/11/yapceurope-2013-in-kiev-week-minus-39-random-ideas.html> Would you consider going for a replacement not unlike the ones above?
 
 =back
 
-Absolutely. 
+Absolutely. Raffles and quizzes are both good ideas that we will
+consider, as well as any others that are raised from now to when the
+event actually happens. 
 
 =over
 
@@ -854,8 +854,6 @@ The usual four months before the conference.
 =item 13. How many attendees do you expect?
 
 =back
-
-
 
 Our experience hosting other I<serial> conferences in Granada is that
 the appeal of the city usually command a small 10-20% increase over
@@ -1108,9 +1106,7 @@ proposals. The setup includes tests and continuous integration using
 Travis. 
 
 If you think that financials are sensitive anyways we can just
-unpublish the spreadsheet. 
-
-
+make the spreadsheet unavailable for the general public.
 
 =cut 
 
