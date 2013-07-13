@@ -114,6 +114,8 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  Albayzin
  Alpujarras
  kms
+ ElasticSearch
+ JENUI
 EOI
 
 local $ENV{LC_ALL} = 'C';
