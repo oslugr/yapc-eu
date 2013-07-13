@@ -345,9 +345,10 @@ sponsorship. Companies such as L<Codeko.com|http://codeko.com>
 or L<Blulabs|http://blulabs.es> have supported OSL events in the
 past. We will mainly look for direct support of tchotchkes such
 as t-shirts or bags. Other companies contacted after the initial
-proposal such as L<Yaco|http://yaco.es> and
+proposal such as L<Yaco|http://yaco.es>, L<ElasticSearch|http://elasticsearch.com'> and
 L<Zentyal|http://zentyal.com> have answered positively to our support
-requests .
+requests. These offers have been included in the current version of
+the budget. 
 
 Support will also be requested from institutions of all kinds. Being
 the economy of Spain in the shape that it is, we don't
