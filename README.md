@@ -1,4 +1,4 @@
 yapc-eu
 =======
 
-Proposal fof YAPC-EU 2014
+Bid for holding fof YAPC-EU in 2015 in Granada, Spain. 
