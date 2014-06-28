@@ -3,49 +3,51 @@ package YAPC::Europe::UGR;
 use warnings;
 use strict;
 
-use version; our $VERSION = qv('0.0.3');
+use version; our $VERSION = qv('0.0.4');
 
 =pod
 
 =head1 NAME
 
-YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2014
+YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 =head1 SYNOPSIS
 
     use YAPC::Europe::UGR;
 
-    use const YAPC::Europe::2013::venue => "UGR";
+    use const YAPC::Europe::2015::venue => "UGR";
 
 
 =head1 DESCRIPTION
 
 This module describes the bid by the L<Free Software Office at the University of Granada|http://osl.ugr.es> aided by Barcelona.pm and
-Madrid.pm to host YAPC::EU 2014.  
+Madrid.pm to host YAPC::EU 2015.  
 
-=head2  University of Granada proposal for YAPC::EU 2014
+=head2  University of Granada proposal for YAPC::EU 2015
 
-The Free Software Office at the
+The L<Free Software Office|http://osl.ugr.es> at the
 L<University of Granada|http://www.ugr.es>,
-with the support of Madrid.pm and
-Barcelona.pm presents this bid for YAPC::EU 2014.
+with the support of Granada.pm, Madrid.pm and
+Barcelona.pm presents this bid for YAPC::EU 2015.
 
 =head3 Organizers
 
 The L<OSL (Free Software Office, FSO)|http://osl.ugr.es> is led by
-L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a longtime Perl
-experience, founder of the mainly course-oriented Granada.pm (which
+L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a long Perl
+experience, founder of the mainly course-oriented L<Granada.pm|http://granada.pm> (which
 organizes virtual courses of L<basic Perl|http://cevug.ugr.es/perl>
 and L<intermediate Perl|http://cevug.ugr.es/perl_avanzado> with a
 long history and more than a dozen editions. Merelo has attended, and
 made presentations, at the YAPC::EU 2002 (Munich) and 2010 (Lisbon) conferences, and
-also attended and presented a paper at the 2013 FOSDEM Perl devroom.
+also attended and presented papers at the 2013 and 2014 FOSDEM Perl devrooms.
 
-The OSL will have the support of the two strongest Perl Mongers group
+They also organized the first Spanish Perl workshop, L<the Granada Perl Workshop|http://workshop.granada.pm>, which took place in Granada on the 27th of June, 2014, starting a series of workshops organized by Granada, Madrid and Barcelona PMs that will take place, in principle, twice a year.
+
+The OSL and Granada PM will have the support of the two strongest Perl Mongers group
 in the Spanish state, Madrid.pm and Barcelona.pm, who will help with
 anything that is not quintessentially local.
 
-The key persons of the proposal would be:
+The key local persons of the proposal would be:
 
 =over 4
 
@@ -55,8 +57,8 @@ JJ Merelo, with experience organizing other events such as PPSN
 2002 and ECAL 1995, in the evolutionary algorithm area. Also
 collaboration with other conferences such as CEC 2011 or EvoStar, and
 many events by the OSL, such as NotBarraLibreCamp. He collaborated
-also with the organization of CIG 2012 (~100 persons) and JENUI 2009
-(local teaching in informatics conference, ~ 100 persons).
+also with the organization of CIG 2012 (~100 persons), JENUI 2009
+(local teaching in informatics conference, ~ 100 persons), and L<EvoStar 2014|http://evostar.org> (~150 persons). 
 
 =item *
 
@@ -76,7 +78,7 @@ Pedro Castillo is a longtime Perl user and instructor, is the head of
 
 =item *
 
-Members of the Madrid.pm and Barcelona.pm
+Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada and Diego Kuperman. 
 
 =item *
 
@@ -87,14 +89,14 @@ L<OSL|http://osl.ugr.es/about/quienes-somos/>.
 
 Additional help from the
 L<IT delegation of the university of Granada|http://detic.ugr.es>
-and L<Computer Science School|http://etsiit.ugr.es>
+and L<Computer Science School|http://etsiit.ugr.es>.
 
 =back
 
 =head3 Contact
 
 We will setup an address @ugr.es, but for the time being the contact
-will be L<dirosl@ugr.es> (direction of the Free Software office)
+will be L<dirosl@ugr.es> (direction of the Free Software office director).
 
 =head2 Venue
 
@@ -108,7 +110,23 @@ We have pre-acceptance for holding it at the
 L<ETSIIT|http://etsiit.ugr.es> Computer Science School, which is
 in the outskirts of the city but has all the facilities needed for
 a multi-room conference and is, anyways, well communicated with
-the rest of the city.
+the rest of the city. Close by there is a provincial government building that could be used for keynotes. We will buy enough extension cords for conference users; being a university building, it is well prepared for lots of people using electricity. All university buildings fulfill EC rules regarding accesibility, including access via wheelchairs or magnetic loops systems for people with hearing difficulties. No wired connectivity is previewed, in principle, but if needed a meeting room with access to the university network will be arranged. 
+
+The IT services at the  university of Granada provide an easy way to set up guest access, which is
+    dimensioned for 2K students times three devices. You will not be
+    able to operate a CPAN mirror off your laptop, but you should be
+    OK for anything else. Besides, for anybody coming from an academic
+    environment, EduRoam works without a glitch.
+
+In any of the university building chosed we will set up a meeting room for organization, short meetings, cloakroom and anything else that is needed. We will use volunteers to staff a help desk during the whole conference; in past experiences students with enough knowledge of English have been used. 
+
+All rooms have projectors and a computer, plus the usual audiovisual equipment. However, the Free Software Office has not been able to conquer all of them for free software, so the free Software Office will lend a few laptops just in case speakers want to use them. These projectors usually have VGA plugs, so speakers using Macs and others with HDMI or USB  connection will have to provide their own converters (we can have a few handy, though).
+
+The keynote rooms are auditorium-style, usually, with seats ascending. Other plenary rooms we could use (which, as we said, will depend on total attendance) have the same arrangement. Usual classrooms for parallel sessions are usually flat. 
+
+In the budget we will include lunches. In previous experiences (EvoStar 2014) we have given a Tapas Experience instead of a lunch at an university cafeteria, provinding attendees with script that can be changed for a lunch in any of several pubs or bars around the university (5 minutes away, tops) or several drinks with tapas, which is an usual way to have lunch in Spain and increases networking, since you can have a drink in a place and then go to the next one. The experience in EvoStar 2014 was very positive in terms of quality and satisfaction. Besides, using several bars dimensioned according to attendance is usually faster and more efficient than having 300 lunches served in a single place. 
+
+If we eventually decide not to include lunch inexpensive places, from tapas to pizzas through vegan dishes, can be had close to any university building we decide. 
 
 Granada is linked to Madrid, London and Barcelona by regular daily and
 frequent flights and also to Mallorca and to other places (but flight
@@ -165,16 +183,9 @@ of those free spirits to our conference.
 We will host it at the OSL servers, using Act! or other Perl toolkit
 for creating websites. No PHP. I promise.
 
-=head2 Auction
+=head2 Amusements
 
-I remember keenly the promotion at YAPC 2002 where stuff like
-optimization of opcodes was offered. We plan to offer that in Granada,
-maybe including being painted by a local grafitti artist, a trip
-through Granada tunnels, or a tapas crawl through local watering
-holes with local experts (hard to find, really).
-
-We'll also look for Perl gurus memorabilia, camel hair underpants, and
-onion jam. Or suchlike.
+We'll consider having for early birds a perl golf contest or a Perl quiz; for those staying late we could also consider that. It is also an option to consider during cocktail parties the first day. Any suggestion will also be welcome. 
 
 =head2 Promotion
 
@@ -470,10 +481,10 @@ have not been answered before.
 =head3 What's the price of beer?
 
 In the bars around the ETSIIT and in town, average price this year
-(2013) is around 2E<euro>  and that includes the tapa, that is, a small dish
+(2014) is a bit over 2E<euro> and that includes the tapa, that is, a small dish
 with usually warm food. That's the price of a tubo (1/3
 liter). It's not usual in Spain to have bigger portions; you just
-order a second one
+order a second one.
 
 
 =head3 What's the weather like in July/September?
@@ -485,15 +496,15 @@ September is milder, anyways.
 =head3 Can people get receipts? 
 
 Whether we choose a professional services company to organize
-registration or the university itself, there's no problem with
-    providing receipts. We will see what's the more convenient option
+registration or the university itself, there is no problem with
+    providing receipts. We will see what is the more convenient option
 in terms of work needed, but also financially; the University can
 provide VAT-free registration while the external company can not.
 
 =head3 How easy is it for people to navigate the city without speaking
 Spanish?
 
-If you have a good map and can orient yourself, it's pretty easy. In
+If you have a good map and can orient yourself, it is pretty easy. In
     pure geographical terms, Granada is not a difficult place; on the
     other hand, the Spanish educational system has made sure that very
     few, if any, speak other than the mother tongue. However, they
@@ -520,7 +531,7 @@ Of course, some fluctuations can happen depending on the particular hotel and th
 The best hotel in the city. Located at the main street (Gran VE<iacute>a) in the city centre. Well communicated to reach the ETSIIT.
 
 =item Abba - 4* (75 E<euro> by night)
-New hotel (less than 2 years old), close to the train station and near
+New hotel (less than 3 years old), close to the train station and near
     the city centre. Well placed to get to the ETSIIT (Avda
     ConstituciE<oacute>n). Usually has good offers for University events,
     including free WiFi and access to the spa,
@@ -535,11 +546,11 @@ Good hotel, not very expensive and close to a good tapas area (Severo Ochoa stre
 =item Carmen - 4* (55 E<euro> by night)
 Cheap hotel, but with good quality. It is near to the city centre.
 
-=item Macia Gran Via - 3* (50 E<euro> by night)
+=item Maciá Gran Via - 3* (50 E<euro> by night)
 In the main street and quite cheap.
 
 =item Puerta de las Granadas - 3* (70 E<euro> by night)
-Just below the Alhambra. Right in the most tourist area. Only 14 rooms.
+Just below the Alhambra. Smack in the middle of the  tourist area. Only 14 rooms.
 
 =item Juan Miguel - 3* (45 E<euro> by night)
 Cheap hotel in the city centre, close to the city hall.
@@ -552,11 +563,10 @@ As you can check, the prices are quite cheap even in four star hotels,
     but there are a L<huge amount of guest houses (Pensiones in
     Spanish) in the
     city|http://geneura.ugr.es/cig2012/brochures/guest_houses_granada.pdf>. Or
-    if you prefer, there is a Youth hostel (Albergue in Spanish) in
-    the city. During July, student dorms might offer also cheap
-    accommodation; in September it's less likely. There are also two
+    if you prefer, there is also a Youth hostel (Albergue in Spanish). During July, student dorms might offer also cheap
+    accommodation; in September it is less likely. There are also two
     university residences, which are very nice, but not so
-    conveniently located for accessing the ETSIIT. However, they might
+    conveniently located for accessing the ETSIIT (or other university venue we might choose. However, they might
     be used for invited speakers, mainly if we manage to pay them from
     university budget. 
 
@@ -628,101 +638,7 @@ We will look for sponsors in any case, but will focus more on lunch
 Any special needs will be catered for during lunch.
 
 
-=head3 Please give more details about modern the venues are in terms of power plugs. Are there
-many plugs in the rooms, or will you need to run extension cords? Are there places
-outside of the rooms where people can charge equipment?
-
-It's a CS and Telecommunications school, so there are enough power
-    outlets in the corridors and cafeteria. Not so many in classrooms,
-    but we will provide extension cords for all tracks. 
-
-=head3 How accessible are the venues to people in wheelchairs, people with hearing difficulties, etc?
-
-All rooms are accessible at the ETSIIT or any other UGR faculty,
-    complying with Spanish law.
-
-=head3 Will any wired connectivity be offered?
-
-Only for speakers, and only if really needed. In principle, and
-    according to IT services policies, just wireless connectivity will
-    be provided. 
-
-=head3 Please tell us more about the wireless network. How many people can it support? Is it part
-of the venue, or will you set it up?
-
-IT services provides an easy way to set up guest access, which is
-    dimensioned for 1K students times two devices. You will not be
-    able to operate a CPAN mirror off your laptop, but you should be
-    OK for anything else. Besides, for anybody coming from an academic
-    environment, EDUROAM works without a glitch.
-
-=head3 Is it possible to have a cloakroom? Will there be a staffed
-    help desk?
-
-There is a storeroom belonging to the OSL in the ETSIIT, which we can
-    use as a cloakroom and crash pad if needed. We will have a staffed
-    help desk during the whole conference.
-
-
-=head3 Are there projectors in all rooms?
-
-Yes.
-
-=head3 Will there be provided interfacing connectors (for Macs, for
-    example)?
-
-No. The speaker will have to provide that.
-
-=head3 Are microphones available for speakers?
-
-Yes.
-
-=head3 We do plan to make your proposal public. Since it is a PDF document, could you please
-remove any information you do not want included and send us a for publication copy of
-the proposal?
-
-It's been developed in GitHub, so everything is open from the get go. 
-
-
-=head3 Are the rooms in your proposed venue flat or auditorium-style (or whatever you would use
-in English to describe an ascending seating) If the rooms have different layouts, please
-tell us which are of which type
-
-We have both at the ETSIIT, but we intend to use those that are
-    auditorium style (which, besides, are provided with air
-    conditioning).
-
-
-=head3 If lunch is not provided, please describe the possibilities for attendees to go out and find their own lunch
-
-As indicated in the main proposal, the university cafeteria +
-    dining room is able to accommodate 300 people
-    simultaneously. Around the ETSIIT, you can eat at a bar just off
-    the tapas (2E<euro> soda or beer + warm dish) or sandwiches or single
-    combined plate for 3-4E<euro>. There's also a pizza parlor 500 meters
-    away, and many different options further in the direction of
-    downtown. 
-
-=head2 Questions and Answers, 2013 proposal
-
-These have been I<actually> asked by the organization, so here we go.
-
-=over 
  
-=item B<1. You mention the auction.  Please note that the auction is
-not a required item.  Some members of the venue committee think that YAPC
-auctions are a thing of the past for a number of reasons, and note that
-in the recent years YAPC organizers have tried to replace them with more
-engaging things.  See for example http://blog.yapcna.org/post/13102310411/auction-replaced-with-raffle-at-yapc-na-2012
-and http://blogs.perl.org/users/andrew_shitov/2012/11/yapceurope-2013-in-kiev-week-minus-39-random-ideas.html Would you consider going for a replacement not unlike the ones above? >
- 
-=back
-
-Absolutely. Raffles and quizzes are both good ideas that we will
-consider, as well as any others that are raised from now to when the
-event actually happens. 
-
-=over
 
 =item B< 2. You mentioned organizing various "side trips", but it's not clear if
 these are a Friend&Family program during the conference or if they are
@@ -771,14 +687,7 @@ funding of local (Spanish level) Perl initiatives.
 
 =over
 
-=item B< 4. What are the reasons that may cause you not to use the Act system for
-the conference site?>
- 
-=back
 
-The existence of a bigger and badder and better alternative to Act. 
-
-=over
 
 =item B< 5. Given the fact that you are tied to the University schedule, are you
 sure you will be able to use Wednesday to Friday (which you mentioned in
@@ -1020,7 +929,7 @@ registration, for those coming from outside Granada.
 =over 
 
 =item B<24. Are there any other big events known to happen in Granada in late
-July of early September 2014 which may cause problems with finding cheap
+July of early September 2015 which may cause problems with finding cheap
 (or any) hotels?>
 
 =back
