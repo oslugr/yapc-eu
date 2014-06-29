@@ -1,4 +1,4 @@
-package YAPC::Europe::UGR;
+﻿package YAPC::Europe::UGR;
 
 use warnings;
 use strict;
@@ -36,7 +36,7 @@ The L<OSL (Free Software Office, FSO)|http://osl.ugr.es> is led by
 L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a long Perl
 experience, founder of the mainly course-oriented L<Granada.pm|http://granada.pm> (which
 organizes virtual courses of L<basic Perl|http://cevug.ugr.es/perl>
-and L<intermediate Perl|http://cevug.ugr.es/perl_avanzado> with a
+and L<intermediate Perl|http://cevug.ugr.es/perl_avanzado>) with a
 long history and more than a dozen editions. Merelo has attended, and
 made presentations, at the YAPC::EU 2002 (Munich) and 2010 (Lisbon) conferences, and
 also attended and presented papers at the 2013 and 2014 FOSDEM Perl devrooms.
@@ -65,7 +65,7 @@ also with the organization of CIG 2012 (~100 persons), JENUI 2009
 Antonio Mora was the local organizer for the L<Computational
     Inteligence in Games conference|
     http://geneura.ugr.es/cig2012/> and is currently
-    a postdoc at the university of Granada. 
+    a postdoc at the University of Granada. 
 
 =item *
 
@@ -88,7 +88,7 @@ L<OSL|http://osl.ugr.es/about/quienes-somos/>.
 =item *
 
 Additional help from the
-L<IT delegation of the university of Granada|http://detic.ugr.es>
+L<IT delegation of the University of Granada|http://detic.ugr.es>
 and L<Computer Science School|http://etsiit.ugr.es>.
 
 =back
@@ -103,11 +103,11 @@ will be L<dirosl@ugr.es> (direction of the Free Software office director).
 We will hold it at the most convenient place at the
 L<University of Granada|http://www.ugr.es>,
 with campus all over the city of Granada
-(Spain). Granada includes such beauties as the Alhambra and the most
-beautiful grafittis of all the country.
+(Spain). Granada includes such beauties as the Alhambra, the Albaycín quarter, natural park of Sierra Nevada, and the most
+beautiful grafittis of all the country. Moreover, the beach is just 70 kilometers (35 minutes by highway) far from the city.
 
 We have pre-acceptance for holding it at the
-L<ETSIIT|http://etsiit.ugr.es> Computer Science School, which is
+L<ETSIIT|http://etsiit.ugr.es> (Computer Science School), which is
 in the outskirts of the city but has all the facilities needed for
 a multi-room conference and is, anyways, well communicated with
 the rest of the city. Close by there is a provincial government
@@ -120,7 +120,7 @@ difficulties. No wired connectivity is previewed, in principle, but if
 needed a meeting room with access to the university network will be
 arranged.  
 
-The IT services at the  university of Granada provide an easy way to set up guest access, which is
+The IT services at the University of Granada provide an easy way to set up guest access, which is
     dimensioned for 2K students times three devices. You will not be
     able to operate a CPAN mirror off your laptop, but you should be
     OK for anything else. Besides, for anybody coming from an academic
@@ -138,7 +138,7 @@ The end of August is outside the classes period, but we will have to go to the v
 
 =head3 Alternatives
 
-In the very rare case that we would exceed 600 people attending the conference, Granada can offer many places: Parque de las Ciencias and (a science museum) and a Conference Center. However, the L<university of Granada has many
+In the very rare case that we would exceed 600 people attending the conference, Granada can offer many places: Parque de las Ciencias and (a science museum) and a Conference Center. However, the L<University of Granada has many
 campuses (three in the city of Granada) and
 buildings|http://www.ugr.es/pages/centros>, most of which can
 accommodate any amount of people, including the Aula Magna at the
@@ -325,7 +325,7 @@ in a little dish.
 Now we're talking business. We will stick to the same registration costs as the
 last conference. Venue is free, since it's organized as an
 institutional (meaning university, as belonging to the
-University of Granada) event. The university of Granada covers insurance costs too.
+University of Granada) event. The University of Granada covers insurance costs too.
 This will leave us some
 leeway to give a better attendees dinner.
 
@@ -849,7 +849,7 @@ outside but are they capable to serve 300 people at the same time?>
 =back
 
 Glad you ask that question, because whatever the place in the
-university of Granada we celebrate YAPC, there are literally dozens of
+University of Granada we celebrate YAPC, there are literally dozens of
 places where you can have a quick snack, sandwiches or even a sit-down
 proper lunch for old geezers. Even at the
 L<ETSIIT|http://etsiit.ugr.es> there is a cafeteria and university
