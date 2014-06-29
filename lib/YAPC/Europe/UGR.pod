@@ -78,7 +78,7 @@ Pedro Castillo is a longtime Perl user and instructor, is the head of
 
 =item *
 
-Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada, Salvador FandiE<ntilde> o and Diego Kuperman. 
+Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada, Salvador Fandino and Diego Kuperman. 
 
 =item *
 
@@ -614,7 +614,7 @@ Good hotel, not very expensive and close to a good tapas area (Severo Ochoa stre
 =item Carmen - 4* (55 E<euro> by night)
 Cheap hotel, but with good quality. It is near to the city centre.
 
-=item MaciE<aacute> Gran Via - 3* (50 E<euro> by night)
+=item Macia Gran Via - 3* (50 E<euro> by night)
 In the main street and quite cheap.
 
 =item Puerta de las Granadas - 3* (70 E<euro> by night)
