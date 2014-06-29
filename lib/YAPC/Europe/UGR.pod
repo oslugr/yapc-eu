@@ -78,7 +78,7 @@ Pedro Castillo is a longtime Perl user and instructor, is the head of
 
 =item *
 
-Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada and Diego Kuperman. 
+Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada, Salvador Fandiño and Diego Kuperman. 
 
 =item *
 
@@ -128,11 +128,15 @@ The IT services at the  university of Granada provide an easy way to set up gues
 
 In any of the university building chosen we will set up a meeting room for organization, short meetings, cloakroom and anything else that is needed. We will use volunteers to staff a help desk during the whole conference; in past experiences students with enough knowledge of English have been used. 
 
+=head3 Audiovisual and other facts about the facilities
+
 All rooms have projectors and a computer, plus the usual audiovisual equipment. However, the Free Software Office has not been able to conquer all of them for free software, so the free Software Office will lend a few laptops just in case speakers want to use them. These projectors usually have VGA plugs, so speakers using Macs and others with HDMI or USB  connection will have to provide their own converters (we can have a few handy, though).
 
 The keynote rooms are auditorium-style, usually, with seats ascending. Other plenary rooms we could use (which, as we said, will depend on total attendance) have the same arrangement. Usual classrooms for parallel sessions are usually flat. 
 
 The end of August is outside the classes period, but we will have to go to the very end since the university is shuttered for the rest of the month. That implies also that there will be few, if any, restrictions in the use of classes and other spaces, since there will be no students.
+
+=head3 Alternatives
 
 In the very rare case that we would exceed 600 people attending the conference, Granada can offer many places: Parque de las Ciencias and (a science museum) and a Conference Center. However, the L<university of Granada has many
 campuses (three in the city of Granada) and
@@ -143,6 +147,8 @@ Philology and other Humanities-related degrees) which can sit 560
 people. If the conference blown up to epic proportions, we could use
 the conference center, which would also blow up the budget, since
 they obviously charge for room occupation.  However, if there is such a big amount of attendees budget might not be a problem. 
+
+=head3 Facilities at the UGR
 
 Our preferred venue is the
 L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
@@ -180,23 +186,27 @@ room" mentioned before is inside the university building with the rest
 of the rooms used close by, in the same building a few meters away. 
 
 
+=head3 Refreshments
+
 In the budget we will include lunches. In previous experiences
 (EvoStar 2014) we have given a Tapas Experience instead of a lunch at
 an university cafeteria, providing attendees with scrip that can be changed for a lunch in any of several pubs or bars around the university (5 minutes away, tops) or several drinks with tapas, which is an usual way to have lunch in Spain and increases networking, since you can have a drink in a place and then go to the next one. The experience in EvoStar 2014 was very positive in terms of quality and satisfaction. Besides, using several bars dimensioned according to attendance is usually faster and more efficient than having 300 lunches served in a single place. 
 
 If we eventually decide not to include lunch inexpensive places, from tapas to pizzas through vegan dishes, can be had close to any university building we decide. 
 
-Granada is linked to Madrid, London and Barcelona by regular daily and
+=head3 Getting here
+
+L<Granada is linked to Madrid, London and Barcelona|http://www.skyscanner.es/vuelos-a/grx/companias-aereas-que-vuelan-a-granada-aeropuerto.html> by regular daily and
 frequent flights and also to Mallorca and to other places (but flight
-frequencies vary often). ME<aacute>laga is one hour away by car or 2 hours by
-bus and is linked to all major European cities. There are buses and
+frequencies vary often and are sometimes seasonal). L<ME<aacute>laga is roughly one hour away by car or 2 hours by
+bus and is linked to all major European cities|http://en.wikipedia.org/wiki/M%C3%A1laga_Airport#Airlines_and_destinations> (and many minor, as long as they have enough sun-and-party-hungry punters). There are also buses and
 trains to Madrid and Seville, but coach is always the best option
 outside the plane.
 
 The ETSIIT is linked to the city center (with many lodging options) by
-several buses. Depending on the date, student residences might also be
+several bus lines. Depending on the date, student residences might also be
 available (July is the best date for that, since usual guests will be
-on holiday).
+on holiday). It is possible, but not likely, that Granada light rail system will be working by August 2015. There is a station close to the ETSIIT that would link it in minutes to the railway station and other points of interest in the city, including hotel areas. 
 
 
 =head3 Catering
