@@ -110,7 +110,15 @@ We have pre-acceptance for holding it at the
 L<ETSIIT|http://etsiit.ugr.es> Computer Science School, which is
 in the outskirts of the city but has all the facilities needed for
 a multi-room conference and is, anyways, well communicated with
-the rest of the city. Close by there is a provincial government building that could be used for keynotes. We will buy enough extension cords for conference users; being a university building, it is well prepared for lots of people using electricity. All university buildings fulfill EC rules regarding accesibility, including access via wheelchairs or magnetic loops systems for people with hearing difficulties. No wired connectivity is previewed, in principle, but if needed a meeting room with access to the university network will be arranged. 
+the rest of the city. Close by there is a provincial government
+building that could be used for keynotes. We will buy enough extension
+cords for conference users; being a university building, it is well
+prepared for lots of people using electricity. All university
+buildings fulfill EC rules regarding accessibility,  including access
+via wheelchairs or magnetic loops systems for people with hearing
+difficulties. No wired connectivity is previewed, in principle, but if
+needed a meeting room with access to the university network will be
+arranged.  
 
 The IT services at the  university of Granada provide an easy way to set up guest access, which is
     dimensioned for 2K students times three devices. You will not be
@@ -118,13 +126,63 @@ The IT services at the  university of Granada provide an easy way to set up gues
     OK for anything else. Besides, for anybody coming from an academic
     environment, EduRoam works without a glitch.
 
-In any of the university building chosed we will set up a meeting room for organization, short meetings, cloakroom and anything else that is needed. We will use volunteers to staff a help desk during the whole conference; in past experiences students with enough knowledge of English have been used. 
+In any of the university building chosen we will set up a meeting room for organization, short meetings, cloakroom and anything else that is needed. We will use volunteers to staff a help desk during the whole conference; in past experiences students with enough knowledge of English have been used. 
 
 All rooms have projectors and a computer, plus the usual audiovisual equipment. However, the Free Software Office has not been able to conquer all of them for free software, so the free Software Office will lend a few laptops just in case speakers want to use them. These projectors usually have VGA plugs, so speakers using Macs and others with HDMI or USB  connection will have to provide their own converters (we can have a few handy, though).
 
 The keynote rooms are auditorium-style, usually, with seats ascending. Other plenary rooms we could use (which, as we said, will depend on total attendance) have the same arrangement. Usual classrooms for parallel sessions are usually flat. 
 
-In the budget we will include lunches. In previous experiences (EvoStar 2014) we have given a Tapas Experience instead of a lunch at an university cafeteria, provinding attendees with script that can be changed for a lunch in any of several pubs or bars around the university (5 minutes away, tops) or several drinks with tapas, which is an usual way to have lunch in Spain and increases networking, since you can have a drink in a place and then go to the next one. The experience in EvoStar 2014 was very positive in terms of quality and satisfaction. Besides, using several bars dimensioned according to attendance is usually faster and more efficient than having 300 lunches served in a single place. 
+The end of August is outside the classes period, but we will have to go to the very end since the university is shuttered for the rest of the month. That implies also that there will be few, if any, restrictions in the use of classes and other spaces, since there will be no students.
+
+In the very rare case that we would exceed 600 people attending the conference, Granada can offer many places: Parque de las Ciencias and (a science museum) and a Conference Center. However, the L<university of Granada has many
+campuses (three in the city of Granada) and
+buildings|http://www.ugr.es/pages/centros>, most of which can
+accommodate any amount of people, including the Aula Magna at the
+Facultad de Letras (literally, Letters Faculty, which includes
+Philology and other Humanities-related degrees) which can sit 560
+people. If the conference blown up to epic proportions, we could use
+the conference center, which would also blow up the budget, since
+they obviously charge for room occupation.  However, if there is such a big amount of attendees budget might not be a problem. 
+
+Our preferred venue is the
+L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
+whose biggest room can fit 196 people, with room for a few more in the
+sidelines or standing up. If attendance is not more than 250 people, we would
+go for this venue, since there is also a FSO storage room, the offices
+of most organizers, and it is the obvious choice, being the Computer
+Science School and all. There are air-conditioned classrooms with 100
+capacity, and other rooms with 78 seats, 8 of each + 3 more
+classrooms, also air conditioned with a capacity of 60. The cafeteria can sit up to 120 people (but we would do the tapas crawl for lunch, something we successfully did during EvoStar). This place is conveniently linked by public transport to the city center, and not far away from a tram stop. 
+
+Second choice for over 250 people would be L<the Polytechnic
+building|http://etsiccp.ugr.es/>, closer to downtown, but home to
+people that get their hands dirty building bridges and houses (not any
+more in Spain) and harbours. The L<conference
+room|http://etsiccp.ugr.es/pages/reserva_aulas_medios/capacidades_aulas_y_medios>
+can hold 0b100000000 persons which would actually be a nicer capacity for the
+CS school, but it is not, so up to 300 including standing room.  
+
+Third choice would be the Aula Magna at the L<Sciences
+Faculty|http://fciencias.ugr.es> which has been recently renovated and
+includes can hold up to 506 seats. This campus is right next to the
+second one and also practically in the city center. It has many
+classrooms with capacity from 60 to 150. These two places actually
+have a tram stop nearby. That the tram will be actually passing by it
+next year is a riddle. It might, having been under construction for 9
+years and all, but then it might not. 
+
+As you see, the main criterium for choosing venue is the number of
+simultaneous people it can hold at the same time. Since this will
+depend on the attendance of the current YAPC as well as how many
+people we are going to attract, we cannot commit ourselves to one of
+them right now and we keep our options open. At any rate, any "big
+room" mentioned before is inside the university building with the rest
+of the rooms used close by, in the same building a few meters away. 
+
+
+In the budget we will include lunches. In previous experiences
+(EvoStar 2014) we have given a Tapas Experience instead of a lunch at
+an university cafeteria, providing attendees with scrip that can be changed for a lunch in any of several pubs or bars around the university (5 minutes away, tops) or several drinks with tapas, which is an usual way to have lunch in Spain and increases networking, since you can have a drink in a place and then go to the next one. The experience in EvoStar 2014 was very positive in terms of quality and satisfaction. Besides, using several bars dimensioned according to attendance is usually faster and more efficient than having 300 lunches served in a single place. 
 
 If we eventually decide not to include lunch inexpensive places, from tapas to pizzas through vegan dishes, can be had close to any university building we decide. 
 
@@ -546,7 +604,7 @@ Good hotel, not very expensive and close to a good tapas area (Severo Ochoa stre
 =item Carmen - 4* (55 E<euro> by night)
 Cheap hotel, but with good quality. It is near to the city centre.
 
-=item Maciá Gran Via - 3* (50 E<euro> by night)
+=item MaciE<aacute> Gran Via - 3* (50 E<euro> by night)
 In the main street and quite cheap.
 
 =item Puerta de las Granadas - 3* (70 E<euro> by night)
@@ -638,7 +696,7 @@ We will look for sponsors in any case, but will focus more on lunch
 Any special needs will be catered for during lunch.
 
 
- 
+=over  
 
 =item B< 2. You mentioned organizing various "side trips", but it's not clear if
 these are a Friend&Family program during the conference or if they are
@@ -687,33 +745,6 @@ funding of local (Spanish level) Perl initiatives.
 
 =over
 
-
-
-=item B< 5. Given the fact that you are tied to the University schedule, are you
-sure you will be able to use Wednesday to Friday (which you mentioned in
-the Q&A section of the proposal) for the main conference days, if you
-opt for early September in the end?>
- 
-=back
-
-Yes. Even as some classrooms will be occupied by exams, there will not
-be so many as in June and early July.
-
-=over
-
-=item B< 6. Do you have any alternative venue candidates?>
- 
-=back
-
-It is really not worth the while. The L<university of Granada has many
-campuses (three in the city of Granada) and
-buildings|http://www.ugr.es/pages/centros>, most of which can
-accommodate any amount of people, including the Aula Magna at the
-Facultad de Letras (literally, Letters Faculty, which includes
-Philology and other Humanities-related degrees) which can sit 560
-people. If the conference blown up to epic proportions, we could use
-the Palace of Congresses, but that would need additional budget, since
-they obviously charge for room occupation. 
 
 =over
 
@@ -842,33 +873,6 @@ attendees) as needed.
 
 =over
 
-=item B<18. Do you know the configuration of the venue and if it contains enough rooms and what is the capacity of them?>
- 
-=back
-
-Our preferred venue is the
-L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
-whose biggest room can fit 196 people, with room for a few more in the
-sidelines or standing up. If attendance is up to 250 people, we would
-go for this venue, since there is also a FSO storage room, the offices
-of most organizers, and it's the obvious choice, being the Computer
-Science School and all. There are air-conditioned classrooms with 100
-capacity, and other rooms with 78 seats, 8 of each + 3 more
-classrooms, also air conditioned with a capacity of 60.
-
-Second choice for over 250 people would be L<the Polytechnic
-building|http://etsiccp.ugr.es/>, closer to downtown, but home to
-people that get their hands dirty building bridges and houses (not any
-more in Spain) and harbours. The L<conference
-room|http://etsiccp.ugr.es/pages/reserva_aulas_medios/capacidades_aulas_y_medios>
-can hold 0b100000000 persons which would actually be a nicer capacity for the
-CS school, but it is not. 
-
-Third choice would be the Aula Magna at the L<Sciences
-Faculty|http://fciencias.ugr.es> which has been recently renovated and
-includes can hold up to 506 seats. This campus is right next to the
-second one and also practically in the city center. It has many
-classrooms with capacity from 60 to 150.
 
 =over
 
@@ -884,23 +888,7 @@ them. Beyond that, we would have to hire the palace of Congresses.
 
 =over
 
-=item B< 20. Are the different rooms for talk tracks situated close enough to each
-other so that the attendees can easily change rooms between talks?>
- 
-=back
-
-It's an university building (any of them), that's their bread and butter.
-
 =over
-
-=item B< 21. The 10K euro "ballpark" you have got in the "Budget" section, what
-does it include?>
- 
-=back
-
-That has been the usual figure for other conferences with ~100
-attendees. Figures have been revised in the new budget (in 3
-scenarios)
 
 =over
 

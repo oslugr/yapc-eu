@@ -31,7 +31,7 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  CEDI
  Malaga
  CPAN
- EDUROAM
+ EduRoam
  Facebook
  GitHub
  MJD
@@ -116,6 +116,10 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  kms
  ElasticSearch
  JENUI
+ HDMI
+ Kuperman
+ USB
+ 
 EOI
 
 local $ENV{LC_ALL} = 'C';
