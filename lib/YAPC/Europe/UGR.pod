@@ -78,7 +78,7 @@ Pedro Castillo is a longtime Perl user and instructor, is the head of
 
 =item *
 
-Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada, Salvador Fandiño and Diego Kuperman. 
+Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada, Salvador FandiE<ntilde> o and Diego Kuperman. 
 
 =item *
 
@@ -177,7 +177,7 @@ have a tram stop nearby. That the tram will be actually passing by it
 next year is a riddle. It might, having been under construction for 9
 years and all, but then it might not. 
 
-As you see, the main criterium for choosing venue is the number of
+As you see, the main factor for choosing venue is the number of
 simultaneous people it can hold at the same time. Since this will
 depend on the attendance of the current YAPC as well as how many
 people we are going to attract, we cannot commit ourselves to one of

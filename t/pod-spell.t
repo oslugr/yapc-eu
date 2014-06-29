@@ -119,7 +119,11 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  HDMI
  Kuperman
  USB
- 
+ Muntada
+ Parque
+ Ciencias
+ laga
+ th
 EOI
 
 local $ENV{LC_ALL} = 'C';
