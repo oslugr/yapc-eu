@@ -85,7 +85,7 @@ Spanish computer science event).
 =item *
 
 Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada,
-Salvador FandiE<ntilde>o and Diego Kuperman.
+Salvador Fandino and Diego Kuperman.
 
 =item *
 
