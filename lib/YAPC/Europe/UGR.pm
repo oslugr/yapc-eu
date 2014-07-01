@@ -29,6 +29,8 @@ sub pick_best_venue {
 
 __END__
 
+=encoding utf8
+
 =head1 NAME
 
 YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
@@ -101,7 +103,7 @@ Spanish computer science event).
 =item *
 
 Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada,
-Salvador Fandino and Diego Kuperman.
+Salvador FandiE<ntilde>o and Diego Kuperman.
 
 =item *
 

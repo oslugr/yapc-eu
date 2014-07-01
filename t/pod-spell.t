@@ -125,7 +125,7 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  laga
  th
  Albayzin
- Fandino
+ Fandi\xf1o
 EOI
 
 local $ENV{LC_ALL} = 'C';
