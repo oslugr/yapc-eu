@@ -400,7 +400,7 @@ University of Granada) event. The University of Granada covers insurance costs t
 This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 30K E<euro>. We will also apply to local
+We are talking of a ballpark of 30KE<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one, although this will depend on
@@ -422,20 +422,20 @@ in the same ballpark as previous events:
 
 =over 4
 
-=item Guests, Speakers, Organizers : 0 E<euro>
+=item Guests, Speakers, Organizers : 0E<euro>
 
-=item Full-time students: 50 E<euro>
+=item Full-time students: 50E<euro>
 
-=item Early-bird: 80 E<euro>
+=item Early-bird: 80E<euro>
 
-=item Regular price: 110 E<euro>
+=item Regular price: 110E<euro>
 
-=item Corporate tariff: 900 E<euro>
+=item Corporate tariff: 900E<euro>
 
 =back
 
 Final fees have to be announced.  We will request any amount from
-sponsors, and past events have gathered around 6000 E<euro> exclusively from local
+sponsors, and past events have gathered around 6000E<euro> exclusively from local
 sponsors. A minimum of 1000E<euro> can be expected from those sources.
 
 =head3 Costs
@@ -444,11 +444,11 @@ There are several costs per attendee:
 
 =over 4
 
-=item T-shirt: 4.5 E<euro>
+=item T-shirt: 4.5E<euro>
 
-=item Catering: 35 E<euro>
+=item Catering: 35E<euro>
 
-=item Bag: 4 E<euro>
+=item Bag: 4E<euro>
 
 =item badge, and other stuff: 2E<euro>
 
@@ -464,11 +464,11 @@ sponsors.
 The budget will be adjusted mainly by changing the number of lunches and coffee breaks.
 
 In this scenario the only fixed cost is covering the costs of the 75
-speakers which is 5625 E<euro>. Realistically, that cost can be
+speakers which is 5625E<euro>. Realistically, that cost can be
 covered only by sponsorships and company fees.
 
 If we add the cost of one or two invited speakers at around 
-2000 E<euro> per speaker, there is a deficit of 9625 E<euro>. 
+2000E<euro> per speaker, there is a deficit of 9625E<euro>. 
 If sponsorships are not reached (or corporate-fee paying, which it's
 not clear how many are there) lunches would be eliminated, 
 allowing us to basically have every paying person cover the cost of a
@@ -542,7 +542,7 @@ Some price for return tickets to Granada; these are for next September 2013.
 
 =back
 
-Most flights are in the 200-500 E<euro> range. 
+Most flights are in the 200-500E<euro> range. 
 
 There are many more options to Malaga, which is a big airport, 
 including low-cost flights, but then you have to take a bus or 
@@ -565,7 +565,7 @@ Some sample prices and itineraries:
 =item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), 
 several buses a day, roughly every hour; normal 5h and 17.53 
 E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with WiFi)
-4.5h and 35-87 E<euro> (only two of these 13:30, 19:30).
+4.5h and 35-87E<euro> (only two of these 13:30, 19:30).
 
 =item Seville-Granada and back, 41E<euro>, 3h15m. 
 
@@ -575,13 +575,13 @@ Train trips:
 
 =over 4
 
-=item Madrid - Granada:  4.5h, 62 E<euro>
+=item Madrid - Granada:  4.5h, 62E<euro>
 
-=item Barcelona - Granada: 12h, 56 E<euro>, really a long trip 
+=item Barcelona - Granada: 12h, 56E<euro>, really a long trip 
 in wagon-lit, but an inexpensive option. Barcelona has rail links to
 major European cities. 
 
-=item Seville - Granada: 3h, 22 E<euro>
+=item Seville - Granada: 3h, 22E<euro>
 
 =back 
 
@@ -668,7 +668,7 @@ ages, so there are several economical lodgings.  So the city provides
 dozens of hotels ranging from 5-star to 1-star ones. It must be noted
 that hotels in Spain (and maybe more in Granada) are usually well
 priced due to the competition among them. Thus, a 4-star hotel may
-often be in the 75-100 E<euro> range and a 3-star hotel in the 50-75
+often be in the 75-100E<euro> range and a 3-star hotel in the 50-75
 E<euro> range.  Of course, some fluctuations can happen depending on
 the particular hotel and the zone where it is, but special packages
 are also possible, allowing more economic prices.
@@ -685,37 +685,37 @@ The best hotel in the city. Located at the main street (Gran
 VE<iacute>a) in the city centre. Well communicated to reach the
 ETSIIT.
 
-=item Abba - 4* (75 E<euro> by night)
+=item Abba - 4* (75E<euro> by night)
 
 New hotel (less than 3 years old), close to the train station and near
 the city centre. Well placed to get to the ETSIIT (Avda
 ConstituciE<oacute>n). Usually has good offers for University events,
 including free WiFi and access to the spa, which we would arrange.
 
-=item Vincci - 4* (80 E<euro> by night)
+=item Vincci - 4* (80E<euro> by night)
 
 Well-considered hotel in the city, close to the train station and near
 the city centre. Well placed to get to the ETSIIT (Avda
 ConstituciE<oacute>n).
 
-=item Granada Center - 4* (65 E<euro> by night)
+=item Granada Center - 4* (65E<euro> by night)
 
 Good hotel, not very expensive and close to a good tapas area (Severo
 Ochoa street, in front of the Faculty of Sciences).
 
-=item Carmen - 4* (55 E<euro> by night)
+=item Carmen - 4* (55E<euro> by night)
 
 Cheap hotel, but with good quality. It is near to the city centre.
 
-=item Macia Gran Via - 3* (50 E<euro> by night)
+=item Macia Gran Via - 3* (50E<euro> by night)
 
 In the main street and quite cheap.
 
-=item Puerta de las Granadas - 3* (70 E<euro> by night)
+=item Puerta de las Granadas - 3* (70E<euro> by night)
 
 Just below the Alhambra. Smack in the middle of the  tourist area. Only 14 rooms.
 
-=item Juan Miguel - 3* (45 E<euro> by night)
+=item Juan Miguel - 3* (45E<euro> by night)
 
 Cheap hotel in the city centre, close to the city hall.
 
