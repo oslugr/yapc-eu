@@ -400,7 +400,7 @@ University of Granada) event. The University of Granada covers insurance costs t
 This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 30KE<euro>. We will also apply to local
+We are talking of a ballpark of 30K E<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one, although this will depend on
