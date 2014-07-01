@@ -42,18 +42,12 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 =head1 DESCRIPTION
 
-This module describes the bid by the
-L<Free Software Office at the University of Granada|http://osl.ugr.es>
-aided by Barcelona.pm and Madrid.pm to host YAPC::EU 2015.
-
-=head2 University of Granada proposal for YAPC::EU 2015
-
 The L<Free Software Office|http://osl.ugr.es> at the
 L<University of Granada|http://www.ugr.es>,
 with the support of Granada.pm, Madrid.pm and
 Barcelona.pm presents this bid for YAPC::EU 2015.
 
-=head3 Organizers
+=head2 Organizers
 
 The L<OSL (Free Software Office, FSO)|http://osl.ugr.es> is led by
 L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a long Perl
