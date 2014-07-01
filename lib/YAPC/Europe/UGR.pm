@@ -147,10 +147,9 @@ needed a meeting room with access to the university network will be
 arranged.
 
 The IT services at the University of Granada provide an easy way to
-set up guest access, which is dimensioned for 2,000 students times
-three devices. You will not be able to operate a CPAN mirror off your
-laptop, but you should be OK for anything else. Besides, for anybody
-coming from an academic environment, EduRoam works without a glitch.
+set up WiFi guest access (limited to HTTP/HTTPS). For those coming
+from an academic environment EduRoam works without a glitch. The
+network is able to support 5,000 concurrently connected devices.
 
 In any of the university building chosen we will set up a meeting room
 for organization, short meetings, cloakroom and anything else that is
@@ -234,7 +233,6 @@ people we are going to attract, we cannot commit ourselves to one of
 them right now and we keep our options open. At any rate, any "big
 room" mentioned before is inside the university building with the rest
 of the rooms used close by, in the same building a few meters away. 
-
 
 =head3 Refreshments
 
