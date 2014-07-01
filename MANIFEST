@@ -4,3 +4,4 @@ MANIFEST			This list of files
 pod2pdf.conf
 t/0.t
 t/pod-spell.t
+t/pureascii.t
