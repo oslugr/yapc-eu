@@ -24,6 +24,6 @@ WriteMakefile(
 sub MY::postamble {
     return <<'MAKE_FRAG';
 pdf:
-	pod2pdf @pod2pdf.conf lib/YAPC/Europe/UGR.pod> UGR.pdf
+	pod2pdf @pod2pdf.conf lib/YAPC/Europe/UGR.pm> UGR.pdf
 MAKE_FRAG
   }
