@@ -1,4 +1,4 @@
-ï»¿package YAPC::Europe::UGR;
+package YAPC::Europe::UGR;
 
 use warnings;
 use strict;
@@ -476,8 +476,8 @@ cover the 75 speakers.
 
 The  L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
 worst case scenario in which official sponsorships go down to 0 and
-there are no corporate fees. A reduction of 15â‚¬ in the catering (which
-can be changed in the last minute) provides a result of around 250â‚¬ of
+there are no corporate fees. A reduction of 15¤ in the catering (which
+can be changed in the last minute) provides a result of around 250¤ of
 deficit which can be absorbed by the Free Software Office. 
 
  
