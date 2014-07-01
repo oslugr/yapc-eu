@@ -147,8 +147,8 @@ needed a meeting room with access to the university network will be
 arranged.
 
 The IT services at the University of Granada provide an easy way to
-set up guest access, which is dimensioned for 2K students times three
-devices. You will not be able to operate a CPAN mirror off your
+set up guest access, which is dimensioned for 2,000 students times
+three devices. You will not be able to operate a CPAN mirror off your
 laptop, but you should be OK for anything else. Besides, for anybody
 coming from an academic environment, EduRoam works without a glitch.
 
@@ -400,7 +400,7 @@ University of Granada) event. The University of Granada covers insurance costs t
 This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 30KE<euro>. We will also apply to local
+We are talking of a ballpark of 30,000E<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one, although this will depend on
@@ -606,8 +606,8 @@ opportunities for trekking up in Sierra Nevada or in the Alpujarras.
 
 The bid from the Free Software Office at the University of Granada 
 is organized by a group of persons with experience in organizing
-events, some experience attending YAPC::Eu events (including,
-possibly, this next Kiev YAPC::Eu), will take place in an incredibly
+events, some experience attending YAPC::Europe events (including,
+possibly, this next Kiev YAPC::Europe), will take place in an incredibly
 nice city, easily accessible by plane, in a venue (the University of
 Granada) with all needed facilities and with support from local
 university government, local free software SMEs and enthusiastic Perl
