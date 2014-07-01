@@ -3,9 +3,31 @@
 use warnings;
 use strict;
 
-use version; our $VERSION = qv('0.0.4');
+use feature qw(say switch);
+use experimental qw(smartmatch);
 
-=pod
+use version;
+our $VERSION = qv('0.0.4');
+
+use Exporter qw(import);
+our @EXPORT_OK = qw(pick_best_venue);
+
+sub pick_best_venue {
+    my $year = shift // 2015;
+    given ($year) {
+        when ('2015') { # force string comparison
+            return "Granada";
+        }
+    }
+    default {
+        # TODO: update this as new proposals come out
+        return 'Cluj-Napoca';
+    }
+}
+
+1;
+
+__END__
 
 =head1 NAME
 
@@ -13,9 +35,9 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 =head1 SYNOPSIS
 
-    use YAPC::Europe::UGR;
+    use YAPC::Europe::UGR qw(pick_best_venue);
 
-    use const YAPC::Europe::2015::venue => "UGR";
+    say "And the winner is... ", pick_best_venue(2015);
 
 
 =head1 DESCRIPTION
@@ -24,7 +46,7 @@ This module describes the bid by the
 L<Free Software Office at the University of Granada|http://osl.ugr.es>
 aided by Barcelona.pm and Madrid.pm to host YAPC::EU 2015.
 
-=head2  University of Granada proposal for YAPC::EU 2015
+=head2 University of Granada proposal for YAPC::EU 2015
 
 The L<Free Software Office|http://osl.ugr.es> at the
 L<University of Granada|http://www.ugr.es>,
