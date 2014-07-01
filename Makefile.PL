@@ -10,11 +10,12 @@ WriteMakefile(
     # PL_FILES            => {},
     PREREQ_PM => {
         'Test::More' => 0,
-	'Test::Pod' => 0,
+        'Test::Pod' => 0,
         'Test::Spelling' => 0,
         'Test::PureASCII' => 0,
         'version' => 0,
         'experimental' => 0,
+        'App::pod2pdf' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'YAPC-Europe-UGR*' },
