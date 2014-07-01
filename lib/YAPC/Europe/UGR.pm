@@ -238,21 +238,28 @@ of the rooms used close by, in the same building a few meters away.
 
 =head3 Refreshments
 
-In the budget we will include lunches. In previous experiences
-(EvoStar 2014) we have given a Tapas Experience instead of a lunch at
-an university cafeteria, providing attendees with scrip that can be
-changed for a lunch in any of several pubs or bars around the
-university (5 minutes away, tops) or several drinks with tapas, which
-is an usual way to have lunch in Spain and increases networking, since
-you can have a drink in a place and then go to the next one. The
-experience in EvoStar 2014 was very positive in terms of quality and
-satisfaction. Besides, using several bars dimensioned according to
-attendance is usually faster and more efficient than having 300
-lunches served in a single place.
+In previous experiences (EvoStar 2014) we have organized a Tapas
+Experience for lunch and our intention is to organize it again this
+time.
 
-If we eventually decide not to include lunch inexpensive places, from
-tapas to pizzas through vegan dishes, can be had close to any
-university building we decide.
+We will provide every attendee with several "tapa" vouchers that they
+can exchange in the pubs and bars around the venue (5 minutes away,
+top) at their discrection in order to have lunch, dinners or well, at
+any time they feel hungry.
+
+"Tapas" are a small dish usually served accompanied by a drink. Every
+bar has its own specialties and style and as a whole they provide
+great variety. Granada's tapas are quite remarkable. They form part of
+the city essence and are at the center of its social life.
+
+This is also a good way to increase networking, since you usally have
+a "tapa" in some bar, then go to another one where you can meet a
+different set of people, etc. The experience in EvoStar 2014 was very
+positive in terms of quality and satisfaction.
+
+Besides, we would ensure that we have enough bars to cope with the
+attendance and that they all have offerings covering special needs,
+specifically vegan dishes.
 
 =head3 Getting here
 
