@@ -44,61 +44,60 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 =head1 DESCRIPTION
 
-The L<Free Software Office|http://osl.ugr.es> at the
-L<University of Granada|http://www.ugr.es>,
-with the support of Granada.pm, Madrid.pm and
-Barcelona.pm presents this bid for YAPC::EU 2015.
+The L<OSL|http://osl.ugr.es> (Oficina de Software Libre, Free Software
+Office in Spanish) at the University of Granada with the support of
+and Barcelona.pm presents this bid for YAPC::EU 2015.
 
 =head2 Organizers
 
-The L<OSL (Free Software Office, FSO)|http://osl.ugr.es> is led by
-L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a long Perl
-experience, founder of the mainly course-oriented
-L<Granada.pm|http://granada.pm> (which organizes virtual courses of
-L<basic Perl|http://cevug.ugr.es/perl> and L<intermediate
-Perl|http://cevug.ugr.es/perl_avanzado>) with a long history and more
-than a dozen editions. Merelo has attended, and made presentations, at
-the YAPC::EU 2002 (Munich) and 2010 (Lisbon) conferences, and also
-attended and presented papers at the 2013 and 2014 FOSDEM Perl
-devrooms.
+We are the The OSL at the Univertity of Granada, led by L<JJ
+Merelo|http://search.cpan.org/~jmerelo/>. Under the name of Granada.pm
+we have a great involvement in the Spanish Perl Comunity.
 
-They also organized the first Spanish Perl workshop, L<the Granada
-Perl Workshop|http://workshop.granada.pm>, which took place in Granada
-on the 27th of June, 2014, starting a series of workshops organized by
-Granada, Madrid and Barcelona PMs that will take place, in principle,
-twice a year.
+We have organized the virtual course L<Perl|http://cevug.ugr.es/perl>
+for more than a dozen editions and lately also the course
+L<Perl avanzado (Advanced Perl)|http://cevug.ugr.es/perl_avanzado>.
 
-The OSL and Granada PM will have the support of the two strongest Perl
-Mongers group in the Spanish state, Madrid.pm and Barcelona.pm, who
-will help with anything that is not quintessentially local.
+We organized the first Perl workshop in Spain L<the Granada Perl
+Workshop|http://workshop.granada.pm>, which took place in Granada on
+the 27th of June, 2014.
 
-The key local persons of the proposal would be:
+The OSL has also the support of the two strongest Perl Monger groups
+in Spain, Madrid.pm and Barcelona.pm, and of several other spanish
+Perl hackers.
+
+The key local persons supporting the proposal are:
 
 =over 4
 
-=item *
+=item * JJ Merelo
 
-JJ Merelo, with experience organizing other events such as PPSN 2002
-and ECAL 1995, in the evolutionary algorithm area. Also collaboration
-with other conferences such as CEC 2011 or EvoStar, and many events by
-the OSL, such as NotBarraLibreCamp. He collaborated also with the
-organization of CIG 2012 (~100 persons), JENUI 2009 (local teaching in
-informatics conference, ~ 100 persons), and L<EvoStar
-2014|http://evostar.org> (~150 persons).
+He has already organized other conferences in the past such as PPSN
+2002 and ECAL 1995, in the evolutionary algorithm area and has also
+collaborated in the organization of other conferences such as CEC 2011
+or L<EvoStar 2014|http://evostar.org> (~150 persons), and many events
+such as NotBarraLibreCamp. He collaborated also with the organization
+of CIG 2012 (~100 persons), JENUI 2009 (local teaching in informatics
+conference, ~ 100 persons).
 
-=item *
+He has attended several Perl events in the past and made
+presentations, including several YAPC::Europe (2002, 2010) or FOSDEM
+Perl devrooms (2013, 2014).
 
-Antonio Mora was the local organizer for the L<Computational
+=item * Antonio Mora
+
+He was the local organizer for the L<Computational
 Inteligence in Games conference|http://geneura.ugr.es/cig2012/> and is
 currently a postdoc at the University of Granada.
 
-=item *
+=item * Pedro Castillo
 
-Pedro Castillo is a longtime Perl user and instructor, is the head of
-the GeNeura research group who is also collaborating in the
-organization of this conference, and has been involved in the
+He is a long-time Perl hacker and instructor.
+
+He is the head of the GeNeura research group who is also collaborating
+in the organization of this conference, and has been involved in the
 organization of several conferences, including CIG and CEDI (big
-Spanish computer science event).
+Spanish anual CS event).
 
 =item *
 
