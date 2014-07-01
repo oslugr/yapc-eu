@@ -422,22 +422,21 @@ in the same ballpark as previous events:
 
 =over 4
 
-=item Guests, Speakers, Organizers : 0 EUR
+=item Guests, Speakers, Organizers : 0 E<euro>
 
-=item Full-time students: 50 EUR
+=item Full-time students: 50 E<euro>
 
-=item Early-bird: 80 EUR
+=item Early-bird: 80 E<euro>
 
-=item Regular price: 110 EUR
+=item Regular price: 110 E<euro>
 
-=item Corporate tariff:
-900 EUR
+=item Corporate tariff: 900 E<euro>
 
 =back
 
 Final fees have to be announced.  We will request any amount from
-sponsors, and past events have gathered around 6000EUR exclusively from local
-sponsors. A minimum of 1000EUR can be expected from those sources.
+sponsors, and past events have gathered around 6000 E<euro> exclusively from local
+sponsors. A minimum of 1000E<euro> can be expected from those sources.
 
 =head3 Costs
 
@@ -445,22 +444,22 @@ There are several costs per attendee:
 
 =over 4
 
-=item T-shirt: 4.5 EUR
+=item T-shirt: 4.5 E<euro>
 
-=item Catering: 35 EUR 
+=item Catering: 35 E<euro>
 
-=item Bag: 4 EUR
+=item Bag: 4 E<euro>
 
-=item badge, and other stuff: 2EUR
+=item badge, and other stuff: 2E<euro>
 
-=item Attendees dinner: 30EUR
+=item Attendees dinner: 30E<euro>
 
 =back
 
-This is around 75EUR per attendee, fully covered by early-bird 
-fee and with a deficit for speakers and students. 
-This will be balanced with the surplus provided by late arrivals, corporate fees 
-and sponsors. 
+This is around 75E<euro> per attendee, fully covered by early-bird fee
+and with a deficit for speakers and students.  This will be balanced
+with the surplus provided by late arrivals, corporate fees and
+sponsors.
 
 The budget will be adjusted mainly by changing the number of lunches and coffee breaks.
 
@@ -476,11 +475,12 @@ allowing us to basically have every paying person cover the cost of a
 single speaker; in that case we would need as few as 75 attendees to
 cover the 75 speakers.
 
-The  L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
+The L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
 worst case scenario in which official sponsorships go down to 0 and
-there are no corporate fees. A reduction of 15¤ in the catering (which
-can be changed in the last minute) provides a result of around 250¤ of
-deficit which can be absorbed by the Free Software Office. 
+there are no corporate fees. A reduction of 15E<euro> in the catering
+(which can be changed in the last minute) provides a result of around
+250E<euro> of deficit which can be absorbed by the Free Software
+Office.
 
  
 =head2 Sponsors
