@@ -125,8 +125,11 @@ Kuperman and other members of the Perl Mongers groups.
 
 =head3 Contact
 
-We will setup an address @ugr.es, but for the time being the contact
-will be L<dirosl@ugr.es> (direction of the Free Software office director).
+For the time being, the contact email for any matter related to this
+proposal is L<email:dirosl@ugl.es> (OSL direction address).
+
+In case we win the bid, we will setup a new address specifically for
+supporting the event.
 
 =head2 Venue
 
