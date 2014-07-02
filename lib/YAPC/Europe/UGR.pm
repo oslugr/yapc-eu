@@ -316,21 +316,21 @@ We propose I<The Art of Perl> as the conference theme.
 
 We believe that coding is a mix between craft and Art.
 
-As hackers, just solving problems is not enough for us. We like to do
-it but in elegant an beautiful ways.
+As hackers, just solving problems is not enough for us. We also need
+to do it in elegant an beautiful ways!
 
-When programming we create Art.
+When programming we create Art!
 
 When using code, when reading code, we enjoy it!
 
 And Perl, because of its expressivity, concision, flexibility,
 amalgamability and power, is one of the best languages for doing
-it.
+it!
 
 Because perl bends around your mind and not the other way around!
 
 On this conference we want to proclaim that programming in Perl is an
-Art.
+Art!
 
 Also, there has been people using Perl for more traditional forms of
 art such as Poetry for as far as our memory (Google) can reach.  There
