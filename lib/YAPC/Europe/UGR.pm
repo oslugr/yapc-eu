@@ -880,7 +880,7 @@ it is eventually held there) or corporate sponsors.
 One meal, one coffee break, but as shown in the budget section, meals
 and coffees will be reserved when budget is secured for them.
 
-=item B<Will catering be organised inside the venue or outside?>
+=item B<Will catering be organized inside the venue or outside?>
 
 Inside. All faculties in the UGR include a cafeteria and other common
 areas for students.
@@ -946,8 +946,8 @@ See above, of course that's provided for. Up to 500 attendees there
 are several places in the University of Granada that can fit
 them. Beyond that, we would have to hire the palace of Congresses. 
 
-=item B<Do you have enough team members to organise countdown service in
-each of the talk rooms?>
+=item B<Do you have enough team members to organize a countdown
+service in each of the talk rooms?>
 
 Yes. We have enough persons providing services to the FSO and we'll
 accept volunteers for credit, as has been done in other conferences in
