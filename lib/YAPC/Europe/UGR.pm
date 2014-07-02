@@ -312,15 +312,34 @@ touristic season, if there's such a thing in Granada).
 
 =head3 Theme
 
-We propose I<The art of Perl> as a theme for this conference. Perl
-poetry has been all but forgotten, and, besides, the Fine Arts school
-is close to the Computer Science school, so we might even attract some
-of those free spirits to our conference.
+We propose I<The Art of Perl> as the conference theme.
+
+We believe that coding is a mix between craft and Art.
+
+As hackers, just solving problems is not enough for us. We like to do
+it but in elegant an beautiful ways.
+
+When programming we create Art.
+
+When using code, when reading code, we enjoy it!
+
+And Perl, because of its expressivity, concision, flexibility,
+amalgamability and power, is one of the best languages for doing
+it.
+
+Because perl bends around your mind and not the other way around!
+
+On this conference we want to proclaim that programming in Perl is an
+Art.
+
+Also, there has been people using Perl for more traditional forms of
+art such as Poetry for as far as our memory (Google) can reach.  There
+would also be a place for that kind of art at the conference.
 
 =head2 Website
 
-We will host it at the OSL servers, using Act! or other Perl toolkit
-for creating websites. No PHP. I promise.
+In order to reuse the database from previous conferences, we will use
+the Act! toolkit for the conference web.
 
 =head2 Amusements
 
