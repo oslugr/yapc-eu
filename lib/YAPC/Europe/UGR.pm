@@ -192,11 +192,11 @@ In any case, these are the alternatives:
 
 The University of Granada has at least L<three other
 campuses|http://www.ugr.es/pages/centros> inside the city which could
-accomodate conferences with up to five hundred attendees, including
+fit conferences with up to five hundred attendees, including
 the Facultad de Letras (Humanities) whose main hall has capacity for
 five hundred and sixty persons.
 
-If the conference blowns up to epic proportions, we could move the
+If the conference blows up to epic proportions, we could move the
 event to Granada Conference Center which can cope with attendances on
 the thousands.
 
@@ -269,7 +269,7 @@ vegan dishes.
 As an alternative to the "Tapas experience" we could use the canteen
 located on the ETSIIT building which can has two hundred and fifty
 sitting places or to arrange some other space in the building
-specially for the ocassion. In that case a buffet style lunch would be
+specially for the occasion. In that case a buffet style lunch would be
 served.
 
 =head3 Getting here
@@ -323,8 +323,8 @@ When programming we create Art!
 
 When using code, when reading code, we enjoy it!
 
-And Perl, because of its expressivity, concision, flexibility,
-amalgamability and power, is one of the best languages for doing
+And Perl, because of its expressiveness, concision, flexibility,
+stickiness (or rather glue-ness) and power, is one of the best languages for doing
 it!
 
 Because perl bends around your mind and not the other way around!
