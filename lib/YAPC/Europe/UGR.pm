@@ -81,7 +81,7 @@ of CIG 2012 (~100 persons), JENUI 2009 (local
 conference on Informatics Teaching, ~100 persons).
 
 He has attended several Perl events in the past and made
-presentations, including several YAPC::Europe (2002, 2010) or FOSDEM
+presentations, including several YAPC::Europe (2002, 2010) and FOSDEM
 Perl devrooms (2013, 2014).
 
 =item * Antonio Mora
@@ -168,26 +168,19 @@ We will use volunteers with good English skills (taken from our
 student pool) to staff a help desk during the whole conference. We
 have already done that successfully at previous events.
 
-=head3 Audiovisual and other facts about the facilities
+=head3 Conference rooms
 
-All rooms have projectors and a computer, plus the usual audiovisual
-equipment. However, the Free Software Office has not been able to
-conquer all of them for free software, so the free Software Office
-will lend a few laptops just in case speakers want to use them. These
-projectors usually have VGA plugs, so speakers using Macs and others
-with HDMI or USB connection will have to provide their own converters
-(we can have a few handy, though).
+All rooms are equipped with public-address system, computer and FullHD
+projectors. MAC and HDMI adapters will be available from the
+organization upon request.
 
-The keynote rooms are auditorium-style, usually, with seats
-ascending. Other plenary rooms we could use (which, as we said, will
-depend on total attendance) have the same arrangement. Usual
-classrooms for parallel sessions are usually flat.
+The biggest rooms are auditorium-style, with tiered seats. For talks
+with smaller audiences, we will use regular class-rooms which can
+hold up to fifty persons comfortably and are flat.
 
-The end of August is outside the classes period, but we will have to
-go to the very end since the university is shuttered for the rest of
-the month. That implies also that there will be few, if any,
-restrictions in the use of classes and other spaces, since there will
-be no students.
+We will have almost no restrictions on the usage of the university
+spaces as on August there is little, or none at all, academic
+activity.
 
 =head3 Alternatives
 
