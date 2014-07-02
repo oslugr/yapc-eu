@@ -44,73 +44,74 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 =head1 DESCRIPTION
 
-The L<Free Software Office|http://osl.ugr.es> at the
-L<University of Granada|http://www.ugr.es>,
-with the support of Granada.pm, Madrid.pm and
-Barcelona.pm presents this bid for YAPC::EU 2015.
+The L<OSL|http://osl.ugr.es> (Oficina de Software Libre, Free Software
+Office in Spanish) at the University of Granada with the support of
+and Barcelona.pm presents this bid for YAPC::EU 2015.
 
 =head2 Organizers
 
-The L<OSL (Free Software Office, FSO)|http://osl.ugr.es> is led by
-L<JJ Merelo|http://search.cpan.org/~jmerelo/>, with a long Perl
-experience, founder of the mainly course-oriented
-L<Granada.pm|http://granada.pm> (which organizes virtual courses of
-L<basic Perl|http://cevug.ugr.es/perl> and L<intermediate
-Perl|http://cevug.ugr.es/perl_avanzado>) with a long history and more
-than a dozen editions. Merelo has attended, and made presentations, at
-the YAPC::EU 2002 (Munich) and 2010 (Lisbon) conferences, and also
-attended and presented papers at the 2013 and 2014 FOSDEM Perl
-devrooms.
+We are the The OSL at the University of Granada, led by L<JJ
+Merelo|http://search.cpan.org/~jmerelo/>. Under the name of Granada.pm
+we have a great involvement in the Spanish Perl Community.
 
-They also organized the first Spanish Perl workshop, L<the Granada
-Perl Workshop|http://workshop.granada.pm>, which took place in Granada
-on the 27th of June, 2014, starting a series of workshops organized by
-Granada, Madrid and Barcelona PMs that will take place, in principle,
-twice a year.
+We have organized the virtual course L<Perl|http://cevug.ugr.es/perl>
+for more than a dozen editions and lately also the course
+L<Perl Avanzado (Advanced Perl)|http://cevug.ugr.es/perl_avanzado>.
 
-The OSL and Granada PM will have the support of the two strongest Perl
-Mongers group in the Spanish state, Madrid.pm and Barcelona.pm, who
-will help with anything that is not quintessentially local.
+We organized the first Perl workshop in Spain L<the Granada Perl
+Workshop|http://workshop.granada.pm>, which took place in Granada on
+the 27th of June, 2014.
 
-The key local persons of the proposal would be:
+The OSL has also the support of the two strongest Perl Monger groups
+in Spain, Madrid.pm and Barcelona.pm, and of several other Spanish
+Perl hackers.
+
+The key local persons supporting the proposal are as follows:
 
 =over 4
 
-=item *
+=item * JJ Merelo
 
-JJ Merelo, with experience organizing other events such as PPSN 2002
-and ECAL 1995, in the evolutionary algorithm area. Also collaboration
-with other conferences such as CEC 2011 or EvoStar, and many events by
-the OSL, such as NotBarraLibreCamp. He collaborated also with the
-organization of CIG 2012 (~100 persons), JENUI 2009 (local teaching in
-informatics conference, ~ 100 persons), and L<EvoStar
-2014|http://evostar.org> (~150 persons).
+He has already organized other conferences in the past such as PPSN
+2002 and ECAL 1995, in the evolutionary algorithm area and has also
+collaborated in the organization of other conferences such as CEC 2011
+or L<EvoStar 2014|http://evostar.org> (~150 persons), and many events
+such as NotBarraLibreCamp. He collaborated also with the organization
+of CIG 2012 (~100 persons), JENUI 2009 (local
+conference on Informatics Teaching, ~100 persons).
 
-=item *
+He has attended several Perl events in the past and made
+presentations, including several YAPC::Europe (2002, 2010) or FOSDEM
+Perl devrooms (2013, 2014).
 
-Antonio Mora was the local organizer for the L<Computational
+=item * Antonio Mora
+
+He was the local organizer for the L<Computational
 Inteligence in Games conference|http://geneura.ugr.es/cig2012/> and is
 currently a postdoc at the University of Granada.
 
-=item *
+=item * Pedro Castillo
 
-Pedro Castillo is a longtime Perl user and instructor, is the head of
-the GeNeura research group who is also collaborating in the
-organization of this conference, and has been involved in the
+He is a long-time Perl hacker and instructor.
+
+He is the head of the GeNeura research group who is also collaborating
+in the organization of this conference, and has been involved in the
 organization of several conferences, including CIG and CEDI (big
-Spanish computer science event).
+Spanish annual CS event).
 
-=item *
+=back
 
-Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada,
-Salvador FandiE<ntilde>o and Diego Kuperman.
+Other local organizations and groups of people supporting the event
+are as follows:
 
-=item *
+=over 4
+
+=item * OSL volunteers
 
 Volunteers and other people attached to the
 L<OSL|http://osl.ugr.es/about/quienes-somos/>.
 
-=item *
+=item * IT Delegation of the University of Granada
 
 Additional help from the
 L<IT delegation of the University of Granada|http://detic.ugr.es>
@@ -118,10 +119,17 @@ and L<Computer Science School|http://etsiit.ugr.es>.
 
 =back
 
+Other people not from Granada collaborating with the organization of
+the event are Alex Muntada, Salvador FandiE<ntilde>o, Diego
+Kuperman and other members of the Perl Mongers groups.
+
 =head3 Contact
 
-We will setup an address @ugr.es, but for the time being the contact
-will be L<dirosl@ugr.es> (direction of the Free Software office director).
+For the time being, the contact email for any matter related to this
+proposal is L<email:dirosl@ugl.es> (OSL direction address).
+
+In case we win the bid, we will setup a new address specifically for
+supporting the event.
 
 =head2 Venue
 
@@ -146,16 +154,19 @@ difficulties. No wired connectivity is previewed, in principle, but if
 needed a meeting room with access to the university network will be
 arranged.
 
-The IT services at the University of Granada provide an easy way to
-set up WiFi guest access (limited to HTTP/HTTPS). For those coming
-from an academic environment EduRoam works without a glitch. The
-network is able to support 5,000 concurrently connected devices.
+The IT services at the University of Granada provides an easy way to
+set up WiFi guest access (limited to HTTP/HTTPS). EduRoam is also
+available for those coming from an academic environment and it works
+without a glitch. The network is able to support up to 5k devices
+concurrently.
 
-In any of the university building chosen we will set up a meeting room
-for organization, short meetings, cloakroom and anything else that is
-needed. We will use volunteers to staff a help desk during the whole
-conference; in past experiences students with enough knowledge of
-English have been used.
+Regardless of the university building we choose, we will set up a
+couple of additional rooms for organizational purposes, storage,
+short meetings, BOFs and anything else that is needed.
+
+We will use volunteers with good English skills (taken from our
+student pool) to staff a help desk during the whole conference. We
+have already done that successfully at previous events.
 
 =head3 Audiovisual and other facts about the facilities
 
@@ -470,18 +481,18 @@ The budget will be adjusted mainly by changing the number of lunches and coffee 
 
 In this scenario the only fixed cost is covering the costs of the 75
 speakers which is 5625E<euro>. Realistically, that cost can be
-covered only by sponsorships and company fees.
+covered only by sponsorship and company fees.
 
 If we add the cost of one or two invited speakers at around 
 2000E<euro> per speaker, there is a deficit of 9625E<euro>. 
-If sponsorships are not reached (or corporate-fee paying, which it's
+If sponsorship is not reached (or corporate-fee paying, which it's
 not clear how many are there) lunches would be eliminated, 
 allowing us to basically have every paying person cover the cost of a
 single speaker; in that case we would need as few as 75 attendees to
 cover the 75 speakers.
 
 The L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
-worst case scenario in which official sponsorships go down to 0 and
+worst case scenario in which official sponsorship goes down to 0 and
 there are no corporate fees. A reduction of 15E<euro> in the catering
 (which can be changed in the last minute) provides a result of around
 250E<euro> of deficit which can be absorbed by the Free Software
@@ -824,8 +835,8 @@ Perl events if YAPC::Europe in Granada makes a profit?>
 
 As indicated in the (changed) budget section, that will depend on the
 source of surplus. If we have a surplus at the end of the conference
-arising mainly from the fees and sponsorships, it will be donated back
-to YEF/TPF/YAPC::Europe::2015. However, official sponsorships from
+arising mainly from the fees and sponsorship, it will be donated back
+to YEF/TPF/YAPC::Europe::2015. However, official sponsorship from
 government/university/regional sources usually happen (and sometimes
 is even known about) I<after>, sometimes much after, the
 conference. If we I<know> about these sources I<before> the
@@ -869,7 +880,7 @@ it is eventually held there) or corporate sponsors.
 One meal, one coffee break, but as shown in the budget section, meals
 and coffees will be reserved when budget is secured for them.
 
-=item B<Will catering be organised inside the venue or outside?>
+=item B<Will catering be organized inside the venue or outside?>
 
 Inside. All faculties in the UGR include a cafeteria and other common
 areas for students.
@@ -933,10 +944,10 @@ same time?>
 
 See above, of course that's provided for. Up to 500 attendees there
 are several places in the University of Granada that can fit
-them. Beyond that, we would have to hire the palace of Congresses. 
+them. Beyond that, we would have to hire the palace of Congresses.
 
-=item B<Do you have enough team members to organise countdown service in
-each of the talk rooms?>
+=item B<Do you have enough team members to organize a countdown
+service in each of the talk rooms?>
 
 Yes. We have enough persons providing services to the FSO and we'll
 accept volunteers for credit, as has been done in other conferences in
