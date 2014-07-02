@@ -145,16 +145,19 @@ difficulties. No wired connectivity is previewed, in principle, but if
 needed a meeting room with access to the university network will be
 arranged.
 
-The IT services at the University of Granada provide an easy way to
-set up WiFi guest access (limited to HTTP/HTTPS). For those coming
-from an academic environment EduRoam works without a glitch. The
-network is able to support 5,000 concurrently connected devices.
+The IT services at the University of Granada provides an easy way to
+set up WiFi guest access (limited to HTTP/HTTPS). EduRoam is also
+available for those coming from an academic environment and it works
+without a glitch. The network is able to support up to 5k devices
+concurrently.
 
-In any of the university building chosen we will set up a meeting room
-for organization, short meetings, cloakroom and anything else that is
-needed. We will use volunteers to staff a help desk during the whole
-conference; in past experiences students with enough knowledge of
-English have been used.
+Regardless of the university building we choose, we will set up a
+couple of additional rooms for organizational pourposes, storage,
+short meetings, BOFs and anything else that is needed.
+
+We will use volunteers with good English skills (taken from our
+student pool) to staff a help desk during the whole conference. We
+have already done that successfully at previous events.
 
 =head3 Audiovisual and other facts about the facilities
 
