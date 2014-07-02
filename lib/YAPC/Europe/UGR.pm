@@ -66,7 +66,7 @@ The OSL has also the support of the two strongest Perl Monger groups
 in Spain, Madrid.pm and Barcelona.pm, and of several other spanish
 Perl hackers.
 
-The key local persons supporting the proposal are:
+The key local persons supporting the proposal are as follows:
 
 =over 4
 
@@ -99,23 +99,29 @@ in the organization of this conference, and has been involved in the
 organization of several conferences, including CIG and CEDI (big
 Spanish anual CS event).
 
-=item *
+=back
 
-Members of the Madrid.pm and Barcelona.pm, specially Alex Muntada,
-Salvador FandiE<ntilde>o and Diego Kuperman.
+Other local organizations and groups of people supporting the event
+are as follows:
 
-=item *
+=over 4
+
+=item * OSL volunteers
 
 Volunteers and other people attached to the
 L<OSL|http://osl.ugr.es/about/quienes-somos/>.
 
-=item *
+=item * IT Delegation of the University of Granada
 
 Additional help from the
 L<IT delegation of the University of Granada|http://detic.ugr.es>
 and L<Computer Science School|http://etsiit.ugr.es>.
 
 =back
+
+Other people not from Granada collaborating with the organization of
+the event are Alex Muntada, Salvador FandiE<ntilde>o, Diego
+Kuperman and other members of the Perl Mongers groups.
 
 =head3 Contact
 
