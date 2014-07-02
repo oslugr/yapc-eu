@@ -50,13 +50,13 @@ and Barcelona.pm presents this bid for YAPC::EU 2015.
 
 =head2 Organizers
 
-We are the The OSL at the Univertity of Granada, led by L<JJ
+We are the The OSL at the University of Granada, led by L<JJ
 Merelo|http://search.cpan.org/~jmerelo/>. Under the name of Granada.pm
 we have a great involvement in the Spanish Perl Community.
 
 We have organized the virtual course L<Perl|http://cevug.ugr.es/perl>
 for more than a dozen editions and lately also the course
-L<Perl avanzado (Advanced Perl)|http://cevug.ugr.es/perl_avanzado>.
+L<Perl Avanzado (Advanced Perl)|http://cevug.ugr.es/perl_avanzado>.
 
 We organized the first Perl workshop in Spain L<the Granada Perl
 Workshop|http://workshop.granada.pm>, which took place in Granada on
@@ -97,7 +97,7 @@ He is a long-time Perl hacker and instructor.
 He is the head of the GeNeura research group who is also collaborating
 in the organization of this conference, and has been involved in the
 organization of several conferences, including CIG and CEDI (big
-Spanish anual CS event).
+Spanish annual CS event).
 
 =back
 
