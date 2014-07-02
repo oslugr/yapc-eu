@@ -63,7 +63,7 @@ Workshop|http://workshop.granada.pm>, which took place in Granada on
 the 27th of June, 2014.
 
 The OSL has also the support of the two strongest Perl Monger groups
-in Spain, Madrid.pm and Barcelona.pm, and of several other spanish
+in Spain, Madrid.pm and Barcelona.pm, and of several other Spanish
 Perl hackers.
 
 The key local persons supporting the proposal are as follows:
@@ -481,18 +481,18 @@ The budget will be adjusted mainly by changing the number of lunches and coffee 
 
 In this scenario the only fixed cost is covering the costs of the 75
 speakers which is 5625E<euro>. Realistically, that cost can be
-covered only by sponsorships and company fees.
+covered only by sponsorship and company fees.
 
 If we add the cost of one or two invited speakers at around 
 2000E<euro> per speaker, there is a deficit of 9625E<euro>. 
-If sponsorships are not reached (or corporate-fee paying, which it's
+If sponsorship is not reached (or corporate-fee paying, which it's
 not clear how many are there) lunches would be eliminated, 
 allowing us to basically have every paying person cover the cost of a
 single speaker; in that case we would need as few as 75 attendees to
 cover the 75 speakers.
 
 The L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
-worst case scenario in which official sponsorships go down to 0 and
+worst case scenario in which official sponsorship goes down to 0 and
 there are no corporate fees. A reduction of 15E<euro> in the catering
 (which can be changed in the last minute) provides a result of around
 250E<euro> of deficit which can be absorbed by the Free Software
@@ -835,8 +835,8 @@ Perl events if YAPC::Europe in Granada makes a profit?>
 
 As indicated in the (changed) budget section, that will depend on the
 source of surplus. If we have a surplus at the end of the conference
-arising mainly from the fees and sponsorships, it will be donated back
-to YEF/TPF/YAPC::Europe::2015. However, official sponsorships from
+arising mainly from the fees and sponsorship, it will be donated back
+to YEF/TPF/YAPC::Europe::2015. However, official sponsorship from
 government/university/regional sources usually happen (and sometimes
 is even known about) I<after>, sometimes much after, the
 conference. If we I<know> about these sources I<before> the
