@@ -77,8 +77,8 @@ He has already organized other conferences in the past such as PPSN
 collaborated in the organization of other conferences such as CEC 2011
 or L<EvoStar 2014|http://evostar.org> (~150 persons), and many events
 such as NotBarraLibreCamp. He collaborated also with the organization
-of CIG 2012 (~100 persons), JENUI 2009 (local teaching in informatics
-conference, ~ 100 persons).
+of CIG 2012 (~100 persons), JENUI 2009 (local
+conference on Informatics Teaching, ~100 persons).
 
 He has attended several Perl events in the past and made
 presentations, including several YAPC::Europe (2002, 2010) or FOSDEM
