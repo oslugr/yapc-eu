@@ -81,7 +81,7 @@ of CIG 2012 (~100 persons), JENUI 2009 (local
 conference on Informatics Teaching, ~100 persons).
 
 He has attended several Perl events in the past and made
-presentations, including several YAPC::Europe (2002, 2010) or FOSDEM
+presentations, including several YAPC::Europe (2002, 2010) and FOSDEM
 Perl devrooms (2013, 2014).
 
 =item * Antonio Mora
@@ -168,41 +168,37 @@ We will use volunteers with good English skills (taken from our
 student pool) to staff a help desk during the whole conference. We
 have already done that successfully at previous events.
 
-=head3 Audiovisual and other facts about the facilities
+=head3 Conference rooms
 
-All rooms have projectors and a computer, plus the usual audiovisual
-equipment. However, the Free Software Office has not been able to
-conquer all of them for free software, so the free Software Office
-will lend a few laptops just in case speakers want to use them. These
-projectors usually have VGA plugs, so speakers using Macs and others
-with HDMI or USB connection will have to provide their own converters
-(we can have a few handy, though).
+All rooms are equipped with public-address system, computer and FullHD
+projectors. MAC and HDMI adapters will be available from the
+organization upon request.
 
-The keynote rooms are auditorium-style, usually, with seats
-ascending. Other plenary rooms we could use (which, as we said, will
-depend on total attendance) have the same arrangement. Usual
-classrooms for parallel sessions are usually flat.
+The biggest rooms are auditorium-style, with tiered seats. For talks
+with smaller audiences, we will use regular class-rooms which can
+hold up to fifty persons comfortably and are flat.
 
-The end of August is outside the classes period, but we will have to
-go to the very end since the university is shuttered for the rest of
-the month. That implies also that there will be few, if any,
-restrictions in the use of classes and other spaces, since there will
-be no students.
+We will have almost no restrictions on the usage of the university
+spaces as on August there is little, or none at all, academic
+activity.
 
 =head3 Alternatives
 
-In the very rare case that we would exceed 600 people attending the
-conference, Granada can offer many places: Parque de las Ciencias and
-(a science museum) and a Conference Center. However, the L<University
-of Granada has many campuses (three in the city of Granada) and
-buildings|http://www.ugr.es/pages/centros>, most of which can
-accommodate any amount of people, including the Aula Magna at the
-Facultad de Letras (literally, Letters Faculty, which includes
-Philology and other Humanities-related degrees) which can sit 560
-people. If the conference blown up to epic proportions, we could use
-the conference center, which would also blow up the budget, since they
-obviously charge for room occupation.  However, if there is such a big
-amount of attendees budget might not be a problem.
+As our request to use the ETSIIT building for the conference has
+already been accepted by the University board, it is very unlikely
+that we could need to move the event to a different venue.
+
+In any case, these are the alternatives:
+
+The University of Granada has at least L<three other
+campuses|http://www.ugr.es/pages/centros> inside the city which could
+accomodate conferences with up to five hundred attendees, including
+the Facultad de Letras (Humanities) whose main hall has capacity for
+five hundred and sixty persons.
+
+If the conference blowns up to epic proportions, we could move the
+event to Granada Conference Center which can cope with attendances on
+the thousands.
 
 =head3 Facilities at the UGR
 
@@ -245,7 +241,7 @@ them right now and we keep our options open. At any rate, any "big
 room" mentioned before is inside the university building with the rest
 of the rooms used close by, in the same building a few meters away. 
 
-=head3 Refreshments
+=head3 Catering
 
 In previous experiences (EvoStar 2014) we have organized a Tapas
 Experience for lunch and our intention is to organize it again this
@@ -266,9 +262,15 @@ a "tapa" in some bar, then go to another one where you can meet a
 different set of people, etc. The experience in EvoStar 2014 was very
 positive in terms of quality and satisfaction.
 
-Besides, we would ensure that we have enough bars to cope with the
-attendance and that they all have offerings covering special needs,
-specifically vegan dishes.
+We would ensure that we have enough bars to cope with the attendance
+and that they all have offerings covering special needs, specifically
+vegan dishes.
+
+As an alternative to the "Tapas experience" we could use the canteen
+located on the ETSIIT building which can has two hundred and fifty
+sitting places or to arrange some other space in the building
+specially for the ocassion. In that case a buffet style lunch would be
+served.
 
 =head3 Getting here
 
@@ -292,21 +294,6 @@ close to the ETSIIT that would link it in minutes to the railway
 station and other points of interest in the city, including hotel
 areas.
 
-
-=head3 Catering
-
-The school has a relatively large cafeteria and a university canteen,
-which can accommodate a good amount of hungry students. There are 250
-sitting places, but buffer-style eating with sitting space outside the
-cafeteria, including common areas and classes, can also be
-arranged. The school cafeteria can provide the food itself for a good
-price (from 17E<euro> a sitting, served menu to less if it's standing around
-tables).
-
-Cheap beer-and tapas can be had around the school for 2E<euro> beer + tapa
-of choice, four  beers (or non-alcoholic drinks) are enough for any hungry
-monger.
-
 =head2 Conference Details
 
 It's going to be, AFAIK, the YAPC::EU southernmost conference, so this
@@ -325,15 +312,34 @@ touristic season, if there's such a thing in Granada).
 
 =head3 Theme
 
-We propose I<The art of Perl> as a theme for this conference. Perl
-poetry has been all but forgotten, and, besides, the Fine Arts school
-is close to the Computer Science school, so we might even attract some
-of those free spirits to our conference.
+We propose I<The Art of Perl> as the conference theme.
+
+We believe that coding is a mix between craft and Art.
+
+As hackers, just solving problems is not enough for us. We also need
+to do it in elegant an beautiful ways!
+
+When programming we create Art!
+
+When using code, when reading code, we enjoy it!
+
+And Perl, because of its expressivity, concision, flexibility,
+amalgamability and power, is one of the best languages for doing
+it!
+
+Because perl bends around your mind and not the other way around!
+
+On this conference we want to proclaim that programming in Perl is an
+Art!
+
+Also, there has been people using Perl for more traditional forms of
+art such as Poetry for as far as our memory (Google) can reach.  There
+would also be a place for that kind of art at the conference.
 
 =head2 Website
 
-We will host it at the OSL servers, using Act! or other Perl toolkit
-for creating websites. No PHP. I promise.
+In order to reuse the database from previous conferences, we will use
+the Act! toolkit for the conference web.
 
 =head2 Amusements
 
