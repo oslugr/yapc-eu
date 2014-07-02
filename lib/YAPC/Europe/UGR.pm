@@ -184,18 +184,21 @@ activity.
 
 =head3 Alternatives
 
-In the very rare case that we would exceed 600 people attending the
-conference, Granada can offer many places: Parque de las Ciencias and
-(a science museum) and a Conference Center. However, the L<University
-of Granada has many campuses (three in the city of Granada) and
-buildings|http://www.ugr.es/pages/centros>, most of which can
-accommodate any amount of people, including the Aula Magna at the
-Facultad de Letras (literally, Letters Faculty, which includes
-Philology and other Humanities-related degrees) which can sit 560
-people. If the conference blown up to epic proportions, we could use
-the conference center, which would also blow up the budget, since they
-obviously charge for room occupation.  However, if there is such a big
-amount of attendees budget might not be a problem.
+As our request to use the ETSIIT building for the conference has
+already been accepted by the University board, it is very unlikely
+that we could need to move the event to a different venue.
+
+In any case, these are the alternatives:
+
+The University of Granada has at least L<three other
+campuses|http://www.ugr.es/pages/centros> inside the city which could
+accomodate conferences with up to five hundred attendees, including
+the Facultad de Letras (Humanities) whose main hall has capacity for
+five hundred and sixty persons.
+
+If the conference blowns up to epic proportions, we could move the
+event to Granada Conference Center which can cope with attendances on
+the thousands.
 
 =head3 Facilities at the UGR
 
@@ -238,7 +241,7 @@ them right now and we keep our options open. At any rate, any "big
 room" mentioned before is inside the university building with the rest
 of the rooms used close by, in the same building a few meters away. 
 
-=head3 Refreshments
+=head3 Catering
 
 In previous experiences (EvoStar 2014) we have organized a Tapas
 Experience for lunch and our intention is to organize it again this
@@ -259,9 +262,15 @@ a "tapa" in some bar, then go to another one where you can meet a
 different set of people, etc. The experience in EvoStar 2014 was very
 positive in terms of quality and satisfaction.
 
-Besides, we would ensure that we have enough bars to cope with the
-attendance and that they all have offerings covering special needs,
-specifically vegan dishes.
+We would ensure that we have enough bars to cope with the attendance
+and that they all have offerings covering special needs, specifically
+vegan dishes.
+
+As an alternative to the "Tapas experience" we could use the canteen
+located on the ETSIIT building which can has two hundred and fifty
+sitting places or to arrange some other space in the building
+specially for the ocassion. In that case a buffet style lunch would be
+served.
 
 =head3 Getting here
 
@@ -284,21 +293,6 @@ light rail system will be working by August 2015. There is a station
 close to the ETSIIT that would link it in minutes to the railway
 station and other points of interest in the city, including hotel
 areas.
-
-
-=head3 Catering
-
-The school has a relatively large cafeteria and a university canteen,
-which can accommodate a good amount of hungry students. There are 250
-sitting places, but buffer-style eating with sitting space outside the
-cafeteria, including common areas and classes, can also be
-arranged. The school cafeteria can provide the food itself for a good
-price (from 17E<euro> a sitting, served menu to less if it's standing around
-tables).
-
-Cheap beer-and tapas can be had around the school for 2E<euro> beer + tapa
-of choice, four  beers (or non-alcoholic drinks) are enough for any hungry
-monger.
 
 =head2 Conference Details
 
