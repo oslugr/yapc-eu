@@ -241,7 +241,7 @@ time.
 
 We will provide every attendee with several "tapa" vouchers that they
 can exchange in the pubs and bars around the venue (5 minutes away,
-top) at their discrection in order to have lunch, dinners or well, at
+top) at their discretion in order to have lunch, dinners or well, at
 any time they feel hungry.
 
 "Tapas" are a small dish usually served accompanied by a drink. Every
@@ -249,7 +249,7 @@ bar has its own specialties and style and as a whole they provide
 great variety. Granada's tapas are quite remarkable. They form part of
 the city essence and are at the center of its social life.
 
-This is also a good way to increase networking, since you usally have
+This is also a good way to increase networking, since you usually have
 a "tapa" in some bar, then go to another one where you can meet a
 different set of people, etc. The experience in EvoStar 2014 was very
 positive in terms of quality and satisfaction.
@@ -404,7 +404,7 @@ University of Granada) event. The University of Granada covers insurance costs t
 This will leave us some
 leeway to give a better attendees dinner.
 
-We are talking of a ballpark of 30,000E<euro>. We will also apply to local
+We are talking of a ballpark of 30K E<euro>. We will also apply to local
 science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit (or, for
 that matter, surplus) if there is one, although this will depend on
