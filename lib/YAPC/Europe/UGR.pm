@@ -161,7 +161,7 @@ without a glitch. The network is able to support up to 5k devices
 concurrently.
 
 Regardless of the university building we choose, we will set up a
-couple of additional rooms for organizational pourposes, storage,
+couple of additional rooms for organizational purposes, storage,
 short meetings, BOFs and anything else that is needed.
 
 We will use volunteers with good English skills (taken from our
@@ -944,7 +944,7 @@ same time?>
 
 See above, of course that's provided for. Up to 500 attendees there
 are several places in the University of Granada that can fit
-them. Beyond that, we would have to hire the palace of Congresses. 
+them. Beyond that, we would have to hire the palace of Congresses.
 
 =item B<Do you have enough team members to organize a countdown
 service in each of the talk rooms?>
