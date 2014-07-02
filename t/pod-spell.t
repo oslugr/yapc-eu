@@ -126,6 +126,11 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  th
  Albayzin
  Fandi\xf1o
+ BOFs
+ Oficina
+ avanzado
+ informatics
+ 
 EOI
 
 local $ENV{LC_ALL} = 'C';
