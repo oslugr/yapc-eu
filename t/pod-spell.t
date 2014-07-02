@@ -131,6 +131,7 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  avanzado
  informatics
  FullHD
+ ness
 EOI
 
 local $ENV{LC_ALL} = 'C';
