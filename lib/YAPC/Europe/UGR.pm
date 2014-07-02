@@ -52,7 +52,7 @@ and Barcelona.pm presents this bid for YAPC::EU 2015.
 
 We are the The OSL at the Univertity of Granada, led by L<JJ
 Merelo|http://search.cpan.org/~jmerelo/>. Under the name of Granada.pm
-we have a great involvement in the Spanish Perl Comunity.
+we have a great involvement in the Spanish Perl Community.
 
 We have organized the virtual course L<Perl|http://cevug.ugr.es/perl>
 for more than a dozen editions and lately also the course
