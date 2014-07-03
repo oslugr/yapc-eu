@@ -202,29 +202,7 @@ the thousands.
 
 =head3 Facilities at the UGR
 
-Our preferred venue is the
-L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
-whose biggest room can fit 196 people, with room for a few more in the
-sidelines or standing up. If attendance is not more than 250 people,
-we would go for this venue, since there is also a FSO storage room,
-the offices of most organizers, and it is the obvious choice, being
-the Computer Science School and all. There are air-conditioned
-classrooms with 100 capacity, and other rooms with 78 seats, 8 of each
-+ 3 more classrooms, also air conditioned with a capacity of 60. The
-cafeteria can sit up to 120 people (but we would do the tapas crawl
-for lunch, something we successfully did during EvoStar). This place
-is conveniently linked by public transport to the city center, and not
-far away from a tram stop.
-
-Second choice for over 250 people would be L<the Polytechnic
-building|http://etsiccp.ugr.es/>, closer to downtown, but home to
-people that get their hands dirty building bridges and houses (not any
-more in Spain) and harbours. The
-L<conference room|http://etsiccp.ugr.es/pages/reserva_aulas_medios/capacidades_aulas_y_medios>
-can hold 0b100000000 persons which would actually be a nicer capacity for the
-CS school, but it is not, so up to 300 including standing room.
-
-Third choice would be the Aula Magna at the L<Sciences
+Our first choice for a expected attendance of around 400 persons would be the Aula Magna at the L<Sciences
 Faculty|http://fciencias.ugr.es> which has been recently renovated and
 includes can hold up to 506 seats. This campus is right next to the
 second one and also practically in the city center. It has many
@@ -233,44 +211,56 @@ have a tram stop nearby. That the tram will be actually passing by it
 next year is a riddle. It might, having been under construction for 9
 years and all, but then it might not. 
 
+For up to 250 conference goers, Our preferred venue is the
+L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
+whose biggest room can fit 196 people, with room for a few more in the
+sidelines or standing up. If attendance is not more than 250 people,
+we would go for this venue, since there is also a FSO storage room,
+the offices of most organizers, and it is the obvious choice, being
+the Computer Science School and all. There are air-conditioned
+classrooms with capacity for 100 persons, and other rooms with 78 seats, 8 of each
++ 3 more classrooms, also air conditioned, with a capacity of 60 PAX. The
+cafeteria can sit up to 120 people (but we would do the tapas crawl
+for lunch, something we successfully did during EvoStar). This place
+is conveniently linked by public transport to the city center, and not
+far away from a tram stop.
+
 As you see, the main factor for choosing venue is the number of
 simultaneous people it can hold at the same time. Since this will
 depend on the attendance of the current YAPC as well as how many
 people we are going to attract, we cannot commit ourselves to one of
-them right now and we keep our options open. At any rate, any "big
+them right now and we keep our options open; if chosen, we will make a pre-reservation of spaces in both and will discard the one that is finally not used. At any rate, any "big
 room" mentioned before is inside the university building with the rest
-of the rooms used close by, in the same building a few meters away. 
+of the rooms used close by, in the same building a few meters away. Toilettes are not far away either.
 
 =head3 Catering
 
-In previous experiences (EvoStar 2014) we have organized a Tapas
+In previous events (EvoStar 2014) we have organized a Tapas
 Experience for lunch and our intention is to organize it again this
-time.
+time. There are several reasons for this, the main being that it is difficult to serve 400 people from a central location and simultaneously. It is a load-distribution algorithm, but also a way of sharing with the local community. It provides more choice for attendees and also more opportunities for networking.
 
 We will provide every attendee with several "tapa" vouchers that they
 can exchange in the pubs and bars around the venue (5 minutes away,
-top) at their discretion in order to have lunch, dinners or well, at
+top) at their discretion in order to have lunch, dinners or well, anything at
 any time they feel hungry.
 
-"Tapas" are a small dish usually served accompanied by a drink. Every
+A "Tapa" are a small dish usually served accompanied by a drink (it is actually the other way round, but you get the drift). Every
 bar has its own specialties and style and as a whole they provide
-great variety. Granada's tapas are quite remarkable. They form part of
-the city essence and are at the center of its social life.
+great variety (including vegetarian and vegan). Granada's tapas are quite remarkable. They form part of
+the essence of the essence and are at the center of its social life. You can have conference lunch anywhere, but nowhere but in Granada you can have a Conference Tapas Crawl. 
 
-This is also a good way to increase networking, since you usually have
+This is also a good way to increase networking, since you can have
 a "tapa" in some bar, then go to another one where you can meet a
-different set of people, etc. The experience in EvoStar 2014 was very
-positive in terms of quality and satisfaction.
+different set of people. The experience in EvoStar 2014 was very
+positive in terms of quality and satisfaction. Not so much so for the speakers in the first session in the afternoon, but those never get the best deal anyway.
 
 We would ensure that we have enough bars to cope with the attendance
 and that they all have offerings covering special needs, specifically
 vegan dishes.
 
-As an alternative to the "Tapas experience" we could use the canteen
-located on the ETSIIT building which can has two hundred and fifty
-sitting places or to arrange some other space in the building
-specially for the occasion. In that case a buffet style lunch would be
-served.
+As an alternative to the "Tapas crawl" we can use the canteen
+located on any of the two university buildings, supplemented with additional space to fit all the attendees (probably in the hall or another university canteen nearby).  In that case a buffet style lunch would be
+served. Anyway, the univeristy canteen will be included in the tapas crawl for those people that do not want or cannot move from the building. 
 
 =head3 Getting here
 
@@ -286,9 +276,11 @@ punters). There are also buses and trains to Madrid and Seville, but
 coach is always the best option outside the plane.
 
 The ETSIIT is linked to the city center (with many lodging options) by
-several bus lines. Depending on the date, student residences might
+three bus lines. Depending on the date, student residences might
 also be available (July is the best date for that, since usual guests
-will be on holiday). It is possible, but not likely, that Granada
+will be on holiday; some might be available in September, and none in August). 
+
+It is also possible, but not likely, that Granada
 light rail system will be working by August 2015. There is a station
 close to the ETSIIT that would link it in minutes to the railway
 station and other points of interest in the city, including hotel
@@ -302,13 +294,7 @@ conference... not.
 
 =head3 Dates
 
-Due to budgetary reasons, the university is locked during August;
-closest we can make it is late July or early September. Late July has
-the advantage of empty classrooms with no problem to schedule the
-conference, while early September would be a little more problematic
-(but no big deal for a 2 or 3 day conference), milder weather (but you
-can still go to the beach) and good choice of accommodations (lower
-touristic season, if there's such a thing in Granada).
+Due to budgetary reasons, the university is locked during most of August; best date for YAPC, if that is workable for everybody, would be early September. However, if it is a requirement that it takes place in August, our chosen dates would be the last week of August. 
 
 =head3 Theme
 
@@ -321,29 +307,29 @@ to do it in elegant an beautiful ways!
 
 When programming we create Art!
 
-When using code, when reading code, we enjoy it!
+When using code, when reading code, we enjoy it, and joy is the basis for art!
 
 And Perl, because of its expressiveness, concision, flexibility,
 stickiness (or rather glue-ness) and power, is one of the best languages for doing
 it!
 
-Because perl bends around your mind and not the other way around!
+Because Perl bends around your mind and not the other way around!
 
 On this conference we want to proclaim that programming in Perl is an
 Art!
 
 Also, there has been people using Perl for more traditional forms of
 art such as Poetry for as far as our memory (Google) can reach.  There
-would also be a place for that kind of art at the conference.
+would also be a place for that kind of art at the conference. Also procedural content generation, interactive art, writing novels using Perl (hey, people do that all the time) and so on. 
 
 =head2 Website
 
 In order to reuse the database from previous conferences, we will use
-the Act! toolkit for the conference web.
+the Act! toolkit for the conference web. We have used it successfully for out Granada Perl Workshop and are starting to use it for the Barcelona Perl Workshop. 
 
 =head2 Amusements
 
-We'll consider having for early birds a perl golf contest or a Perl
+We will consider having for early birds a perl golf contest or a Perl
 quiz; for those staying late we could also consider that. It is also
 an option to consider during cocktail parties the first day. Any
 suggestion will also be welcome.
@@ -352,9 +338,7 @@ suggestion will also be welcome.
 
 The OSL maintains a presence in social networks (identi.ca, Twitter,
 Facebook), and the people in the organization do have that too.
-We would use email, local free software events (the Libre
-Software World Conference is held yearly in Fall somewhere in
-Spain), FOSDEM devrooms, and a sandwich man walking around
+We would use email, local free software events (there is a Free Software in Administration conference planned for October, small framework and OS-focused events during all the year), FOSDEM devrooms, and a sandwich man walking around
 inconspicuously around PHP and Python developer conferences.
 
 =head2 Survey
@@ -363,7 +347,7 @@ We are developing an app for creating a personal schedule, and as in
 past conferences, we'll use whatever people have scheduled
 for creating a preference. Which will be probably for those
 dressed as Star Trek fleet ensigns or anything that is not
-simultaneous to talks by Damian, brian or Mark.
+simultaneous to talks by Damian, brian or Mark. This app will be connected to the services available in ACT.
 
 =head2 Additional Program
 
