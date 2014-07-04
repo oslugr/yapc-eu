@@ -260,7 +260,7 @@ vegan dishes.
 
 As an alternative to the "Tapas crawl" we can use the canteen
 located on any of the two university buildings, supplemented with additional space to fit all the attendees (probably in the hall or another university canteen nearby).  In that case a buffet style lunch would be
-served. Anyway, the univeristy canteen will be included in the tapas crawl for those people that do not want or cannot move from the building. 
+served. Anyway, the university canteen will be included in the tapas crawl for those people that do not want or cannot move from the building. 
 
 =head3 Getting here
 
