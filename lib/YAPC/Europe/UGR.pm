@@ -281,7 +281,7 @@ the essence of the essence and are at the center of its social life. You can hav
 This is also a good way to increase networking, since you can have
 a "tapa" in some bar, then go to another one where you can meet a
 different set of people. The experience in EvoStar 2014 was very
-positive in terms of quality and satisfaction. Not so much so for the speakers in the first session in the afternoon, but those never get the best deal anyway.
+positive in terms of quality and satisfaction. Not so much so for the speakers in the first session in the afternoon, but those never get the best deal anyway. 
 
 We would ensure that we have enough bars to cope with the attendance
 and that they all have offerings covering special needs, specifically
