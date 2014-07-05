@@ -50,23 +50,25 @@ and Barcelona.pm presents this bid for YAPC::EU 2015.
 
 =head2 Organizers
 
-We are the The OSL at the University of Granada, led by L<JJ
+We are the  OSL at the University of Granada, led by L<JJ
 Merelo|http://search.cpan.org/~jmerelo/>. Under the name of Granada.pm
-we have a great involvement in the Spanish Perl Community.
+we have traditionally had a great involvement in the Spanish Perl Community.
 
 We have organized the virtual course L<Perl|http://cevug.ugr.es/perl>
-for more than a dozen editions and lately also the course
-L<Perl Avanzado (Advanced Perl)|http://cevug.ugr.es/perl_avanzado>.
+for 14 editions and lately also the course L<Perl Avanzado (Advanced
+Perl)|http://cevug.ugr.es/perl_avanzado>, already in its second edition.
 
 We organized the first Perl workshop in Spain L<the Granada Perl
 Workshop|http://workshop.granada.pm>, which took place in Granada on
-the 27th of June, 2014.
+the 27th of June, 2014 and we are involved with the next L<Perl Workshop
+in Barcelona|http://workshop.barcelona.pm>, 
 
-The OSL has also the support of the two strongest Perl Monger groups
-in Spain, Madrid.pm and Barcelona.pm, and of several other Spanish
-Perl hackers.
+The OSL is also supported by the two strongest Perl Monger groups in
+Spain, L<Madrid.pm|http://madrid.pm.org/> and
+L<Barcelona.pm|http://barcelona.pm>, and by several other Spanish Perl
+hackers.
 
-The key local persons supporting the proposal are as follows:
+The key local persons supporting the proposal are these:
 
 =over 4
 
@@ -99,6 +101,13 @@ in the organization of this conference, and has been involved in the
 organization of several conferences, including CIG and CEDI (big
 Spanish annual CS event).
 
+=item * Maribel García Arenas
+
+She is assistant professor at the University of Granada, with a PhD in
+Compute Science, and has been the organizer of several events, latest
+one EvoStar 2014. She is sporadic Perl user, but makes up for that
+with her organizational flair. 
+
 =back
 
 Other local organizations and groups of people supporting the event
@@ -121,14 +130,14 @@ and L<Computer Science School|http://etsiit.ugr.es>.
 
 Other people not from Granada collaborating with the organization of
 the event are Alex Muntada, Salvador FandiE<ntilde>o, Diego
-Kuperman and other members of the Perl Mongers groups.
+Kuperman and other members of the local Perl Mongers groups.
 
 =head3 Contact
 
 For the time being, the contact email for any matter related to this
 proposal is L<email:dirosl@ugl.es> (OSL direction address).
 
-In case we win the bid, we will setup a new address specifically for
+In case we win the bid, we will setup a new address @ugr.es specifically for
 supporting the event.
 
 =head2 Venue
@@ -140,19 +149,17 @@ neighborhood, natural park of Sierra Nevada and one of the most
 beautiful grafittis in the country. Moreover, the beach is just 70
 kilometers (35 minutes by highway) away from the city.
 
-We have pre-acceptance for holding it at the
-L<ETSIIT|http://etsiit.ugr.es> (Computer Science School), which is
-in the outskirts of the city but has all the facilities needed for
-a multi-room conference and is, anyways, well communicated with
-the rest of the city. Close by there is a provincial government
-building that could be used for keynotes. We will buy enough extension
-cords for conference users; being a university building, it is well
-prepared for lots of people using electricity. All university
-buildings fulfill EC rules regarding accessibility,  including access
-via wheelchairs or magnetic loops systems for people with hearing
-difficulties. No wired connectivity is previewed, in principle, but if
-needed a meeting room with access to the university network will be
-arranged.
+We have pre-acceptance for holding it at the L<Facultad de
+Ciencias|http://fciencias.ugr.es> and L<ETSIIT|http://etsiit.ugr.es>
+(Computer Science School), which is in the outskirts of the city but
+has all the facilities needed for a multi-room conference and is,
+anyway, well communicated with the rest of the city.  We will buy enough extension cords for conference users;
+being a university building, it is well prepared for lots of people
+using electricity. All university buildings fulfill EC rules regarding
+accessibility, including access via wheelchairs or magnetic loops
+systems for people with hearing difficulties. No wired connectivity is
+previewed, in principle, but if needed a meeting room with access to
+the university network will be arranged.
 
 The IT services at the University of Granada provides an easy way to
 set up WiFi guest access (limited to HTTP/HTTPS). EduRoam is also
@@ -160,7 +167,7 @@ available for those coming from an academic environment and it works
 without a glitch. The network is able to support up to 5k devices
 concurrently.
 
-Regardless of the university building we choose, we will set up a
+Regardless of the university campus we choose, we will set up a
 couple of additional rooms for organizational purposes, storage,
 short meetings, BOFs and anything else that is needed.
 
@@ -258,9 +265,18 @@ We would ensure that we have enough bars to cope with the attendance
 and that they all have offerings covering special needs, specifically
 vegan dishes.
 
-As an alternative to the "Tapas crawl" we can use the canteen
-located on any of the two university buildings, supplemented with additional space to fit all the attendees (probably in the hall or another university canteen nearby).  In that case a buffet style lunch would be
-served. Anyway, the univeristy canteen will be included in the tapas crawl for those people that do not want or cannot move from the building. 
+As an alternative to the "Tapas crawl" we can use the canteen located
+on any of the two university buildings, supplemented with additional
+space to fit all the attendees (probably in the hall or another
+university canteen nearby).  In that case a buffet style lunch would
+be served. Anyway, the univeristy canteen will be included in the
+tapas crawl for those people that do not want or cannot move from the
+building. 
+
+The conference dinner will take place in the city of Granada, with
+enough supply of banqueting places for any kind of events. The Abba
+hotel itself has enough space for several hundreds, but there are at
+least 5 salons in the city of Granada that can hold up to 500 persons. 
 
 =head3 Getting here
 
