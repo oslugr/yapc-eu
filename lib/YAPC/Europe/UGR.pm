@@ -181,7 +181,10 @@ short meetings, BOFs and anything else that is needed.
 
 We will use volunteers with good English skills (taken from our
 student pool) to staff a help desk during the whole conference. We
-have already done that successfully at previous events.
+have already done that successfully at previous events. If they are
+from outside Granada, we will also pay (bus) trip and (student)
+lodging, as well as registration. These students will be used as
+technical support for all rooms, as well as countdown service,
 
 All rooms that we will use in the conference are provided with air
 conditioning; these are usually in the ground floor of the university
@@ -203,9 +206,13 @@ We will have almost no restrictions on the usage of the university
 spaces as on August there is little, or none at all, academic
 activity.
 
+This means that we can easily run five parallel tracks. However, in
+principle there are around 75 talk slots, 25 per day, which can be fit
+easily into three or four tracks. 
+
 =head3 Alternatives
 
-As our request to use the ETSIIT building for the conference has
+As our request to use university buildings for the conference has
 already been accepted by the University board, it is very unlikely
 that we could need to move the event to a different venue.
 
@@ -219,7 +226,8 @@ five hundred and sixty persons.
 
 If the conference blows up to epic proportions, we could move the
 event to Granada Conference Center which can cope with attendances on
-the thousands.
+the thousands. The costs for this are non linear and have been
+inserted in the tentative budget. 
 
 =head3 Facilities at the UGR
 
@@ -335,7 +343,7 @@ We believe that coding is a mix between craft and Art.
 As hackers, just solving problems is not enough for us. We also need
 to do it in elegant an beautiful ways!
 
-When programming we create Art!
+When we are programming we create Art!
 
 When using code, when reading code, we enjoy it, and joy is the basis for art!
 
@@ -402,8 +410,9 @@ other languages can also be arranged.
 
 =head3 Side Trips
 
-Anything can be arranged; we will contact a travel agency so that they
-can offer packages for a good price. But the usual thing is:
+Any side trip within a reasonable distance of Granada can be arranged; we will
+contact a travel agency so that they can offer packages for a good
+price. But the usual thing is:
 
 =over 4
 
@@ -424,6 +433,14 @@ Renaissance in Granada: cathedral and other churches and palaces.
 
 Tapas crawl including fried fish, meat and everything you can include
 in a little dish.
+
+=item *
+
+In previous conferences, JJ Merelo has organized a L<tour of graffiti
+in
+Granada|https://medium.com/@jjmerelo/graffiti-in-granada-6a79d3cff72d>. He
+will be happy to offer it again, just for the conference attendees and
+buddies. 
 
 =back
 
@@ -476,19 +493,9 @@ sponsors. A minimum of 1000E<euro> can be expected from those sources.
 
 =head3 Costs
 
-There are several costs per attendee:
-
-=over 4
-
-=item T-shirt: 4.5E<euro>
-
-=item Catering: 35E<euro>
-
-=item Bag: 4E<euro>
-
-=item badge, and other stuff: 2E<euro>
-
-=item Attendees dinner: 30E<euro>
+There are several costs per attendee. Please check the
+L<budget|http://goo.gl/yVhPJK> for values and different scenarios, including
+must have and nice-to-have items and scenarios. 
 
 =back
 
@@ -497,26 +504,14 @@ and with a deficit for speakers and students.  This will be balanced
 with the surplus provided by late arrivals, corporate fees and
 sponsors.
 
-The budget will be adjusted mainly by changing the number of lunches and coffee breaks.
+The budget will be adjusted mainly by changing the number of lunches
+and coffee breaks, but also taking into account the other nice-to-have
+features. 
 
-In this scenario the only fixed cost is covering the costs of the 75
-speakers which is 5625E<euro>. Realistically, that cost can be
-covered only by sponsorship and company fees.
-
-If we add the cost of one or two invited speakers at around 
-2000E<euro> per speaker, there is a deficit of 9625E<euro>. 
-If sponsorship is not reached (or corporate-fee paying, which it's
-not clear how many are there) lunches would be eliminated, 
-allowing us to basically have every paying person cover the cost of a
-single speaker; in that case we would need as few as 75 attendees to
-cover the 75 speakers.
-
-The L<spreadsheet|http://goo.gl/xXJ1Y> provides a second sheet with a
-worst case scenario in which official sponsorship goes down to 0 and
-there are no corporate fees. A reduction of 15E<euro> in the catering
-(which can be changed in the last minute) provides a result of around
-250E<euro> of deficit which can be absorbed by the Free Software
-Office.
+The L<spreadsheet|http://goo.gl/yVhPJK> provides different scenarios
+with associated costs. In any case w have room for adjustement and if
+we run into a deficit it will be covered by asking for support from
+the local official organism. 
 
  
 =head2 Sponsors
@@ -528,14 +523,14 @@ local institutions.
 
 We have contact with local tech companies will will be willing to help
 with small amounts; we will have no minimum requirement for
-sponsorship. Companies such as L<Codeko.com|http://codeko.com>
-or L<Blulabs|http://blulabs.es> have supported OSL events in the
-past. We will mainly look for direct support of tchotchkes such
-as t-shirts or bags. Other companies contacted after the initial
-proposal such as L<Yaco|http://yaco.es>, L<ElasticSearch|http://elasticsearch.com'> and
-L<Zentyal|http://zentyal.com> have answered positively to our support
+sponsorship. Companies such as L<Codeko.com|http://codeko.com> or
+L<Blulabs|http://blulabs.es> have supported OSL events in the past. We
+will mainly look for direct support of tchotchkes such as t-shirts or
+bags. Other companies contacted after the initial proposal such as
+L<ElasticSearch|http://elasticsearch.com'>, Qindel Group, Capside and
+the local technology transfer office. have answered positively to our support
 requests. These offers have been included in the current version of
-the budget. 
+the budget.
 
 Support will also be requested from institutions of all kinds. Being
 the economy of Spain in the shape that it is, we don't
@@ -621,55 +616,59 @@ major European cities.
 
 =back 
 
-There are buses also from Granada airport to the city center, 
-costing 3E<euro>; taxis are roughly 10 times more expensive. 
-We can organize taxi pools if needed.
-
+There are L<buses also from Granada airport to the city
+center|http://www.autocaresjosegonzalez.com/index.php/es/servicios.html>
+, costing 3E<euro>; taxis are roughly 10 times more expensive.  We can
+organize taxi pools if needed.
 
 
 =head3 Sightseeing
 
-Granada includes the Alhambra and Albayzin, an ensemble that has been  declared
-world heritage site by the UNESCO. That is only part of its patrimony,
-that includes also Renaissance palaces, Gothic, Renaissance and
-Baroque churches, and a rather unknown but no less beautiful set of modernist buildings.
+Granada includes the Alhambra and Albayzin, an ensemble that has been
+declared world heritage site by the UNESCO. That is only part of its
+patrimony, that includes also Renaissance palaces, Gothic, Renaissance
+and Baroque churches, and a rather unknown but no less beautiful set
+of modernist buildings. 
 
-Organized or self-organized options are available all year round. 
-The beach is 70 kms and a bus run away. There are also many
-opportunities for trekking up in Sierra Nevada or in the Alpujarras.
+Organized or self-organized options for tourism are available all year
+round.  The beach is 70 kms and a bus run away. There are also many
+opportunities for trekking up in Sierra Nevada or in the
+Alpujarras. Granada is a prime touristic destination and it shows. 
 
 =head2 Summary
 
-The bid from the Free Software Office at the University of Granada 
-is organized by a group of persons with experience in organizing
-events, some experience attending YAPC::Europe events (including,
-possibly, this next Kiev YAPC::Europe), will take place in an incredibly
-nice city, easily accessible by plane, in a venue (the University of
-Granada) with all needed facilities and with support from local
-university government, local free software SMEs and enthusiastic Perl
-Mongers which, so far, have not seen a single YAPC in Spain.
+The bid from the Free Software Office at the University of Granada is
+organized by a group of persons with experience in organizing events
+including the Granada Perl Workshop in June 2014, some experience
+attending YAPC::Europe events (including, possibly, this next Sofia
+YAPC::Europe), will take place in an incredibly nice city, easily
+accessible by plane, in a venue (the University of Granada) with all
+needed facilities and with support from local university government,
+local free software SMEs and enthusiastic Perl Mongers which, so far,
+have not seen a single YAPC::Europe in Spain.
 
 =head2 Questions and Answers
 
-While we haven't been asked these questions by the organization, 
-they were made to other proposers, so here are the questions that 
-have not been answered before.
+While we haven't been asked these questions by the organization, they
+were made to other proposers, so here are the questions that have not
+been answered before and some that were asked in the previous
+incarnation of the proposal. 
 
 =over
 
 =item B<What's the price of beer?>
 
-In the bars around the ETSIIT and in town, average price this year
-(2014) is a bit over 2E<euro> and that includes the tapa, that is, a small dish
-with usually warm food. That's the price of a tubo (1/3
-liter). It's not usual in Spain to have bigger portions; you just
-order a second one.
+In the bars around the ETSIIT, Facultad de Ciencias  and in town,
+average price this year (2014) is a bit over 2E<euro> and that
+includes the tapa, that is, a small dish with usually warm
+food. That's the price of a tubo (1/3 liter). It's not usual in Spain
+to have bigger portions; you just order a second one.
 
-=item B<What's the weather like in July, August, September?>
+=item B<What's the weather like in August, September?>
 
 It's definitely hot, with maximum that can go up to 40 degrees; it
 goes down in September, but daily maximum are always over 30E<deg>.
-September is milder, anyways.
+September is milder, which is another reason why we intend to use it.
 
 =item B<Can people get receipts?>
 
@@ -708,6 +707,11 @@ often be in the 75-100E<euro> range and a 3-star hotel in the 50-75
 E<euro> range.  Of course, some fluctuations can happen depending on
 the particular hotel and the zone where it is, but special packages
 are also possible, allowing more economic prices.
+
+As far as we know, there are no big events announced for dates (late
+August or early September 2015). It is low season anyways and there
+are thousands of rooms just in 4-5 star hotels, so no booking crunch
+is previewed. 
 
 =over
 
@@ -780,7 +784,9 @@ The assets are there, and it would be possible to record at least one
 of the tracks. That would be free for the conference, since the OSL is
 part of the IT dept of the university which includes the virtual
 department too. The ETSIIT includes also self-recording facilities in
-some classes, which we could use for some tracks.
+some classes, which we could use for some tracks. However, this is
+additional work and/or cost, so except for keynotes no plans to do any
+recording have been made. 
 
 =item B<Are any social events planned, other than the partner's program?>
 
@@ -788,17 +794,24 @@ We plan to do a pre-conference drink-up and post-conference
 excursions. If sponsorship allows, we will organize a speakers' dinner
 the first conference day.
 
-
 =item B<Do you have any plans for an associated hackathon?>
 
 In the OSL we organize hackathons to the tune of several every
 year. We would love to organize one and try and attract local talent
-to Perl. Our experience says that it's better to organize them with at
+to Perl. Our experience says that it is better to organize them with at
 least one day and a half, which we would prefer to do before the
 conference. The venue could change, since we have contact with local
 coworking spaces that would provide the site and the connectivity, as
 well as in some cases free drinks and coffee. They can even be used
 overnight if needed.
+
+We will make a call for proposals so that CPAN authors can submit their
+modules for enhancements or bug quashing. We'll contact authors of
+major Perl projects such as perl5i or parrot in case they are
+interested. This will be held either in the same place or, depending
+on the number of people, in smaller venues such as the L<Free Software
+Office|http://osl.ugr.es>, which is in a building with rooms varying
+in capability from 12 to 40 persons.
 
 =item B<Do you plan to provide anything to speakers? (Such as water, a person to time things and
 keep the schedule on track, etc)>
@@ -810,78 +823,11 @@ they will be heartily patted in the back after they finish. The
 volunteer will also take care of time overruns by dancing a Spanish
 jitterbug when the speaker has spent the allotted slot.
 
-=item B<How many tracks are planned?>
-
-Difficult to know in advance. Will depend on the number of
-papers. ETSIIT being a CS school, we can provide for up to 20
-tracks. Our YAPC::Eu experience dictates that there should be a part
-of the day with single track (we can call them keynotes) to prevent
-people giving a presentation at the same time than Damian or MJD to be
-delivering it to the bleachers.
-
 =item B<How many days do you expect the event to run, and what days of the week are you
 considering?>
 
 Wednesday until Friday, with Monday and Tuesday reserved for
 hackaton. Weekend for social events.
-
-=item B<What plans do you have concerning special diets for the coffee breaks (and lunch, if
-sponsored)?>
-
-The ETSIIT can sponsor a single coffee break. Coffee breaks, however,
-are impersonal and there are excellent cafeterias around the ETSIIT
-which can give inexpensive and local fare such as garlic olive-oil
-toast, which no catering can provide and better quality coffee, as
-well as fresh orange juice.
-
-We will look for sponsors in any case, but will focus more on lunch
-and merchandising instead of coffee breaks.
-
-Any special needs will be catered for during lunch.
-
-=item B<You mentioned organizing various "side trips", but it's not clear if
-these are a Friend&Family program during the conference or if they are
-targeted at the attendees and will therefore happen at a different
-time/day than the ones of the conference.  Could you clarify this?>
-
-Both can be done, of course. We will offer some of them I<during> the
-conference for friends and family, and one after the conference for
-everybody (attendees + friends & family)
-
-=item B<While it sounds nice that the Free Software Office would cover a
-loss, it is doubtful that the YAPC would generate a loss.  Will you
-donate anything back to YEF / TPF / YAPC::Europe::2015 / sponsor other
-Perl events if YAPC::Europe in Granada makes a profit?>
-
-As indicated in the (changed) budget section, that will depend on the
-source of surplus. If we have a surplus at the end of the conference
-arising mainly from the fees and sponsorship, it will be donated back
-to YEF/TPF/YAPC::Europe::2015. However, official sponsorship from
-government/university/regional sources usually happen (and sometimes
-is even known about) I<after>, sometimes much after, the
-conference. If we I<know> about these sources I<before> the
-conference, we will apply it to the conference and absorb that loss or
-apply it to (additional) operating expenses by the FSO, to be recouped
-when (and sometimes I<if>) it is eventually paid back. Depending on
-the amount, and as said above, we will create a prize for Perl
-software development, which is underrepresented in the local
-University Free Software contest. 
-
-Besides, some grants can only be requested after the conference in
-order to finance the deficit of the event, with concession and
-eventual payment a long time after the conference. In those cases, as
-told above, the deficit will be paid initially by the budget of the
-FSO and if there is a small surplus after the grant, it will remain in
-the FSO to cover administrative costs.
-
-In a nutshell: surplus during or immediately after the conference:
-back to the YEF. Surplus months or years after the conference: FSO and
-funding of local (Spanish level) Perl initiatives. 
-
-=item B<Would you consider cheaper corporate tickets, say, of 400-500 Euro
-instead of 900?>
-
-Absolutely no problem. Any amount above the regular fee would be OK.
 
 =item B<Did you already approach to any potential sponsors?>
 
@@ -889,21 +835,15 @@ We have approached the sponsors included in the new budget. Some of
 them have already expressed their will to support with an amount, some
 of them just their will. 
 
-=item B<What is included in 35 euro catering costs for the attendee?>
-
-Two meals, one coffee break. We will try to obtain the rest of the
-meals directly from sponsors such as the Computer Science School (if
-it is eventually held there) or corporate sponsors.
-
 =item B<How many meals a day are you going to provide?>
 
 One meal, one coffee break, but as shown in the budget section, meals
-and coffees will be reserved when budget is secured for them.
+and coffees will be reserved only when budget is secured for them.
 
 =item B<Will catering be organized inside the venue or outside?>
 
-Inside. All faculties in the UGR include a cafeteria and other common
-areas for students.
+Coffees, if eventually provided, will be inside. Lunch and dinner
+outside. 
 
 =item B<What is the deadline for early bird registrations?>
 
@@ -911,23 +851,21 @@ The usual four months before the conference.
 
 =item B<How many attendees do you expect?>
 
-Our experience hosting other I<serial> conferences in Granada is that
-the appeal of the city usually commands a small 10-20% increase over
-other in the series. Since you mention in another question around 300
-attendees, we have budgeted for approximately that increase in the
-number of attendees, so around 330-350.
+As many as the other venues bidding for YAPC::EU. And then a bit more. 
+
+No, really. Granada is an attractive, history-laden city. In previous
+conferences we have organized, some attendees have mentioned the fact
+that they submitted papers to it because of the city. So attendance of
+around 400 people ("Expected" column in the budget) would be
+reasonable. But we have planned for any other scenario, including
+"Student invasion" (remember Granada is #1 Erasmus destination in
+Europe). 
 
 =item B<Can you roughly estimate the portion of speakers (you mention 75 of
 them), early bird registrations, students, regular and business
 attendees?>
 
-The new budget estimates that amount, with 75 speakers, 65 students, 2
-corporate sponsors, 150 early bird (about half) and 40 regular. It is
-difficult to put a definite amount there, but we think these number,
-according to our past experience, are realistic. Even accounting for a
-very bad worst case scenario (L<third sheet in the
-spreadsheet|http://goo.gl/xXJ1Y>) we would adjust budget mainly using
-lunches and coffee breaks.
+Please check the budget with the different scenarios outlined. 
 
 =item B<In case you have no money for lunches, will it be possible for
 everybody to find food on their own in a reasonable time (90 minutes for
@@ -941,7 +879,7 @@ proper lunch for old geezers. Even at the
 L<ETSIIT|http://etsiit.ugr.es> there is a cafeteria and university
 lunchroom, with the Fine Arts School cafeteria nearby and a
 supermarket where you can buy salads or sandwiches and several bars
-one block away, each one from 40 to 60 persons. 
+one block away, each one being able to hold from 20 to 60 persons. 
 
 =item B<How many local attendees might appear at the conference?>
 
@@ -950,63 +888,7 @@ people. There are two strong Perl Monger groups in Spain whose attendance
 would be boosted. To help attendance by local students we would apply
 for course credits to the university, so that they can get ECTS credits for
 attending and/or volunteering at the conference. All in all, 50 is a
-reasonable number.
-
-=item B<How many talk tracks are you going to have?>
-
-As many as needed. The venue can accommodate any amount of them, and
-its presence will be limited basically by budget (for full-length
-talks, since they do not pay registration). We can fit as many
-lightning talks sessions (by paying attendees) as needed.
-
-=item B<Is there a room in the venue that can hold all the attendees at the
-same time?>
-
-See above, of course that's provided for. Up to 500 attendees there
-are several places in the University of Granada that can fit
-them. Beyond that, we would have to hire the palace of Congresses.
-
-=item B<Do you have enough team members to organize a countdown
-service in each of the talk rooms?>
-
-Yes. We have enough persons providing services to the FSO and we'll
-accept volunteers for credit, as has been done in other conferences in
-the UGR.
-
-=item B<Where are you going to find volunteers for this and how will you
-motivate them?>
-
-University students, motivated by what's more dear to them: free food
-(in plausible scenario) and course credit.
-
-We'll also pay (bus) trip and (student) lodging, as well as
-registration, for those coming from outside Granada. 
-
-=item B<Are there any other big events known to happen in Granada in late
-July of early September 2015 which may cause problems with finding cheap
-(or any) hotels?>
-
-Neither the province fairgrounds nor the conference center plan so
-much in advance, so it is difficult to know. However, there are no
-recurring events either at the end of July or beginning of September,
-and in any case, the L<Spanish convention bureau lists around 7000
-rooms in hotels or 4 or 5
-stars|http://www.scb.es/DESTINOS/GRANADA/tabid/78/language/es-ES/Default.aspx>,
-with an even bigger number available below that. Most hotels offer the
-university the possibility of pre-booking rooms at fixed price,
-although we understand that most people will want to use the
-Perl-driven Booking site for reservations.
-
-=item B<What kind of a hackathon are you planning for the days preceding the
-conference?>
-
-We'll make a call for proposals so that CPAN authors can submit their
-modules for enhancements or bug quashing. We'll contact authors of
-major Perl projects such as perl5i or parrot in case they are
-interested. This will be held either in the same place or, depending
-on the number of people, in smaller venues such as the L<Free Software
-Office|http://osl.ugr.es>, which is in a building with rooms varying
-in capability from 12 to 40 persons.
+reasonable number. 
 
 
 =back
