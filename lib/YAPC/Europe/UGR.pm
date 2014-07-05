@@ -497,8 +497,6 @@ There are several costs per attendee. Please check the
 L<budget|http://goo.gl/yVhPJK> for values and different scenarios, including
 must have and nice-to-have items and scenarios. 
 
-=back
-
 This is around 75E<euro> per attendee, fully covered by early-bird fee
 and with a deficit for speakers and students.  This will be balanced
 with the surplus provided by late arrivals, corporate fees and
