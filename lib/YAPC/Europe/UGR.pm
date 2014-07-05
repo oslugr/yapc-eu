@@ -165,7 +165,15 @@ The IT services at the University of Granada provides an easy way to
 set up WiFi guest access (limited to HTTP/HTTPS). EduRoam is also
 available for those coming from an academic environment and it works
 without a glitch. The network is able to support up to 5k devices
-concurrently.
+concurrently. If absolutely necessary, we can supply a limited amount
+of IPs with all-port access, mainly for speakers; also some physical
+Ethernet connections, which will have to be shared by all the
+attendees. 
+
+We will provide backups for audiovisual equipment just in case it
+breaks down in the middle of the talk. Any of the university campuses
+has fixed projectors, as well as a few portable ones that can be used
+if needed. 
 
 Regardless of the university campus we choose, we will set up a
 couple of additional rooms for organizational purposes, storage,
@@ -174,6 +182,12 @@ short meetings, BOFs and anything else that is needed.
 We will use volunteers with good English skills (taken from our
 student pool) to staff a help desk during the whole conference. We
 have already done that successfully at previous events.
+
+All rooms that we will use in the conference are provided with air
+conditioning; these are usually in the ground floor of the university
+building. In some cases, and since classes are usually off during
+summer, other rooms are not provided with it. However, we will not
+need to use them for attendance below 1000 persons. 
 
 =head3 Conference rooms
 
@@ -435,7 +449,7 @@ Prize|http://concursosoftwarelibre.org> to fund a special Perl-based
 application prize. Any surplus obtained from
 registration fees and sponsors will be returned to the YAPC::Europe
 Foundation. The full budget is published in L<a Google Drive
-document|http://goo.gl/xXJ1Y>. 
+document|http://goo.gl/yVhPJK>. 
 
 =head3 Income
 
@@ -446,13 +460,13 @@ in the same ballpark as previous events:
 
 =item Guests, Speakers, Organizers : 0E<euro>
 
-=item Full-time students: 50E<euro>
+=item Full-time students: 70E<euro>
 
-=item Early-bird: 80E<euro>
+=item Early-bird: 90E<euro>
 
-=item Regular price: 110E<euro>
+=item Regular price: 120E<euro>
 
-=item Corporate tariff: 900E<euro>
+=item Corporate tariff: 240E<euro>.
 
 =back
 
@@ -994,52 +1008,6 @@ on the number of people, in smaller venues such as the L<Free Software
 Office|http://osl.ugr.es>, which is in a building with rooms varying
 in capability from 12 to 40 persons.
 
-=item B<Are there microphones for questions from the audience in the
-talk rooms (at least in the big room)?> =back
-
-Only in the big rooms, in fact.
-
-=item B<Is it possible to quickly replace projectors in case they
-happen to turn out of order in the middle of the talk?> =back
-
-We'll have a pool of projectors handy in case any of them breaks
-down. The FSO runs a hardware refurbishing project and we usually have
-projectors for donation, so we'll keep two or three of them. In case
-we have it at the ETSIIT, every department has its own projector which
-we can use in case of emergency.
-
-=item B<Is Wi-Fi connection open for SSH ports and such?> 
-
-C<eduroam> is available throughout the university for all people whose
-institution is a participant. IT services provide L<free conferences
-WiFi|http://csirc.ugr.es/informatica/RedUGR/CVI/wifi-congresos.html>
-with all ports open. We can arrange also physical connections, at
-least for speakers.
-
-=item B<In case it is not possible to use auditorium-style rooms
-for each of the talk tracks, will the lack of air conditioning cause
-any problems for the attendees?>
-
-That's indeed a good question. In principle, those rooms would be used
-just in case it's absolutely necessary (say, we have 5 or 6 parallel
-tracks). The university has portable air conditioning that can be
-requested in that possibility; we have used it for the free software
-children's campus.
-
-=item B<Your proposal is publically hosted on github, including the budget
-calculations.  Do we have your permission to link to it from
-http://www.yapceurope.org/ ?  If not, then maybe there is a sanitized
-version of the proposal without the financials somewhere?>
-
-I have requested permission from the probable sponsors to include
-their names and quantities. Other that that, I don't see a problem in
-revealing the budget. We were thinking actually about releasing the
-whole setup as a CPAN module so that anybody else can use the
-framework for their own proposals. The setup includes tests and
-continuous integration using Travis.
-
-If you think that financials are sensitive anyways we can just
-make the spreadsheet unavailable for the general public.
 
 =back
 
