@@ -101,7 +101,7 @@ in the organization of this conference, and has been involved in the
 organization of several conferences, including CIG and CEDI (big
 Spanish annual CS event).
 
-=item * Maribel García Arenas
+=item * Maribel Garcia Arenas
 
 She is assistant professor at the University of Granada, with a PhD in
 Compute Science, and has been the organizer of several events, latest
@@ -291,7 +291,7 @@ As an alternative to the "Tapas crawl" we can use the canteen located
 on any of the two university buildings, supplemented with additional
 space to fit all the attendees (probably in the hall or another
 university canteen nearby).  In that case a buffet style lunch would
-be served. Anyway, the univeristy canteen will be included in the
+be served. Anyway, the university canteen will be included in the
 tapas crawl for those people that do not want or cannot move from the
 building. 
 
@@ -509,7 +509,7 @@ and coffee breaks, but also taking into account the other nice-to-have
 features. 
 
 The L<spreadsheet|http://goo.gl/yVhPJK> provides different scenarios
-with associated costs. In any case w have room for adjustement and if
+with associated costs. In any case we have room for cutting some corners and if
 we run into a deficit it will be covered by asking for support from
 the local official organism. 
 

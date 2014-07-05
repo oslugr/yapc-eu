@@ -134,6 +134,9 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  ness
  PAX
  Toilettes
+ Capside
+ Qindel
+ Garcia
 EOI
 
 local $ENV{LC_ALL} = 'C';
