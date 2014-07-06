@@ -137,6 +137,62 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  Capside
  Qindel
  Garcia
+ AC
+ AFAIK
+ Alex
+ Barcelona.pm
+ CS
+ Castillo
+ Codeko.com
+ Damian
+ EC
+ Ethernet
+ Europe
+ Frankfurt
+ Gran
+ Granada.pm
+ Juan
+ London
+ Madrid.pm
+ Maribel
+ Ochoa
+ PhD
+ Salvador
+ Sightseeing
+ Sofia
+ Software
+ Spain
+ Website
+ allotted
+ app
+ attendee
+ attendees
+ audiovisual
+ ballpark
+ buses
+ cafes
+ centre
+ countdown
+ database
+ dept
+ email
+ equipped
+ etc
+ glitch
+ graffiti
+ haven't
+ held
+ identi.ca
+ incurred
+ near
+ perl5i
+ postdoc
+ programming
+ spreadsheet
+ supra
+ toolkit
+ vegan
+ wheelchairs
 EOI
 
 local $ENV{LC_ALL} = 'C';
