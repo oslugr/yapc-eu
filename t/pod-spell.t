@@ -193,6 +193,8 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  toolkit
  vegan
  wheelchairs
+ CoSECiVi
+ IWANN
 EOI
 
 local $ENV{LC_ALL} = 'C';
