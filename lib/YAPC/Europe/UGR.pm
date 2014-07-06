@@ -79,7 +79,7 @@ He has already organized other conferences in the past such as PPSN
 collaborated in the organization of other conferences such as CEC 2011
 or L<EvoStar 2014|http://evostar.org> (~150 persons), and many events
 such as NotBarraLibreCamp. He collaborated also with the organization
-of CIG 2012 (~100 persons), JENUI 2009 (local
+of CIG 2012 (~100 persons), JENUI 2008 (local
 conference on Informatics Teaching, ~100 persons).
 
 He has attended several Perl events in the past and made
@@ -89,17 +89,18 @@ Perl devrooms (2013, 2014).
 =item * Antonio Mora
 
 He was the local organizer for the L<Computational
-Inteligence in Games conference|http://geneura.ugr.es/cig2012/> and is
-currently a postdoc at the University of Granada.
+Intelligence in Games conference|http://geneura.ugr.es/cig2012/> and 
+the CoSECiVi 2014.
+He is currently a postdoc at the University of Granada.
 
 =item * Pedro Castillo
 
 He is a long-time Perl hacker and instructor.
 
 He is the head of the GeNeura research group who is also collaborating
-in the organization of this conference, and has been involved in the
-organization of several conferences, including CIG and CEDI (big
-Spanish annual CS event).
+in the organization of this conference, and has been involved in the 
+organization of all CEDI conferences (big Spanish annual CS event), 
+several PPSN, EvoStar, IWANN, JENUI2008 and the CIG2012.
 
 =item * Maribel Garcia Arenas
 
