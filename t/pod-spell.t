@@ -180,7 +180,6 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  etc
  glitch
  graffiti
- haven't
  held
  identi.ca
  incurred
