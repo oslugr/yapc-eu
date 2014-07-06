@@ -525,8 +525,8 @@ sponsorship. Companies such as L<Codeko.com|http://codeko.com> or
 L<Blulabs|http://blulabs.es> have supported OSL events in the past. We
 will mainly look for direct support of tchotchkes such as t-shirts or
 bags. Other companies contacted after the initial proposal such as
-L<ElasticSearch|http://elasticsearch.com'>, Qindel Group, Capside and
-the local technology transfer office. have answered positively to our support
+L<ElasticSearch|http://elasticsearch.com>, Qindel Group, Capside and
+the local technology transfer office have answered positively to our support
 requests. These offers have been included in the current version of
 the budget.
 
