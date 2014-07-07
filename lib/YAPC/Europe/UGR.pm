@@ -136,7 +136,7 @@ Kuperman and other members of the local Perl Mongers groups.
 =head3 Contact
 
 For the time being, the contact email for any matter related to this
-proposal is L<email:dirosl@ugl.es> (OSL direction address).
+proposal is L<mailto:dirosl@ugl.es> (OSL direction address).
 
 In case we win the bid, we will setup a new address @ugr.es specifically for
 supporting the event.
@@ -146,8 +146,8 @@ supporting the event.
 We will hold it at the most convenient place at the L<University of
 Granada|http://www.ugr.es>, with campus all over the city of Granada
 (Spain). Granada includes such beauties as the Alhambra, the Albayzin
-neighborhood, natural park of Sierra Nevada and one of the most
-beautiful grafittis in the country. Moreover, the beach is just 70
+neighborhood, natural park of Sierra Nevada and some of the most
+beautiful graffitis in the country. Moreover, the beach is just 70
 kilometers (35 minutes by highway) away from the city.
 
 We have pre-acceptance for holding it at the L<Facultad de
@@ -245,7 +245,7 @@ For up to 250 conference goers, Our preferred venue is the
 L<ETSIIT|http://etsiit.ugr.es/pages/instalaciones_servicios/salas_aulas>,
 whose biggest room can fit 196 people, with room for a few more in the
 sidelines or standing up. If attendance is not more than 250 people,
-we would go for this venue, since there is also a FSO storage room,
+we would go for this venue, since there is also a OSL storage room,
 the offices of most organizers, and it is the obvious choice, being
 the Computer Science School and all. There are air-conditioned
 classrooms with capacity for 100 persons, and other rooms with 78 seats, 8 of each
@@ -320,7 +320,7 @@ also be available (July is the best date for that, since usual guests
 will be on holiday; some might be available in September, and none in August). 
 
 It is also possible, but not likely, that Granada
-light rail system will be working by August 2015. There is a station
+tram system will be working by August 2015. There is a station
 close to the ETSIIT that would link it in minutes to the railway
 station and other points of interest in the city, including hotel
 areas.
@@ -329,7 +329,7 @@ areas.
 
 It's going to be, AFAIK, the YAPC::EU southernmost conference, so this
 fact will have to be taken into account in the details of the
-conference... not. 
+conference.
 
 =head3 Dates
 
@@ -386,14 +386,14 @@ We are developing an app for creating a personal schedule, and as in
 past conferences, we will use whatever people have scheduled
 for creating a preference. Which will be probably for those
 dressed as Star Trek fleet ensigns or anything that is not
-simultaneous to talks by Damian, brian or Mark. This app will be connected to the services available in ACT.
+simultaneous to talks by Damian, brian or Mark. This app will be connected to the services available in Act.
 
 =head2 Additional Program
 
 Granada offers a great amount of options for people from 2 to
 22. Sorry, to 222. We'll organize a tapas crawl in the
 best watering holes of Granada, artistic trips through the
-grafitti art in Granada streets. And, yes, also Alhambra
+graffiti art in Granada streets. And, yes, also Alhambra
 and all those things. We'll also organize courses for those
 interested and beginning courses in Spanish.
 
@@ -459,7 +459,7 @@ science funding agencies and the university to defray part of the
 cost. The Free Software Office will absorb any deficit if there is one. 
 Since funding agencies pay the grant after
 expenses have been incurred, in some cases years later, temporary
-deficit will have to be absorbed by the FSO and any
+deficit will have to be absorbed by the OSL and any
 surplus that is obtained after the conference also will go to the Free
 Software Office operating costs and a  local L<Free Software
 Prize|http://concursosoftwarelibre.org> to fund a special Perl-based
@@ -475,7 +475,7 @@ in the same ballpark as previous events:
 
 =over 4
 
-=item Guests, Speakers, Organizers : 0E<euro>
+=item Guests, Speakers, Organizers: 0E<euro>
 
 =item Full-time students: 70E<euro>
 
@@ -483,7 +483,7 @@ in the same ballpark as previous events:
 
 =item Regular price: 120E<euro>
 
-=item Corporate tariff: 240E<euro>.
+=item Corporate tariff: 240E<euro>
 
 =back
 
@@ -585,13 +585,13 @@ Some sample prices and itineraries:
 
 =over 4
 
-=item Malaga Airport - Granada: 1.30h, 10E<euro>, 4 buses a day.
+=item Malaga Airport - Granada: 1h30m, 10E<euro>, 4 buses a day.
 
 =item Malaga Bus Station-Granada, every hour on the hour 
 (roughly, some exceptions) until
 21:30. There are buses and trains from the airport to the bus station.
 
-=item Madrid (Estacion Sur) - Granada : 5 horas (ALSA), 
+=item Madrid (Estacion Sur) - Granada: 5h (ALSA), 
 several buses a day, roughly every hour; normal 5h and 17.53 
 E<euro>, supra economy 4.5h and 26.81E<euro> and supra+ (with WiFi)
 4.5h and 35-87E<euro> (only two of these 13:30, 19:30).
@@ -615,8 +615,8 @@ major European cities.
 =back 
 
 There are L<buses also from Granada airport to the city
-center|http://www.autocaresjosegonzalez.com/index.php/es/servicios.html>
-, costing 3E<euro>; taxis are roughly 10 times more expensive.  We can
+center|http://www.autocaresjosegonzalez.com/index.php/es/servicios.html>,
+costing 3E<euro>; taxis are roughly 10 times more expensive.  We can
 organize taxi pools if needed.
 
 
