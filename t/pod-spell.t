@@ -195,6 +195,9 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  CoSECiVi
  IWANN
  IPs
+ CIG2012
+ JENUI2008
+ software
 EOI
 
 local $ENV{LC_ALL} = 'C';

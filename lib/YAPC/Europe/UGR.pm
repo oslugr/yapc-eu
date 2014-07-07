@@ -327,7 +327,7 @@ areas.
 
 =head2 Conference Details
 
-It's going to be, AFAIK, the YAPC::EU southernmost conference, so this
+It is going to be, AFAIK, the YAPC::EU southernmost conference, so this
 fact will have to be taken into account in the details of the
 conference.
 
@@ -391,23 +391,23 @@ simultaneous to talks by Damian, brian or Mark. This app will be connected to th
 =head2 Additional Program
 
 Granada offers a great amount of options for people from 2 to
-22. Sorry, to 222. We'll organize a tapas crawl in the
+22. Sorry, to 222. We will organize a tapas crawl in the
 best watering holes of Granada, artistic trips through the
 graffiti art in Granada streets. And, yes, also Alhambra
-and all those things. We'll also organize courses for those
+and all those things. We will also organize courses for those
 interested and beginning courses in Spanish.
 
 =head3 Courses and tutorials
 
-No innovation here. We'll provide space during or preferably before
+No innovation here. We will provide space during or preferably before
 the conference so that people that want to give tutorial or
 courses can pay trip expenses giving them. The organization
 will only collect a racket, sorry, a cut for, you know,
 protection.
 
 For a boost of visibility (or outing) of the Spanish Perl community,
-we'll also provide courses in several levels in Spanish. Any
-other languages can also be arranged.
+we will also offer courses in several levels in Spanish. Any
+other languages can also be arranged, specially English
 
 =head3 Side Trips
 
@@ -804,7 +804,7 @@ well as in some cases free drinks and coffee. They can even be used
 overnight if needed.
 
 We will make a call for proposals so that CPAN authors can submit their
-modules for enhancements or bug quashing. We'll contact authors of
+modules for enhancements or bug quashing. We will contact authors of
 major Perl projects such as perl5i or parrot in case they are
 interested. This will be held either in the same place or, depending
 on the number of people, in smaller venues such as the L<Free Software
