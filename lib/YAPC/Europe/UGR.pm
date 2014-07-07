@@ -46,7 +46,7 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 The L<OSL|http://osl.ugr.es> (Oficina de Software Libre, Free Software
 Office in Spanish) at the University of Granada with the support of
-and Barcelona.pm presents this bid for YAPC::EU 2015.
+Madrid.pm and Barcelona.pm presents this bid for YAPC::EU 2015.
 
 =head2 Organizers
 
@@ -61,7 +61,7 @@ Perl)|http://cevug.ugr.es/perl_avanzado>, already in its second edition.
 We organized the first Perl workshop in Spain L<the Granada Perl
 Workshop|http://workshop.granada.pm>, which took place in Granada on
 the 27th of June, 2014 and we are involved with the next L<Perl Workshop
-in Barcelona|http://workshop.barcelona.pm>, 
+in Barcelona|http://workshop.barcelona.pm>.
 
 The OSL is also supported by the two strongest Perl Monger groups in
 Spain, L<Madrid.pm|http://madrid.pm.org/> and
