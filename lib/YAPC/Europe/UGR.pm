@@ -147,7 +147,7 @@ We will hold it at the most convenient place at the L<University of
 Granada|http://www.ugr.es>, with campus all over the city of Granada
 (Spain). Granada includes such beauties as the Alhambra, the Albayzin
 neighborhood, natural park of Sierra Nevada and some of the most
-beautiful graffitis in the country. Moreover, the beach is just 70
+beautiful graffiti in the country. Moreover, the beach is just 70
 kilometers (35 minutes by highway) away from the city.
 
 We have pre-acceptance for holding it at the L<Facultad de
