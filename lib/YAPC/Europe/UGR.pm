@@ -7,7 +7,7 @@ use feature qw(say switch);
 use experimental qw(smartmatch);
 
 use version;
-our $VERSION = qv('0.2.1'); #Sunday surprise 
+our $VERSION = qv('0.2.2'); #Monday monotrem
 
 use Exporter qw(import);
 our @EXPORT_OK = qw(pick_best_venue);

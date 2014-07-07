@@ -1,6 +1,8 @@
+use strict;
+use warnings;
 use Test::Pod tests => 1;
 
-my $dir = -d "../lib" ? "../lib": "lib";
-my $file = "YAPC/Europe/UGR.pm";
+my $file_name = "lib/YAPC/Europe/UGR.pm";
 
-pod_file_ok( "$dir/$file", "Valid POD file" );
+my $file =  -f $file_name ? $file_name: "../$file_name";
+pod_file_ok( "$file", "Valid POD file at $file" );
