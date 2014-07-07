@@ -194,6 +194,7 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  wheelchairs
  CoSECiVi
  IWANN
+ IPs
 EOI
 
 local $ENV{LC_ALL} = 'C';
