@@ -105,7 +105,7 @@ several PPSN, EvoStar, IWANN, JENUI2008 and the CIG2012.
 =item * Maribel Garcia Arenas
 
 She is assistant professor at the University of Granada, with a PhD in
-Compute Science, and has been the organizer of several events, latest
+Computer Science, and has been the organizer of several events, latest
 one EvoStar 2014. She is sporadic Perl user, but makes up for that
 with her organizational flair. 
 
@@ -136,7 +136,7 @@ Kuperman and other members of the local Perl Mongers groups.
 =head3 Contact
 
 For the time being, the contact email for any matter related to this
-proposal is L<mailto:dirosl@ugl.es> (OSL direction address).
+proposal is L<mailto:dirosl@ugr.es> (OSL direction address).
 
 In case we win the bid, we will setup a new address @ugr.es specifically for
 supporting the event.
@@ -185,7 +185,7 @@ student pool) to staff a help desk during the whole conference. We
 have already done that successfully at previous events. If they are
 from outside Granada, we will also pay (bus) trip and (student)
 lodging, as well as registration. These students will be used as
-technical support for all rooms, as well as countdown service,
+technical support for all rooms, as well as countdown service.
 
 All rooms that we will use in the conference are provided with air
 conditioning; these are usually in the ground floor of the university
@@ -204,7 +204,7 @@ with smaller audiences, we will use regular class-rooms which can
 hold up to fifty persons comfortably and are flat.
 
 We will have almost no restrictions on the usage of the university
-spaces as on August there is little, or none at all, academic
+spaces as in August there is little, or none at all, academic
 activity.
 
 This means that we can easily run five parallel tracks. However, in
@@ -342,7 +342,7 @@ We propose I<The Art of Perl> as the conference theme.
 We believe that coding is a mix between craft and Art.
 
 As hackers, just solving problems is not enough for us. We also need
-to do it in elegant an beautiful ways!
+to do it in elegant and beautiful ways!
 
 When we are programming we create Art!
 
