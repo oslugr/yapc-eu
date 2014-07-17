@@ -901,10 +901,8 @@ These questions have been asked by the committee after the submission
 =item B<You write:
 "We will have almost no restrictions on the usage of the university
 spaces as in August there is little, or none at all, academic activity."
-
 But further down below you say:
 "best date for YAPC ... would be early September".
-
 In case the dates of the conference are in September, will it
 dramatically influence the availability of conference rooms, Wi-Fi
 capacity and bar availability?>
@@ -974,7 +972,7 @@ In Spain times are usually 9 to 18-19, with around 2 hours in the middle for lun
 
 =item B<In case of failure, will you submit your proposal next year?>
 
-Third's the charm, or so it's said. But, wait, is that a trick question?
+Third is the charm, or so it's said. But, wait, is that a trick question?
 
 =back
 

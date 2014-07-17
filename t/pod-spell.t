@@ -198,6 +198,7 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  CIG2012
  JENUI2008
  software
+ NAQ
 EOI
 
 local $ENV{LC_ALL} = 'C';
