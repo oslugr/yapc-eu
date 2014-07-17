@@ -894,7 +894,7 @@ reasonable number.
 
 =head2 NAQ (newly asked questions)
 
-These cuestions have been asked by the committee after the submission
+These questions have been asked by the committee after the submission
 
 =over 
 
