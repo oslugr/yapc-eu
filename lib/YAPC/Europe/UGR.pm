@@ -891,6 +891,75 @@ reasonable number.
 
 =back
 
+
+=head2 NAQ (newly asked questions)
+
+These cuestions have been asked by the committee after the submission
+
+=item B<You write:
+"We will have almost no restrictions on the usage of the university
+spaces as in August there is little, or none at all, academic activity."
+
+But further down below you say:
+"best date for YAPC ... would be early September".
+
+In case the dates of the conference are in September, will it
+dramatically influence the availability of conference rooms, Wi-Fi
+capacity and bar availability?>
+
+
+=item B<How far exactly is The Computer Science School from the city centre
+and what public transport is available?>
+
+
+=item B<It looks like the attendees will be disappointed to find out that
+Wi-Fi in the venue does not allow SSH connection (or allow it for a
+limited number of connections). Is there a chance to change this?>
+
+
+=item B<You say that if there will be less than 250 attendees, you might
+choose a different venue? It sounds impossible to implement, as you
+only will be able to know the exact (still, a bit vague) number a few
+days before the conference, when you cannot change the venue. Even if
+you pre-order more than one venue, attendees must know the address
+well in advance so that they can book their hotels.>
+
+
+=item B<How much time are you going to reserve for the lunch breaks? Will 60
+minutes be enough or you need 90? 300+ people is a big crowd and even
+if it is distributed between a few pubs, it is difficult to serve all
+of them fast enough.>
+
+
+=item B<How difficult is serving lunches inside the venues and why you
+consider it an alternative option, not the main one?>
+
+
+=item B<The conference theme you choose, "The Art of Perl", was already the
+theme of the YAPC::Europe in 2000.>
+
+
+=item B<Air tickets in the proposal are dated as "September 2013". Is it a
+typo or the prices are outdated?>
+
+
+=item B<Can you give a rough estimation of the total door-to-door travel time
+from a couple of European capitals outside Spain, including air and
+land segments, waiting time for connections and time to get from the
+airport to the train station, for example?>
+
+
+=item B<Will you be able to provide a laptop for the speaker if he has none
+(rare but still possible case)?>
+
+
+=item B<When are you planning to start and finish the conference day?>
+
+
+=item B<In case of failure, will you submit your proposal next year?>
+
+=back
+
 =cut
 
 
