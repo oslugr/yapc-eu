@@ -896,6 +896,8 @@ reasonable number.
 
 These cuestions have been asked by the committee after the submission
 
+=over 
+
 =item B<You write:
 "We will have almost no restrictions on the usage of the university
 spaces as in August there is little, or none at all, academic activity."
