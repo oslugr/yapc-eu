@@ -937,7 +937,7 @@ minutes be enough or you need 90? 300+ people is a big crowd and even
 if it is distributed between a few pubs, it is difficult to serve all
 of them fast enough.>
 
-The usual 2 hours in Spain. Our experience, however, telles us that it is no tso difficult.
+The usual 2 hours in Spain. Our experience, however, tells us that it is no too difficult even in 90 minutes, but we will leave 2 hours, which is usual even if we have a buffet or a sit-down lunch. 
 
 
 =item B<How difficult is serving lunches inside the venues and why you
@@ -947,7 +947,7 @@ consider it an alternative option, not the main one?>
 =item B<The conference theme you choose, "The Art of Perl", was already the
 theme of the YAPC::Europe in 2000.>
 
-Do you mean that the art of Perl was over in 2000? We do like the topic, and if possible, we would like to keep it. Maybe changing it a bit to "Art as engineering, egineering as art", or much better, Art ~~ Engineering.
+Do you mean that the art of Perl was over in 2000? We do like the topic, and if possible, we would like to keep it. Maybe changing it a bit to "Art as engineering, engineering as art", or much better, Art ~~ Engineering.
 
 =item B<Air tickets in the proposal are dated as "September 2013". Is it a
 typo or the prices are outdated?>
