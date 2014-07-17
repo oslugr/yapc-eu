@@ -907,10 +907,12 @@ In case the dates of the conference are in September, will it
 dramatically influence the availability of conference rooms, Wi-Fi
 capacity and bar availability?>
 
+Not really. Peek capacity of university buildings is fulfilled at class time, not during examinations, which usually have only one by degree per day or every other day. Ciencias hosts many degrees, but even so capacity will be 90% or more free at any particular day. So even if there are examinations taking place at that time, there will be plenty of room available. Of course, if booked in advance, which we will, we will be able to use prime real estate.
 
 =item B<How far exactly is The Computer Science School from the city centre
 and what public transport is available?>
 
+It is not at walking distance, around 10 minutes by taxi, and your mileage by public transport might vary, but not too much. There are three bus lines that stop close to it, two of them linked to the high-capacity bus line that goes through the city center every 2-3 minutes. However, in this bid it is only our fallback option in case attendance hovers around 250 or less (which probably will not happen).
 
 =item B<It looks like the attendees will be disappointed to find out that
 Wi-Fi in the venue does not allow SSH connection (or allow it for a
@@ -924,11 +926,16 @@ days before the conference, when you cannot change the venue. Even if
 you pre-order more than one venue, attendees must know the address
 well in advance so that they can book their hotels.>
 
+We will have a first approximation after the conference in Sofia, which will be our guide. At any rate, we will reserve the biggest one and should see the others only as fallback options, much cheaper, in case those target is not met. 
+
+Hotels will be pretty much the same anyways. The two first options are back to back, the third are a bit further away, but there are no hotels that cater to it specifically. In fact, the "official" hotel we have proposed is almost as far from one as from the other. 
 
 =item B<How much time are you going to reserve for the lunch breaks? Will 60
 minutes be enough or you need 90? 300+ people is a big crowd and even
 if it is distributed between a few pubs, it is difficult to serve all
 of them fast enough.>
+
+The usual 2 hours in Spain. Our experience, however, telles us that it is no tso difficult.
 
 
 =item B<How difficult is serving lunches inside the venues and why you
@@ -938,25 +945,34 @@ consider it an alternative option, not the main one?>
 =item B<The conference theme you choose, "The Art of Perl", was already the
 theme of the YAPC::Europe in 2000.>
 
+Do you mean that the art of Perl was over in 2000? We do like the topic, and if possible, we would like to keep it. Maybe changing it a bit to "Art as engineering, egineering as art", or much better, Art ~~ Engineering.
 
 =item B<Air tickets in the proposal are dated as "September 2013". Is it a
 typo or the prices are outdated?>
 
+Prices haven't changed much. But we'll check them anyway.
 
 =item B<Can you give a rough estimation of the total door-to-door travel time
 from a couple of European capitals outside Spain, including air and
 land segments, waiting time for connections and time to get from the
 airport to the train station, for example?>
 
+No. Because we would have to ask the local taxi/Uber/blablacardrivers how much would we have to pay from the door of some individual person in some place, and European Union regulations forbid that.
+
+However, we will provide an estimation of airport-to-hotel in Granada cost. 
 
 =item B<Will you be able to provide a laptop for the speaker if he has none
 (rare but still possible case)?>
 
+Sure. Any of the places pre-selected have computers or laptops in every room, and the free software office always has 2-3 (recycled) laptops which we use for this kind of events. 
 
 =item B<When are you planning to start and finish the conference day?>
 
+In Spain times are usually 9 to 18-19, with around 2 hours in the middle for lunch and siesta. In principle, we will try to fit it to 9 to 18, but we will leave options open for light activity after 18 hours.
 
 =item B<In case of failure, will you submit your proposal next year?>
+
+Third's the charm, or so it's said. But, wait, is that a trick question?
 
 =back
 
