@@ -552,25 +552,36 @@ which can be also used as a hub to reach us, although it is not the
 cheapest or even the fastest way to get here (maybe cheaper if used as
 a connection).
 
-Some price for return tickets to Granada; these are for next September 2013.
+Some price for return tickets to Granada; these are for next September
+2014, and of course might vary for  September 2015. You would have to
+add L<3€ bus
+ticket|http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Federico-Garcia-Lorca-Granada-Jaen/es/Page/1237554498674//Transporte-publico.html>
+or around 30€ for a taxi ride. These are prices obtained using
+LastMinute.com, and to Granada itself. Going to Malaga would add
+around two hours and around 15E<euro> bus fare. 
 
 =over 4
 
-=item London: 246E<euro>
+=item London: lowest 226E<euro>, average around 275E<euro>. To Malaga: 128E<euro>.
 
-=item Paris: 227E<euro>
+=item Paris: lowest 206E<euro>, average around 300E<euro>. To Malaga: 137E<euro>.
 
-=item Rome: 271E<euro>
+=item Rome: lowest 226E<euro>, average around 260E<euro>. To Malaga:
+more or less the same. 
 
-=item Frankfurt: 364E<euro>
+=item Frankfurt: lowest 282E<euro>, average around 350E<euro>. To
+Malaga: 184E<euro>.
 
-=item Moscow: 505E<euro>
-
-=item Vienna: 326E<euro>
+=item Vienna: lowest 306E<euro>, average around 400E<euro>. To Malaga:
+lowest 169E<euro>.
 
 =back
 
-Most flights are in the 200-500E<euro> range. 
+Most flights are in the 200-400E<euro> range. After the MH17 incident,
+flights to Moscow have shot up to the stratosphere, so I have
+eliminated them. Flying to Malaga usually saves you some money,
+between 50 and 100E<euro> but in some cases it would add time to the
+trip (in most cases not, since it will be a direct flight).
 
 There are many more options to Malaga, which is a big airport, 
 including low-cost flights, but then you have to take a bus or 
