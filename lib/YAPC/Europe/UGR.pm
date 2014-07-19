@@ -976,7 +976,10 @@ Do you mean that the art of Perl was over in 2000? We do like the topic, and if 
 =item B<Air tickets in the proposal are dated as "September 2013". Is it a
 typo or the prices are outdated?>
 
-Prices haven't changed much. But we'll check them anyway.
+Prices haven't changed much, except for Moscow, which is to all
+effects unreachable (but the situation might change next year). I have
+updated prices and also added estimation of prices to Malaga, which
+are in most cases lower (except for Rome, for reasons we cannot fathom).
 
 =item B<Can you give a rough estimation of the total door-to-door travel time
 from a couple of European capitals outside Spain, including air and
