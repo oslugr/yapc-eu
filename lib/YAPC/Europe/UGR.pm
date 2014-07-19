@@ -163,18 +163,17 @@ previewed, in principle, but if needed a meeting room with access to
 the university network will be arranged.
 
 The IT services at the University of Granada provides an easy way to
-set up WiFi guest access (limited to HTTP/HTTPS). EduRoam is also
+set up WiFi guest access. EduRoam is also
 available for those coming from an academic environment and it works
 without a glitch. The network is able to support up to 5k devices
-concurrently. If absolutely necessary, we can supply a limited amount
-of IPs with all-port access, mainly for speakers; also some physical
+concurrently. If absolutely necessary, we can supply some physical
 Ethernet connections, which will have to be shared by all the
-attendees. 
+attendees.
 
 We will provide backups for audiovisual equipment just in case it
 breaks down in the middle of the talk. Any of the university campuses
 has fixed projectors, as well as a few portable ones that can be used
-if needed. 
+if needed.
 
 Regardless of the university campus we choose, we will set up a
 couple of additional rooms for organizational purposes, storage,
@@ -690,8 +689,10 @@ range of the prices that can be expected for different levels of
 accommodation. Can most attendees fit in one hotel? Is Internet access
 widely available in accommodations?>
 
-I<This is taken almost verbatim from L<CIG 2012 site|http://geneura.ugr.es/cig2012/acommodation.html>,
-which Antonio Mora organized too.>
+I<This is taken almost verbatim from L<CIG 2012
+site|http://geneura.ugr.es/cig2012/acommodation.html>, which Antonio
+Mora organized too.> Prices should not have varied too much, although
+they will post new prices starting Septembre 2014. 
 
 Granada is a city accustomed to a large touristic inflow, so its
 offers a huge number of accommodation options for all budgets. In
@@ -782,9 +783,10 @@ The assets are there, and it would be possible to record at least one
 of the tracks. That would be free for the conference, since the OSL is
 part of the IT dept of the university which includes the virtual
 department too. The ETSIIT includes also self-recording facilities in
-some classes, which we could use for some tracks. However, this is
+some classes, which we could use for some tracks (but this is not
+available in our preferred venue, Facultad de Ciencias). However, this is
 additional work and/or cost, so except for keynotes no plans to do any
-recording have been made. 
+recording have been made.
 
 =item B<Are any social events planned, other than the partner's program?>
 
@@ -849,15 +851,15 @@ The usual four months before the conference.
 
 =item B<How many attendees do you expect?>
 
-As many as the other venues bidding for YAPC::EU. And then a bit more. 
+As many as the other venues bidding for YAPC::EU. And then a few more. 
 
 No, really. Granada is an attractive, history-laden city. In previous
 conferences we have organized, some attendees have mentioned the fact
 that they submitted papers to it because of the city. So attendance of
 around 400 people ("Expected" column in the budget) would be
 reasonable. But we have planned for any other scenario, including
-"Student invasion" (remember Granada is #1 Erasmus destination in
-Europe). 
+"Student invasion" (remember Granada is #1 Erasmus
+destination in Europe).
 
 =item B<Can you roughly estimate the portion of speakers (you mention 75 of
 them), early bird registrations, students, regular and business
@@ -918,6 +920,10 @@ It is not at walking distance, around 10 minutes by taxi, and your mileage by pu
 Wi-Fi in the venue does not allow SSH connection (or allow it for a
 limited number of connections). Is there a chance to change this?>
 
+In fact we recently discovered that guest accounts do have access to a
+reasonable amount of ports. We have changed the proposal to reflect
+this. 
+
 
 =item B<You say that if there will be less than 250 attendees, you might
 choose a different venue? It sounds impossible to implement, as you
@@ -928,7 +934,7 @@ well in advance so that they can book their hotels.>
 
 We will have a first approximation after the conference in Sofia, which will be our guide. At any rate, we will reserve the biggest one and should see the others only as fallback options, much cheaper, in case those target is not met. 
 
-Hotels will be pretty much the same anyways. The two first options are back to back, the third are a bit further away, but there are no hotels that cater to it specifically. In fact, the "official" hotel we have proposed is almost as far from one as from the other. 
+Hotels will be pretty much the same ones in any case. The two first options are back to back, the third are a bit further away, but there are no hotels that cater to it specifically. In fact, the "official" hotel we have proposed is almost as far from one as from the other. 
 
 =item B<How much time are you going to reserve for the lunch breaks? Will 60
 minutes be enough or you need 90? 300+ people is a big crowd and even
@@ -940,6 +946,15 @@ The usual 2 hours in Spain. Our experience, however, tells us that it is no too 
 
 =item B<How difficult is serving lunches inside the venues and why you
 consider it an alternative option, not the main one?>
+
+Serving lunches in the venue should have to be buffet style, since
+there is not sitting space in the cafeteria. A zone of the main hall
+would have to be cordoned off to serve food and food would have to be
+brought by a catering service from outside. This would all add to the
+cost (since we would have to pay for the space, food and service) and
+we would have international buffet-style food instead of the
+quintessential tapas experience.  Not a big deal doing it if
+absolutely required, only the budget would have to be up a bit. 
 
 
 =item B<The conference theme you choose, "The Art of Perl", was already the
