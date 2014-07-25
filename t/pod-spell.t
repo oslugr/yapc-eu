@@ -199,6 +199,8 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  JENUI2008
  software
  NAQ
+ MH
+ LastMinute
 EOI
 
 local $ENV{LC_ALL} = 'C';

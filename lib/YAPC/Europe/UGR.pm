@@ -7,7 +7,7 @@ use feature qw(say switch);
 use experimental qw(smartmatch);
 
 use version;
-our $VERSION = qv('0.2.3'); #Saturday satisfaction
+our $VERSION = qv('0.3.0'); #Friday final
 
 use Exporter qw(import);
 our @EXPORT_OK = qw(pick_best_venue);
@@ -554,9 +554,9 @@ a connection).
 
 Some price for return tickets to Granada; these are for next September
 2014, and of course might vary for  September 2015. You would have to
-add L<3€ bus
+add 3L<euro> bus
 ticket|http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Federico-Garcia-Lorca-Granada-Jaen/es/Page/1237554498674//Transporte-publico.html>
-or around 30€ for a taxi ride. These are prices obtained using
+or around 30L<euro> for a taxi ride. These are prices obtained using
 LastMinute.com, and to Granada itself. Going to Malaga would add
 around two hours and around 15E<euro> bus fare. 
 
@@ -703,7 +703,7 @@ widely available in accommodations?>
 I<This is taken almost verbatim from L<CIG 2012
 site|http://geneura.ugr.es/cig2012/acommodation.html>, which Antonio
 Mora organized too.> Prices should not have varied too much, although
-they will post new prices starting Septembre 2014. 
+they will post new prices starting September 2014. 
 
 Granada is a city accustomed to a large touristic inflow, so its
 offers a huge number of accommodation options for all budgets. In
