@@ -201,6 +201,12 @@ my @ignore = (<<EOI =~ /^\s*(.*)\s*$/mg);
  NAQ
  MH
  LastMinute
+ LastMinute.com
+ MH17
+ SSH
+ haven't
+ laptop
+ laptops
 EOI
 
 local $ENV{LC_ALL} = 'C';

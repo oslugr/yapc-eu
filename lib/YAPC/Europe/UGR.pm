@@ -7,7 +7,7 @@ use feature qw(say switch);
 use experimental qw(smartmatch);
 
 use version;
-our $VERSION = qv('0.3.0'); #Friday final
+our $VERSION = qv('0.9.1'); #Release candidate 2, Sunny Sunday 
 
 use Exporter qw(import);
 our @EXPORT_OK = qw(pick_best_venue);
@@ -43,6 +43,8 @@ YAPC::Europe::UGR - University of Granada proposal for YAPC::EU 2015
 
 
 =head1 DESCRIPTION
+
+This is the proposal presented for hosting YAPC::Europe 2015, which will be in Granada in 2015. What follows is the final version of the proposal. Feel free to re-use it under the same terms that Perl itself. While we set everything up, this is a hint on what awaits us in YAPC::Europe 2015.
 
 The L<OSL|http://osl.ugr.es> (Oficina de Software Libre, Free Software
 Office in Spanish) at the University of Granada with the support of
