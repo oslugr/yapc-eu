@@ -7,6 +7,7 @@ WriteMakefile(
     AUTHOR              => 'UGR + Barcelona.pm + Madrid.pm',
     VERSION_FROM        => 'lib/YAPC/Europe/UGR.pm',
     ABSTRACT_FROM       => 'lib/YAPC/Europe/UGR.pm',
+    # LICENSE             => '',
     # PL_FILES            => {},
     PREREQ_PM => {
         'Test::More' => 0,
@@ -19,6 +20,17 @@ WriteMakefile(
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'YAPC-Europe-UGR*' },
+    (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
+    'meta-spec' => { version => 2 },
+     resources => {
+         repository => {
+             type => 'git',
+             url  => 'https://github.com/oslugr/yapc-eu.git',
+             web  => 'https://github.com/oslugr/yapc-eu',
+         },
+     }})
+     : ()
+),
 );
 
 sub MY::postamble {
