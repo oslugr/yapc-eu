@@ -1,5 +1,6 @@
 package YAPC::Europe::UGR;
 
+use utf8;
 use warnings;
 use strict;
 
