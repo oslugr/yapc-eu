@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/oslugr/yapc-eu.svg?branch=master)](https://travis-ci.org/oslugr/yapc-eu)
+
 yapc-eu
 =======
 
